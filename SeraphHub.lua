@@ -1,1 +1,1901 @@
---[[ v1.0.0 https://wearedevs.net/obfuscator ]] return(function(...)local E={"7ESWMJd==iu<Q;d]c3\\>";"7adBhd7Z";"7SCP[Y^MP0";"7Y;l#";"7AAUCIjI?7<5sq\'8ak";"7jGD\\Ca\\#igS@+7H<A","74p-aX","7-*9c","7Q8ci-!gK","7FH<9K";"7ruN^","7]M$ut*?G\'riH","77iUX","7Du=ri+-=D";"7\\(;84nAH<a","7LHY;O^\\jr-";"7s1?Js";"7*;^VVL/2),/mD","7BGbPK\"cuG%*1<G0\\h";"7Fu*aNGG-00\"?ihuLA0Ce","7mMc0";"7Bl2Zi,&H";"7:<Jg9d<LNidc","7+ch(KMdL*o`d<#/?SL9eMOq(f+m73V)jIj5D*7,";"70\'474";"7,ji69,BNO?,9aI!";"7LDkTK&,nJ","7I=<\\f";"7PT?E-,o`HX72tKkSb";"7(?\\j";"7j^%9\\H;4D_DLiY\"MdX]a/djAV&&?%63[obj8.edB3\'l`Xe&n9S)*V<q;#I5/S%+KRkQ-r`hfp-lnQiin%2Ms4NX@=#Cs:FTKdajs\"jNMuk\"S&?","7PaA7\"<.FP\\oE(Ys7Cu";"7B[t%/^ui?";"7&sMY$\'J[K!0X","7=G%*)","7V59!d9Xt+p","7oH^c?Ab0","7&99]Y8_%r?1TO<T";"7!IUprpU%CEa7N.%<iju4","7Y<J7gI6>l:\\h";"7!`jS&N#<,","7@G!S";"7\\R)SQK0";"7(@--Us:0c`%]/j0","7oC$Y]","7[KWkW[j*>I4V>tRh65l0[l\"L^_1u";"78M1ssYU%f";"7A\\K\'2\\q]#In<X","7eVVc/nm;jc","7\\1o7>";"7dY.>P","7UB>-6:Zo4Q","7I$KjN\\<-\"npcG)90(it.f]Tm5_nR";"7i(PWPFJU[>";"7F@te\"WQ0m","7+U\'kuK/7","77&0ZiNkWn";"7,_pSPRC5m1YS","7e*XD7oKca";"7fp/\'FdMG95D6\\6OaF73";"76>0K4","72dFXXp[","7FtMi","7!8\'In@@5D&*g,K?A[";"7c5\'/s^b&4k","7]\'Oj#7f/aAn)","7^Tm*c";"7j&o7a";"7N./a","7?V-MS5:W>O","7\"PD\"dP`E]#Nt:ONA*","7SBgI>G\\78","7/tbEi`HIO\\jc","7d%\'TulIu";"7uSr@u6IWe/P=f;Y0)";"7@HAt";"7oq0\"\'AF\'H+aP1fRNs6";"7F8-HQ-*_I","7S?Z5.5m$;gkgL";"7Yh=R","7p_PKo","7](0rV","7Uoae,ugM/`V(C\"TZ33TL";"7lTF3S";"7j39!","7k%5c+CRF/.mr3";"7`\\(\"","7V5C0BjQIe";"7FM1ru","7s^^u8","7VZEf]#8]Y+","7jK\'7?j*a","7Puhj_","7.JGZU!0_&C\"4-_VM3Ai","7?-B2.\\HUt","7L3K,EDp*";"7*11#*";"7/I45?6cp","7_s7\"e:_@9","7\"UW^F-0]k";"77hr5g5.i<a*9kGdN&";"7N2Y)","7Cqf!p";"76ico?5V;";"7>?:?PCctL","7\"2?3WlnK-Q&1n","7LOli;tp?+=";"7ouea1j.ZdDJ?lc\"j/;R1","7;t]Wu";"7QBC2dL/)iK","7Im^2f!MLLDnjb","7U,2p","7kOh#/";"7U]^PV","78,8^>cAY*<(2.","7/f<?*PAAG+";"7IPtobOgn?*5$;","75F","7U!0gL#7TorhMW)","7.m8Y$","7.j\'22cAu>cE\\(LtRa4V+";"7\\b4#Q&;N0p#=NPfO6";"7YC6REVZm5a*a;ou0U+9","7f1@%^4YTd[";"7,^r?F&>\'`,m<0","7M=Dnb;k.\"6","7jhRWJ\\FLC/\'a7)p:W#";"76NQ.N4QlF@*l[<&+WU\\";"7N*C-";"7,kOH=!8;C.jHMq\"@c","7m%cg0SY#1HJ!7";"7%SE[96\"","7lq+L","7i8\"\"dZ-F";"7.T[0;@WE;Qd%Y89";"7EI6ejg8a5RsrD";"7#_?q#o8Q-g<2F","738i","7ln4[I\'m%b";"7F7-bD6o2951JdMbG@iAA*d5=\"nui","7!Zsl,@@cd\'N\'OOG@KB";"7!97s`\"N_","7b=bY","7>Qq1O+88","7JQHg+J0pp`&#VY0[;A8*g&,";"7\'+S1>N6Q.Zp*";"7K.?J";"7uJPE\\ui6dH";"71Zi=-WG]@luF8TUoqdACm(NX\'8a%W6rh+/l4&","7\"<\\%I","7$O6X72p0PS";"7N$\\IW<U(";"7$\'2>V","7IVDhVQ!a#n05BuC2F.","7=84RqfBC.ec@*";"7?\\U%","7CCaheN48!JDWT@#_`GNH";"72L`nP(rcb4%72N","7Rjp_","7\'l$0X<^+","7)?ippZOH.MngioIBTU,","7(W9Fqd9&+GZSQA/CWXLB";"7-n46B)gL","7S:BKf@4\'b";"7ecD,\\Hj/LjkD[i]Ag&ZL","7i7,9(RbP9\\._","7o?0#&*4l*";"7GS.=B\'N","7BkX#\"Pf\"7fDCaPdcrp","7S^/NV+I6H";"7pnF(u","7p,JaO]<#gF!_#c+f4;6gF3@qaI/f","79c(E@\"O^&L@c";"7ri6V0[?Ra+u=;N&$4lEg";"7W`[[VsDM","7&qGNg&ZV";"7Bt.d","7\'U8om@0g0:\\X(p@","7lWq;Ycje>d>ai","7eU%J7AK";"7c9\\)\'";"7/;dW","7`XT-K(lGZ","7f.oCroa<RpHE#cU@3p)t";"7r;j-F+N","7,9[>4BGf$$oJa.=\"sh4K\"q](N";"7WUU8uS,F","7+q_9Ubk3d\'onO<3mp2!5W)>`Z]NC","7pI`+kqMP,L.uG$0_Qclo5Q]ir1Fm","7eI#Ej26_l\';;j,&","7Bh\"t<A[","7A\'i(CSO;D\\\'U[ENGH";"7sN2Hm<CPsUeZ";"7;s_tak@ab[jVn$0G>>Qn";"7>u>1","7uC>:T","7A>(^eAK";"7BVXB@:]C";"7DH!p";"7fR>T@CfVe+\'.<9#.c#LV","7@B.R[LHOf7q*!NM","7DGOYjMIVNQFMq2&N\"#","7E21R/";"7tld<Vh6_)rL\"e;Sh9","7I>%+b\"ils","7ShPJkuI7CJ:J]";"7=RdUT)7","7>h,C";"7+DPN:OY:g","7*fDgk","7h\'b1Y","7L]!(iI\"7lH1Y6O","71qj\'a*9gN?*l*e]","7b8:c01X,t","7$/YeC,nkJpR\\8Y>t&aPL";"7A`?\\(:W:Oi7io?4";"7\\d2g):f1a5B2Q4N","7i<3%Y";"7\'RWTZ$/7l;B!(Ok#+";"7,(V5aH=\'(i*o]N$<:/7HF_n@hE^n","7di83";"7U]^0`\"U","76d0^0\\KC*";"7Hc%N^?75JJW/EIa";"7\\[5C2`P","7MYjm:kINe3\'Z","7@(k6","7<Q_u";"7)6skZ?tCC_b6B_k","7r6E0B1\\VJ";"7Ut&q","7Ok-a5+t]";"7Za>nt.?))ZjV86*_H=BE","75DPUVaEt_QPB/nL";"7%PD0Rf6:","7Ss@&!","7@6fW\\q9pUu[K";"71N`BK,dU%Tp9*/G","75sSO=7d1;hj[g%OP+";"7[uCd@$\'","7SI9%*!ge1e\\BjrV","7.t!Za";"7W>BJaq5V>","77&78dB;ss";"7>_[t","7*Aa#-ag/LM5EN8HB\'";"7A3<(>P%1","7QpDl","73<e1";"7/23r&","7Qd6^k`M_5?";"7`ojOGNp8\"N!\'8UClK";"7qYua","7sD/X\'5]4B]K-hfPoVcoZ-s%9e,<L","7W58V";"7N\"\'f15WVD;S6Q","709;)(i^\\A-raJ";"7YmN8N";"7/n.?]_(o6R=\\[)tNpIH#**J//0VJ","7,`4#ka$EZ[SGY56jh[";"7\'eCl9@`7]o";"7AAFI=]Jm";"7:87BL`;flI","7d0jF1b+RMi^5=";"77?I<OAd/","7u\"/=u5bZ;u","7\\S","7[MLMYO9\\-","7@)IB8^A:k","7]/>^M\\`9";"7EdVCu\"43(T45)i-sK]2.","7CMg/u393l)@[rjf";"7F.r%WC9@";"7i@Y@\\","7V$E7XgQsa.<A","7Uke0I";"7Ba<\\","7D5!g";"7Z2s:&o8u6(1>d=<3kRaR";"7:\\FqmSG3X?P<:","7nCR[0tf6ap`:n;jY:T";"7*tSnK2`h9eBb","7U]^W3B@FX";"7iot","7G6`J$\":N2";"7(;Ol";"7\\\\11";"7eB>*`gt;02s=H7SDLFo%`A0b2ocX";"7ZU;$5af\'J(pkq4a_)F","7Pt?di","70Af2t","7:8f]<QY^0a?qn";"7HlhAL4VZM";"7$?!58u_";"7@[<T[)rQC!BD(5c!F";"71TTEMI=5?ENU","7GT)b4:Dkn=P*_qK*[","7*3Gbn\"s;h";"72\'/C(\";o","71;V#5C/B^,iJH`2;E";"78P;IK";"7$(q^&k,68";"7.]/*W;$CD","7>m=Bur?I","7Pd!5","7h3`IU*Qi";"7Co0q:JeHj_3mGj<ML0";"7pk5>6N3KCZF=ACE";"7`^6$\'Kr&Bi";"7GCn^-K#i68Ig";"7S+FiZ\\(a_:\"s;ZT";"7<mhje@+,pa","7\\1B[?B\'";"7H2Dq";"7*l/I)PeM5%o#r#9";"79Vs!&65Ne&2%VruG*,>\"_[%#K3s@L4t0Cu>C(M`nNPHY";"7:L:^R<ZApm\"$*-aA3J","7*m,K]PP([@jc";"7*1s0u5W?Gs\"9&A\'\\S","70X";"7p\"M&[";"7b\"mS\"c(=#O";"75&i@dSB-;e3cc","7;s87sr=&U=";"7&Hl^sUlu?","7kZruobIF*qK!r\'+)3(0","74;#Ck\'0\'9@`qld%IZ7","7<`TuZOYLr8","7FiF]","7<$V[1","7Gnm&bn&","7U!KI<=>8";"7L\\m@@#$6R.","7`N>:=^ng]kc\\@";"7LX0<p%SI08bs1l2KQZ02ZgNFVOFgZA";"7*gJZ\\1Z-*j7[e*V","7_`6M","7GPRp","79f4t";"7eU05)";"78+-[";"7_oRXWli0*<7D;";"7+n#O!I\'","7W@W+up;%\\";"7@:PQZhU%","7N>Fj6\\1?f","7*3Gbn\"s;[","7JGK]";"7tQKCU_+sTLS\'";"7\\%+jtW<M<+=HA";"7]=ZRN","7qt5i";"7$#64=j\\qo=PaVJR7poPg","7AL\"CA";"7#NSGV>h,1KL3@>>J9F","7\\<B\"b%`u`aP![79M<";"7aA_if7,T^QoZqI)<sc";"7ncC1@8pK:7M!Vp";"7\'DbR\'c$h<I";"7f,Ha%fQPL";"7*1cSB((<><=p";"75cTe\"o,&sb;m;X:If[g3","7#DVc,I%C-K`+i#GtQMQ9";"7*K\\\'","7&pqW*;tc";"7h3f09JAaXE","7fbT2($\":760tU2N";"7U]^iF\\1o:Cj0sh";"7.Dje>aa,g";"7B5tkC","7UC1\"";"7ijb]5!7<ndGZN","7F*%fbCEUf*lm\"4/","7Y:Wp$@==u.","7g/tm","7133";"7uIHZHg$jER","7,;1L";"73Jd,X(t6lkLZuGPu*QF,","72+BI`OX$FU73(";"76!_Yd/;hfA","7pC8E->V_\\8Sg","78jt[eVq.SPfc</\\F9=a\'";"7PTKJ","7+X/HKo0+DeBK@]6>\'S)(";"7MN3TO","7F4D?>\\rU\'9<5L>7k5r5";"7[s<,W9Z@6M";"7);SIJN:-?5?0K4o=0;.f@k;D<FX<";"7)Ca<\"lCgeH7t\\";"7*mfFHVV!dR%=S:*)+";"7/*p:r?\"[[";"7($YAFbC&L","7R.8cd","7tC:$mB\\R6FP0>J&5s@Rn+5eh+NG!";"7,=g0W(Ee4U=mL^$/IV";"7_#83";"76J,M0=+\'tosoSu[=8XJpG+","7qh!70>5FW**>h/,q)T3LgR[IR3S.";"7`8S6YFl","78I%\\";"7.qo2ks9","7Ng2s67[gd.\\Bed[";"7A2T/","7/e\'Hu*:1@:4e6lF<\'QYI)$tC","7MS\",,-Lc";"7KX+]";"7Hk@d","7hc<&-","7=gKD3R8bfWrU3]TqCU";"7#2Z!AEsFsm]\\!","7SS0<njIIda@a=R\\Bb","7I7Y2cG7igMOh","7M64h[","7B.JI[Aq?5";"78q+Fhef)tKg7","7\'Sag","7g[r-!";"7Mul\',,OeKK";"785Dk","7dXe3]S\"r\".UO%\'L3,J%:n#,(>?IM";"7Q)3A`@nu*Gj<ncKCS1&DWsp>70nq";"7.N@l!5,&";"7(IAM.:]O!\'PGjf9";"7uK,?T/-U","7>qnmn";"7VD@jcQKEp\\","7!!;;b-1R6qV<%iI";"7VO;a:dS$>j";"7l\"D:40J#p&";"79,2f","7a&";"7oBBH?","7]23@`<\\I%XS;D]g4=\\";"77U>3ias+LA1ZCEta&";"7$jh?+K8N<YjR8Y","74\'=(2","7\\l9Egj4X","7Q^6E@M1dqP";"7N\"$XlGT*3=SLDQJ,:";"7\\/c\'5Bh0j_j!\\%Q","7h3.1>B*Ls","72)X*","78m#bI`#@stf0OLD7gl","74ua,","7>^(WCpq%";"7&WkB3","7un7J0BRpS-`25";"7);].";"7:CsA","7?.(PM&rJE75!D8Jg[Z\"^s^e";"7&eiRo9q\\g,js";"75Hf<Nc4B";"7l4m3+h/pq&","7RE-fjF\'#Z","7duN+JO!itc6\"","7%A1YMU?O";"7CdG.Z%#j";"7=?^r&$\'";"74oJl1";"7a9KaF\"t=Omj!*2&";"7>!Rjh","7o:h&V$>\"l@?kH";"7<^O;*FKn";"7?:AF.EV6F0\"*Ig^]N4\\";"7^>b&7<;::8c.,hZ\\9/","7S#8#.<Z4@L<###X","7;-I*I=p","7p>fWP\"E-(c7C(BF*[";"7h!6uq^$HFgoUt","7hBP%V";"7qS)/Ma5+W.";"7Sh;E","7Qt@i;R@m","7Ug9JD0&\'";"7Sn+#1ECgrMj7*Y;P:=a;";"77f/WZ","7M3bbsVc-CV5F","73YR8Pnl;","7]S>8H2=_";"7G3NGZnR0t;sTas@ds","7\'@_F6n:==","7ETJU","7k%>?d","7j./0iCgj\'","7GR`^(.jG";"7RZq.4+To\'0","7^V:Chp=)","70L./P","7`CKNM@[9AYe%kSlHG!fai,43p?/d","76:6u","7/Fag";"7lE3]PL\"S]:i\'I@2eB$dm","7pQIlqOkbh*2Fs?L9#Q`sdT[j8";"78l6X-g(b?";"7\\X*j1/$lc-1GW";"7\"C/Gh;4g(qf2>#sto[qW:BL0=SA<","7tY#KdIX$mK3)s41?RP","7pr^r","7+0M5D>c\"G2Ne4`";"7&F[]f","7IAK0FAT*ZBD#`qhQh";"7!W6$N]:sUf2\'u\\eA^@";"7cQ$!";"7Ast2C","7_C@n";"7IF=G^!1-h";"7j;@o<]Vl.T<#Pq","7GW]:";"75ql<37)s3k@KnYP:l","7j![$iSI12k\\`>4?";"7J\\JO=","7GAB$M&mW0]it_,J-jpNej)jg","79CJpF)S)3@.tV","7$3C\'U+dTulfZfB","7*5U#Z2*SBEkPn#)";"7nlt8SP3*_o@id3ELk";"7+@B--","7P=79)p=!U#b59_","7;U\\M8G5We97c1#GC)&n","7Q(?ggca#q6D1m","7p?/d@7bG?j","7Ss*;B#FN<","72<s(8@$daS","7Ra_98ZFdC","75ZtV(I/U4e";"7$c`G^\"2o7","7RIRPOdE","7oOG]t";"7AU*-","7!h2aiH\'DQ)UN","7?Y%)_5)Omo2mL8GRC[^S.KVRDq*&QFN$\"C3e;G!?O6b5I","7rg47DsS6oaOR\'l","7,W$;\"3ItL@:C_t]pH:fY,\'H-R`/5","7[J33\">;Ct;QG;";"7:bejd(dOt<?B","7tHaT>2!?";"7\\\"P#i!g+6\\Nqilo\\)8";"7;5T01","7BRD1F";"7.=&=e_M\'3";"7Gl?[","7!^U8h7h$8T*\'L5fPH";"7rg!%,1EC";"72hMTg";"7dD9t,/[Wd^S8<\"@A:?[<";"7<\'B5J";"7q\"6q0l$D0[DK";"7.Gue","7Yb[n>VB`-";"7-M^\"^g/*?DE=k9):CYk1dg@m%";"7Wk&;a<eY","78c^Yk`b","7Qq%g&aW>uKR^+B!+77eJ$rI";"7,uXEi\\j.#CGX5hVARj";"74k6JQ","7?\\W;r";"7S[^TVS?/";"77]Q\"-\\u6h,@GMV4\\S";"7g,n`[53_";"7F1nZ";"7W2e2","7=(FM2Q!3XX";"7dMr&gM\"9t*RQ!\"","7Bu!UdO6","7\\QG6C5E12,!qTGgGH";"7>[7\"%8D&o","7fZ$=!MOP","7NQk;+6WTA62/_btgb!","7s\"";"7=7)2pop\'Co:\'G%9-1c/l*`P+","7l<f[Y";"7?LK)^","7P*`hsP[X","7GM:d-MkRcj9:D";"7S:2GD)r(nBAoM+5*[";"7QCYfT","7\')7VO[2o4oeD","7\'Q],hc,n","7_ZlD=]$u-^?X^:QP+","7I()Ie;b&L4I-ibhWMp=F","77&+DWanpMG-2rp\'FI=j","7HQIn>%R5TuW=t";"7eorEsn4):?OqiK0:B*i+","7uS;Gn","7o%1b+htB","7aB3!1Y=6","7^T@Vfb&#t3@eps]jB*";"7Y3g(V,ikVdtB","77uZ2%","7YEE\'";"7JtO\'(<@0\"`-iT","7ZWtfC6.[nm]=blHIiP?TDK","7@GMJ\\)%.kJ5tCpF";"7pO\\*aql7","7\'aU,m,/gHn:L@&+@GJ";"74[a:6ri6C","7jlH&lL?-e^/4FAm";"70A1o7c:1e","7;h\\uuRa9*BM@Ygq$.)\\";"7H\'?`e:EU_(jQDk\"i\\hK.","7\\/c\'r1LdDT\"RR&m";"71HIR>";"7%oDS";"7\')RJgGmquh\\oa\\u*`m";"7#4%iFW!_$U3XT>g+!5";"7(D\".","7!*&\']adD";"76s2l*NV-q+HK]oJ";"7G$W@";"7lAe/OLB=";"7\'jgPtO)_%g:eJljc).]OBKJ)L`X#";"7:E0eES@U1a\"b$WnSYD";"7>:*G";"7^d]`A","7R$";"7\'aE98^G\"*";"7*l4\"C*3Ce\\\\B>$L\"&";"7!Ti7FYK;*k";"7qC_8)","7?9e\'#";"7porFG\'!!T,@-/LS";"7?\'$O.]hbU$.iah\\H/o@A","7h^;+S","7N\\JC.rTLd%*k.[tGGT","7\'eN#boJr$\\BhD94\\6";"7`GRa","7j0,Q";"7]06N>flEH7-\"=dk%HfO_";"7,9Om`7<Y%","7%YP@R6PD>cS>_k","7!^m;","7Ai_!89V_";"7A\'>Do\"E[+8\'e0Nd\"k","73:P&?JC3cWLX";"7:[n\"c)7PjQ";"7pBTJh:#RZ21N+V[)kJ";"7LG*KSarFRZkus(:s\"";"7?&\"SRgj1NoW_tNRWU","7R6buu[!c]-^c";"7N,;(?h&#D\'","7)4+aN=e5LqtmU";"7aqa\'-]*2&S.g`7*t_";"7]m(RsNX","7c;/\'_\"U&7duhZe^GY<<OldJ\"HOGu","7+16<0HD";"7qGOh","7j6bN?\"bhI;*l/n^!F","7nl(<5A5Hq","7i@$;XG3J&9WX","7g:M7IDmD\'";"7j,\\4=AYk","7\\f`O<";"7oc<RcPT5G%as>\';";"7CD3h+WDY52/46","79kVpX9h?eRHI>j@d(S";"7VcZm6ek^.,";"7PM&A(s6`Ld4%u5*";"7&X%,^!hlqHu+S";"7UWK<#]1$!","7Z`nu","7[i.h+?XVi]";"7+jR3dZKZsEStYNDRc:","7=E5Fl.Ref0Q^*","7Bl1t<(E+Z9","7HL0ZLJ2e^*Ua6R>Wa+/?";"7hD9<,";"73I:L;g#/-\"5B8j;qqfTcH\"\"`F2BP";"7q$nql";"7p[-8XH/`[gjPj?u";"72,A?:rA","7D4TgOM)gW","7m@l=N";"7!gg>9N<WqX5PKeN1gb","7D5+Ro+kDke","7!Gh)lpa:?RI\'_","72mFm1FR-";"70!;mc\"X";"7A%!Za";"7*R%0_!sn;%o7U%^A*","7<@\"/t";"7A>**f1F","79u^Ots-cR54b2K%0)E;","79Ij4>Z(PiJ";"7t$)gB(f]","7;-$\"!^e-\"s4T?";"7,fbt!uG-8";"7Lt`Ct6)(H\'6+t";"7$cACYLbpg]C=fd","7:h1(/","7U\'rTpL(3I*DbO_blkGe%18`=,pgns2","7e!\\!=#Z0","7sR3e;Z[";"7F^_\'s2kS>uL6)","7qjR^(f-!sJ","7@4\'R,1tLVkAb0";"7erbQB+fD","7%F]1";"71Q<L";"7O3@NG=p,","7_/HoL7M44_t+pgX]H:","7]CQiI]FZ%V+b98m/\"h>J","7H\'GC","7,%@,5oJaoha\\,J`";"7A2$#4","7=hpY";"7\'hCY","7L&A\\14[lS";"7G([&$OC?","7qP";"75\'r#;1Le,NSN*/&";"7VK`s","7Cc\",O";"7Z_I*","7N=\",oV9L0X?siMp5]7s!";"7\'!5`G5MHtY:5[NI";"7H*HG(FVBLi+p\"Zn";"7iE[ajc6=b","7^Y\"_#ZtT^^Q0,";"7\\5Mpj0&";"7uK\\,TVV`pVuZo`jP4&mg:lRF-2\"b2!3.\'/","7@0+QZ@0+fQ\\j<nV1L=,;7i?5#AK";"7q`KL..nBY*e0jPn^U>";"7<Q#qqdJ.u]HR1<(-T.BCKi]af#mJ","75L/UUNbYAW!5S=i","7uC59r)gu\'";"7Ag6&5\\S","7BG&#K:+NTg*\"\'k/";"7r1h]*_b","787\\L8","7?aK%Pa],";"7j2<>@:sP.e@a#PG";"7l`ldTS+P","7\'Yhq1:18E1(jr-]kc<R","7^V/.c\'2jPC93d@]JQfbq";"7C7<.","7l@iX\"#RJ+(ds";"7YF@PHuZ<";"7gsib","7A;4#b","7spC`/rGM","7S8S<WU.J<X:(kU9V[[iEDu:20","7qQf\'K8i@&Y","7Y177-","7fhWRlY\'Hpu]S","7h&Gis:A#","7b+h]!@<","710UUi9Mce";"7\\kIi]5JG";"7]-.EuJRNR5VF";"7r=hcl";"7)iS,L0[!2";"77>4d5;\"$q";"7@4\'RjBh\"mMj4)","7ukqi","7^U)+","71g6r`A\'X3)*_d(+","73\"B*d","7\"B8o.";"784j\\0OdE","7]jYFr??t","7a`_\"2;S@2Gk/U";"7c7;.:L6T<&ak","7eCV<M>+,pCrXjY,EhA?/";"7u=`^pPP)";"7NTB^et)#te,1L";"7\"Ie4D?9-";"7^c:FI1kJTT%<";"7c!Ki","7A[";"7gX%\'<";"7\"p\'T33du";"7J.Gkp\\hQJs";"7@4gl8\\Id?\\`g","7Y531C`mNnSLj:c)cXSR\'";"7jahdpj2IR0A\"6;H","7uujp4d5kCcpBZTJ_Y_b<HN","7,$n_";"71BW3=","7C!0uM:eHIf-[";"77X;E";"7%*k_F<\"N(V3b%oDVF";"7^aIN\'/7S%X";"7lU]\"<\"a*MB","7:Gq:i\"b2Ln\'CV#ja9E","7G_s\\Dn$>$U";"7lNJc0?HfNF";"7lX=i!","7hb_LN$O\'4M","7C<ZQ","7i]\'Q&Z4<W/Wk";"7:@;";"7V:3ZjsSr","7SGZ9b<H/at:E1Vg*K";"7@C`ON`FWr)tmG#GUZQc0","7K\'eSXG-ruSco>2)";"7\'Lg\"";"7(](pN/MG`\"rl","7>r:ZoO.9l!BkF";"7=`LA>>l\'\'";"7UgH&:]=_`6SA7!ZLs60(";"7p[5.BI\'","7,bn\'-%fr";"7ijj-qJD:E$2E.fLY,g\'\'";"7bO-._Qh";"7F7IK9)=kF*U>N5p6=)Q";"77f2h","7[\"p6&&)h";"7pP*WGP-q<=PKcN07k&";"75tYsKqIuff#4V`*)OF7]","7&&YMt_a0P&?&God.o^";"7]UTJ4e&:qMg+2","7_B>bXL:b`Vgqm";"7\"TX^NSVKPUuKX";"73dFm][\\dMD[&Ph8gRtZG$\'";"70J&&c","7:9^m,Sf4mS";"7dujCRt<9M([[","73;3@g<H]sVk2@SPf_Z4","7C>cR0RNS.j0abH@Sa!U1/<uRXff@";"7PipCC!p/IsA/l=C!_";"7N+MHlH%,Pc[X[!T$&$gE";"7sXhU";"7epI-)";"7LWD*/";"7L&\'Dp/T!HV\'kie?fmt&ZP\'3<3KGS","7V?_\'JEF^";"743lg]N>^","7!1X%\"0m`^BcM2r8&1?8#`hc5hbaO","7I4L\\","7bW18]#R`m","7_>lp?lq8","7:+n$PjDK`j<p^Jjb7cLk","71CXH\\3[ODK";"7]!H8\\?pnI9HQ*#","75_gGk&W3>3FtY+[;CmZZV?4h4b(^";"7:jHZ9FkQ";"7Y0\\&Qn:D","76dZ";"7IJ2Zp_JuHoQ_1:$EsuI","7&5_\\\"SN!la","7Jjt.#6m`j_Bb";"7g\'W`r7a.2&&#[l_","7r4Q*%","7RJtHpoQ4C0!6S\"jp*","7q.+CJ","7((-#nV1YOZn$84.S>7";"77?Qd]\'CnW$oO\\G^";"7,&_&FA`6dMAl\\4m","7\'?Pl*";"7!^P&";"7-c>\\BNX";"7i<9c0";"7&aGkG";"7WB`,i?\\ZXXsD^o5GQ?j";"7e(:j9","7eAC,I8oM?nE6jVlp9c";"7c5Q1i","7)<D&","7Q<GP*?PX.*I<%UKA[";"7qS.$4u$_its)W1=(%L","7`cF6s&R-)7B\'","7/H%Q.0>Qs*A_#e";"7(aQ]";"7cTiC%oA","7\\\"H_)\"M@rm","74`XkE/cEo";"7AX&<2";"7\\KF*a","7pq6ClK<@";"7\\N912\"-.:e=A,-VWR<:_L]Lefa(#";"7HkK&ulj`c>";"7)e+Hc?:C";"7f7V11","7?UdWr84f7ZNl4","7nXU=G";"7qSQ3</EI]\\qJl+i","7Pka\\Fp\'^E)S7BPH";"7\\;*(3[#NaYoA";"71B2O%u=U<0W;-qG$iE%_";"7^FH(";"7\"fOQB*@!\"ui@1";"7>M9uq6$HNOB<M-";"7Pdi_U\"s6l<Sh@UKak","7j>qn3ad%q+&_U\'PjbV\"","7.M\"$+n&","7An[,/JY`H","7ZfUh<WPnFca_!`/=^9";"7$9;er";"7]>7NpU_a/l.g3TR5B5","7mef6M";"7,e`9pbH27TP9JT8,5`\"","71D*lf\\(9P!\"$_";"7_CmD&";"7.Aa)^ZK8JVp:\"^U$X$","7KL\"3M\'DEr;";"7E3Bnr*,T(o+pA=hF\\J";"7G<CJ2l.gA2eM(.Pn7-";"7qV3sR;T?\'^2aj\\?ML]`m","7I<QG142oL4ZM,]D6\"";"7eZJQAflXA*;:8dIEt;@";"7elm8.gd,>NoB$Cl","7qHuY!1`:Zq\'7X%PiH";"7@0+QZ@0+fQ\\j<nV1L(","7!g+l;,_\\7%j@Thg","7o=[-WK9-3cu]\"*+^aJ_S";"7i^.O!;csQifin","71M5lX:A";"7!5\'qO@*Nm;Nq3DH1$C";"7e!,E6";"7arVX","7P\\MooJ$;","7O3q5";"7[e#/s";"7@4\'R,1tLVkAuJ/s\"(4X\\AQl^CBhj","725<\'<g8mZXOI\'Ye:48n1","7r(J?qBm-","7dkoaqtFIE","7VS\'r/$O=E_0h5l)";"7<UJTJ1]XBLb(M(";"7VLo(9EYaa";"71!)j7\"R<DLC)Zqi:A";"7S3P/","7FGU-Z@s:d","7uJXA;","7URU9-_7NoTYH%B","7iQ]t\'dBSH+eQ[`Xk<#?sF\"","7$q7-6HJ4G`%fbS\\/o","7/U*1A/F";"7DUR3Kt?&[t?=PCWWnP","7+lGr!I=B2atiZCl%<","7:Eu[4j;[nkj!nU)";"784e)J";"7!WO&7a(R&s@432@";"7\'lqNT2Y?82=OXQupeMn";"7f\"=\"iurlEe";"7>FQE-$,d^n";"7(:kH%IHB=on)";"7,/gs3@[p*@o#\":2","7Zs(p","77VX=#ND&b$,:";"7e%>[U";"7q@1s";"7Q24L;%l0\'";"7;rqQ(.F","7G`5UWFoupH";"7QnEfq:@8&@DP_";"7Oc:f<";"7#:-eZs2<Bb\"eo2%","7:,J_7";"7o7P(";"7)HP2\'?sSEk(*","7#BAk/uUlc","7cb5;";"7G8Fo","7AVD],iX_7XKN/\'#>A%N;";"7BO5cuABc!!)%!Zj\'N";"7;$&s0Kp4Aj@s";"7J>!D";"77B^5m","7;b,lIF,\'-pW8QsijToQ>+@4*cR>b\"l5<_t$C1A]SQ#jL,Iu$;_A67$_%LM0Mo*(XSkN64<!-\"P6$Z^&26.o-MFAlT\'*,ghQWV>W+";"7rtA;\'\'W7\";-&0)6J>N";"7CG9+","7H[is2[Ko/","7&ZIiS,Nr:k)Fc";"7\'4KIc";"70J8pi*2Z+5","7cO)&uaU","7W0nO2M`f";"7)5sX,u3<fbd0?]5e`5f,";"73EHa(CXf\\b6?Y^44Qt";"7\',dH","70Q8IG[YW,l","7dou^#+.$]A";"7.cHU<";"7-OGg47jDt*WfaW8J4\\F&";"7tlE@o4%Ya";"7A\'WCU%)$\\#69","79WCu\\,e:;","72$l84d_0e#rK@1\\";"7G>pi1";"7\"\"3pA*=*j]SH?CZ";"7qinb=`@sip,h";"7*?aglUb1A!","7Z-kJI$%i","71pb6gGVHpXu/,c1(d5","7C-qN5Fc=";"7/e\'7KPS]=";"7#s?Lu4i?";"77Z";"7ee\'6B&6q\\3&d\"","7WI\"0_5%CE_%s%O";"7Aj<V3KM7Lu5[ok\'^L!?>[E4bU<<:";"7eAeS","7IM+Z1;KnhTVSM+9%rW]AKT^%f>sJ","7Q20KI","7DM@;)","7l[seD";"7j2<\\E1$+tra\\35h\"X";"7PBLWa\\9i#TB\'";"7(I-3u9\"I-)O>@","7\'N";"7fGV/0?F";"7\"MMYC","7^a@(Y\'&NZK","70aJUJJ0@<s89J";"77&7R&A`R";"7\"=YC";"7@.B)","7uT1LIYZjdUCUoiP","7!R#T9";"7H@SW\"02D","71D(DVNM?sMS2LM\'NU";"7el%_7";"71P:7Ha\'jploJV?[","7<LWBN","7R,SZp2[C,a*p@`*;E","7Mr*5","7@qY9OoTUN$7aDeL_=","7H/+F,\'i*","7A3_7.,r_^$\'CF&7";"75<K&=Q]kWH,\\LtI+Jf\"6","7\"/%WQ]Xe","7ErnD";"7(Xt/o)J6WB7T%4";"78^a`","7aYV(a<d2q","7clrg.+\'Q\'ZU$3^g";"7*mNn+g5*O","75<q9N1JeBnLK*..j[rp7&LrqZt70","7bD;t-tm+","77(PqSNM\\IUoo6","78)JZt1ik2t";"7eYcD-\'j)NNQ/\\SD(\'sR","7@2d3i\\e35qNq)FZ","7A_:jVW:+","7kCn\\3";"7\\(9P!\"$_","7@hf_a","7eMpm5\'0!(_7@W";"7d!e1Kd-n","77T?u#\"s<\'/jK4";"7@K9?MjIE\\.\\r!J\\:9";"7W?Rl8/63Vk","7GDtaib0O";"7B7Ka_2@&I","7Z]db";"7R`(me2lNrY";"7leA/","7hA";"7E\\jM9b)1cA";"7&2^LJ`0>HXDj`\\","7-MdQ5;%jBMMuo";"7If\",3RMf_%Ql4YFh2A","7b8u6>8*W#";"7RHK4eBp?";"7iR4G\'","7A-u1HWVNVj:!b\'Kc>M","7I\'@qqg+","7u6uY7";"7$3c;t/kc=s/52@G(CXF9","7?/R*h,\'l0KP\\S";"7qh:M@";"7@NPsH";"7iFZbN!_";"7_B!,T9W`","7:ZM`$pT::X$[o","7GK4UBr)&4cla","7WOn;?222","7Zr8kq>I+\"Y/\\l4g2e@o\",<=7i","74@aqCgUS>)Ijd5b","7eH**pfK9IO@rua$;c";"7PcVI^9F`","7FIa,?MWR$ZPVAPW","7O<=V.","7EXQXuS(o";"7\"50?;","7h9";"7Ht-8L9<j[-5d14W-D?n";"7U,Kg-","7:#o:Kd>T";"7&_Q,\\/mc)\"tTW3i@QF(fkl^5+Da";"7,/gs3";"7S_G<","7Bb";"7`d_Z1","7_hjh*","78`T\"p$/\\W4I)&","7Sa4:U","7lh#eaMf4I5^)I","79XTpE";"7^B03*";"7@4\'R5BhWUf\"^R<2\\A@";"713i","7*[";"7\\Ed,;Z\\$.IO4\"l";"7!]o.>WX","7*S\\O/\\S>i";"7BQOAcYl$Zj%\\i";"7\'n+_f(K";"7eAF?kU*^b;[N6","7DTt8[.jP[","7AQlDK\"sk";"7V-bg9","7<9","7\\A+_&n0%PK&Hh","7<Drl9,nuZUo+fUZ\"t\"","7<!_Fs","7Wc6hrRE","7IX0#?7WWR\\Y6";"7@aR73";"7+V[1\"FgI=";"77\\ncHL)","704nolCiX1.gb5","7\"Srh";"7e\"n!]pqM";"7#^Hna","7+tN\'","7uS@Xs?abUW";"7p]5T?r>j45oI?)!+rCGWbiD";"7)G,^EJUCm/(LZ","7YdkmdoYLtXhB:";"7/3R%1gbZ)k^/F","7a\'QL6^q[SalEnXh\"U","7R>>`6]aHUrU]<5-V4=";"7aMi_$5DRVfGXK9M";"7>`9TO";"75d\"6hn!9*","7@kWP&";"77fCG";"7,jHVQPX@^SP`a,]","7\"4Md6u:Go:SW^;";"7!RqN`,AB!#A>LfrjE";"7<ZJ<X\"A\"IC]L[k/s\'!fq";"7]<Gk%&SkU-F)u@]<(&J%565lT","7<?*>";"7\',WpQ%1#D\'*L>6\\/Ga";"7L;o74.o","7u]o`/68P6","7si?SQ8B+","7*[>)I<9Ib";"7deX+7N@etJfT,M,";"7S9)OJBPHff";"7!Dtb1C05p5B*@[KVNNp[","7L>R0";"7kibO%fsj()hq=:ER%#:A<8<ArrP.";"7fK\'k-ksU";"7/%m!7","7R9@.Ql@0<";"7k=4gEWX";"7c*nbp[Zk","7U2I$n","7+^pJ(Q:Yrk";"739bC-sFM=pjc";"77C+SkNPdJVtB","7nX","7p:G-Z(W]7/bQu5rr`)b90%$-i";"7+4ZMcBA_-RuZi6$72rQG","72rD/)3eju/_b";"7S\"\'_sN\"&D5\"q\\b0UKe","7ChZDCdAh)b!oc^=83iW","7H^9.7r+k[lo![\\D98LK";"73$*)40Y0BnISM?;MMmQUMGGm_IfN";"7\"5XrFc=q^7jQ#M!gH";"7)JJ-E!/_U";"7MV)%b","7oGW/-j4i";"7\\<s)Sss$+)9kk1QaH[m/@Q8c)f-I";"7\\*kD!d!,-$","7\">d9tS+62<\"3#5uA/V";"7qoL/";"7tQH#";"7ka]Q";"7Ocq:]Mk`","7j]prg","7*11#*5_","7k=XkYnb&";"7F(6r+9X","7_%T@D";"7s_J)Dn(ee","7&YW\\_,O@","7C]EIq\"gZq`%EE\'51*e";"7`3Y9\"^E","7kP7`7A819lbM*<O";"7n\\3,>3@HR4q0n$&\'3rFiK*p","7MDY0/4M;I";"7Cua=";"7/9Rh3pK";"7e3M!k4=4jb3ipk[","7;kRM";"7J?D$","72?pP","7p_lDXN\"RUt*(OAH<La","7?cl;","7#G7T=sCkY8k+","7ia%,W%7m";"7q+,2;ct+Y&","7S.BREe.j","7L1p,OC-tE9&(\\","7u/I5qFRhX","7<&;G";"7BWq/_1<g>&1sAl!PH";"7)oO#s+nPg/Z*%,0(L2)U","7P[,32-o9DAar.3u=6%O";"7pdb!3MYR1";"7,Z_@e","7\\\"HGoA3hA/";"7nB_a2";"7LV(9X&QW2tOted?]$Xs7","7>9JhQ,Du","7L97MImN&E";"7K*d0\"I.CA!","7dK&h:RkVh","7@,MR*La==_Z*X=j","7e!_G","7!>(55S&0","7MO..D","7Mf%[<)\\SmVcWUeLR<IKLH:67tDVU","7CJMS(<)j","7p=$29B+Dq\\1b-J:","7:.`!$$g";"7[*VjoCep5Fut#Z\\id\"a","7\"9X<sanB";"7==h6h?%$Y";"74F;spnH-","7&6%\"1^eO";"7:8Qi)0k%)\"Ea)%OZ&I";"75R&/0aMO&HjSuK0NX","7VVX;b(*";"7!\"4))>:n";"7[[joht+n";"7#6lA47G0U";"72-s*/Ed&6";"7E\\iJ&#nH%N!(oT&Uk:";"7MpD:/$>FF","7gY,m\\ShO";"7fNboG6f_a+*\\`$6Ak$B@BJH5SMqm","7uI$bY","75qDeZo#9:`*_$ok5F","7Gu#a`%Nh(0F9","7^M@d+*@.";"7*NGhM^ol","7*H1)A58&[&*l\'_(giZTW";"7Aoe8@jh^`b\"M3Yn5qM";"7ohT6\"i0,mY\\1g","7,-=li+/(6=aL!]OtB";"7c;Jdm,Tis7\'<a#)gH;";"7*h>#h[O\"";"7!$*&eP[G";"7\"LqHn<l7d[5A&6U7Z","7jC0#k";"7pAF.-o;91>)_^Lo";"7\"KClYITH","7RXa1Q";"7h4@.q","76b<pH","7/GuH","7KgYj@u*8%";"7hpgK24nZ\"ICL@8U01;_";"7KC4n_jce","7t*$1u7N@M\'802";"7MNS!Y1_IB-H%mWH,:","7PIAc*N25F]3i$","7Q#Cb(e`E";"7)XK?p:l","78@]`_17:&S>B9CERtJ#GFs&";"7K8BLf@FgW6","7)+`hsLX&?/rFK1:Bm>4Y`hh\'H%rh","7CWX9";"73drZaPI47iS\'";"7u[lst*b!S0";"7)ehuj","7aRa\'*nW(\'djQYrHPZ8\\L#_#FX8A1";"74t)*C";"7,9E-EqO\":pDa","7C[IPB`adN9J&`2LYOY","7fD_?SiJh[*CJ1gJ)_m";"7gViTI";"7R8PXQ69","7?cn?3)N83kWU";"7@4\'Ro\\/cBJo+`<e\"^^747e%*Ljs";"7%jgU";"7</LopS\'","7\\\"Ocf7CalR5g9do7D","7nI%cLo6&N4","7+fD+sfXEK=p.uPI=rDZ","7!ZYT";"7\"IejhhA";"7;Z!9a","7oo#0M<UOsdOam)aD#)cN","7_`c2","7ngKs&g3Sc&","7oTSBm444";"7Q,0--dc","74$FN,Rs";"7%2bU";"7:0>9#),c2^4NpUV[PrA";"7tW4!$oZK;IRIBVRGJ:Fh","7^guq&\"rpZn>lkFl9\"n";"7S$SNq";"7kT/?F`u@DppK";"7V:N[";"7#i_]=e45","7N4*HeNC]Bbt[*3d?V^d`";"76l","79n\"1Q","71)Hb","7tBF\\6Mn;#*";"7V>HZ";"7$ghY>ii#","7VcXNFd59\\c","7a<L>g";"7AZ2A#bD","7\"\",.J1\'gXQ!^saj1\'N","7dhb^c";"7W1&J/Sf0";"7%V*]a:-$";"7O1HS?&2VpbI/HI*g7","7nXSH^QGDC+*\'?k1Z-7gD";"7dAK2l/fL28:Q4R`&b-d","7LJVq";"7?#XuH$I5!(j(=JuRJ.";"7,6?i","7?#YG07h)","7q32a^->U$a%*NMFP\"l&G`YoF9","7NTGflPSp7;rmf","7-RE.K6b%]B75cNoiJXe";"7\\L\\F)","7\\A\':sBtA1D]rj/SK!;Dh84;peIKW>";"7<RASiU0?";"7PI)BD0;IBoiLE(b0+YP%";"7#UV-","71HmW<#.;aehEH/T?2.@Y","79O*h!3VPR";"7of2\\X1P>\\b\"QXg","7_$UV8","7[Ti^d";"77[O(]";"7f]kODN[P/>","7@p<E3dec0H";"717bq_!_","7`V$*p7;fkhdkK2Wa0=U","74ALTNnnjgqZK";"7;(RT","7U2it.]O%+9Bb";"7.gPT";"70i6m:G4u1","7-VZEK";"77\'t!.U?L0O!I^","72QW4";"7CY9R3";"7,^UW#VJ2\'(g90(m7ba2";"7]ADKp\\6";"77F\\&eAW/T","7Sh_hJjaF;R","7fQ!83\\n4";"7+\'pCKOY?pW)H";"7djXp\'GB?","71kg/eVXul3so`F<-mSO$O2iAl,ri";"7kM#Y:U_9a","7904.l";"70-M7^m_Pl";"7]t(C2n(As4";"7Ih(_Z","7!LX7","7r8^o^_=","7L/M/S\\:Z!/>6";"7W0eo4&Y9eM","7crk/T";"7.Jf4";"75R5!";"7(DVdSg[X";"7LQSps";"7G`L#[-.Q*JAZ4\\U:Q9-lLM/t@SD,TR@.:","7IlL7","70f9jK\'WC?M";"7U1m2U","7oN*%6SSNbf*\'liM";"7r]o+$ctPG;WeTmp7dA/B","7IGTKY[_eMtkF=/)3ce,","7F-eAl";"7jqgoGeGWE\"e(]46?-DB\\","7]u\\p4p))Q";"7u-RX#OQs*LMYTo(IgU>5H\\-4=[CS","7S#/!\'Nus-$","78N;N\'Q#]A","7AR9i\"7I8es<t`6&Nk","7lnRMU","7t6,4Z","7Pg3Br430EP11gtr","7a3/nS\\_gn&P%T+=a$g","7;uHXkjecO0J\'82-","7*OI\'S-*";"7:.3f(#f8j2R`:M06@>WU7rr!hg8J","7Y0.aGpp*","7_;LXR","7&Ys2i","7!R$q#p\"K!1,/OdA\'ST";"7NgXC","7snm\"i";"7oPoO^87N3^B>h","7A1aR=BZ-1Y\\o!mt7D","7hmrapFP+%";"7lEr\"9OW)E","7R_BqiD`V";"72OC_B`@0cX4k","7$Xjm[McmcUC??CWuGZ`@sK$2D","77T.\\FAb7O";"7h,,U!","7\\eC/m`Z`KPAXT","7Z.CV:mM<T[";"7>JdfdrK+,GJe`";"7\"k8qf";"7PJKu.HP*E";"7!td/\'","7nA\'D";"7![UkbZ)7.Vc1-eO";"7<bWT";"7PoH0Zj[G1=at*!c58h","7,\"0i^@[!gE,B8UaA\"H";"7Pk(\\kSNOC%S;X^9";"7gp2hbN5I\'8,m#jS","74e^c";"7^X#75kAj`/Y0gf73qb5g0)";"7P*?,W<+n\\mo+gqk","7\\%I0_sKKM:QT\\Q-`&8dW","7YC[kZ(H\"!","72e9FE";"71j1K8SEe.";"7i[8W+[A07F","7eWM)l$L1L>q(d";"7\'VY\\]:;0YS","7>?<M","7o6<e.nDj;?)?r";"7g#B$";"7E\\X]","7$oHO";"7GkjfIQMBO";"7=n8r";"7bJS\\hK[LUV)V]u3$_@[`o,Y)M:dp","7ri%Gk!os0Ifin","7l%88tnY?","7LX$0DLS;o\"9JUm*bu`bb";"7<L%QspIFH";"7VK_JC?#JBq4#-";"7?IgTg","7$1(5]u*e";"784KBj*#JT5/6C0*-[rui6f=";"7^4/t/<\'E@";"7hH\'o\'r:LL";"7`_2>l";"7b!RHE=\'H";"7s=B)d","7/d0@V";"7M-?8*FUJla=a?KZ/MS","7f<#eSFomSL6FB:`";"7uZ%[K/P6;uBb";"7Pj)Z<","7IoW#p","7o#0cbSNJ;G5Mk#^";"7Ud.m4qbO@S0aifm#f\\IA";"7\'pC1<!jK3ssaFSX!l=W";"7\\sD$*b7YW";"7,%\'B/7)cYha/m45\"k","7@pgP","7QI/G";"7`2iXU%u+","7VUq`7#D5/fp*","778WAHJU7F=","7SL\'[P`P#iu";"7<\"D(W8KGA\'";"7afXSJ2n4k\'";"7i4U7D!/iasVG\\V\'","7)j`[nh\'iUYn&","7S0&4M_ar","7dE";"7FuA\'f\\&\\SJ4n,+5Laq","75Ltb_<HFtg!W8sl,6","7&?pd";"7ZE$m$\",66qep","79jo.";"78ajepF_-","7lntAHBj-JpVsWJ,$b";"7\'!bWc=r![ArXVhN_b","7Peihd`\"q)";"7P2\'d<qo\\Xo=D";"7ETXaKui:%";"7:nlo","7t3bMnb5]e","7On^b1^gR/YgH";"7:5jSL";"7c7\\S9oQT";"7`#kf";"7Dq+c@a&";"7R%kWn4nB","71+(pGNfVu8Y6","7EaEjj?F","7/6g8>hi&88PH","7N9U0U0\"dS)5=n=H";"78O\"8]+:oVO?_";"7oGu/5N<n0u@+C8?A[";"7q$%1dHq\'B!^I(?@Uah;G","7HY=5.)BO","7Pgp\\bPG","7GFNj\"9LOXu";"77Xe?l:EL=N:;:p%SN/";"7uZqSJEol$","7*\\I7?:HGg[*\'<K#NX","7L(-;";"7_;\"TH,dK";"7,juX\"]+JU","7F,N\"*&cR,^";"7VkLbmq-a9bt?d";"7UtM;<E,+";"750Q#!ds";"7gVQLDe5\'J.pUlMXGk2]h$.cAd6+V","7pB]34,1\\<`S67@W\"k";"7a\"tO;a$qH?aEE6m";"7<FqDu7_`1g+e_!0PnPRK[mpXs?<cQ8\"9+47W`.L5IRb+:3>M5FlSgQ>Ke>N?%5T10SWfd6)\'j!?V$]C)D\"$:#o(\"r81MFAu";"7CI<oL";"7\'S`PRB2k@iag5mtaU";"7^gts19Xq*s5`,sX";"7ZhgMe";"7^HB0\']U5S";"7pQXgP-$nZrD,Pqr-XW","7EQJ`,A\'4";"7:#.[(sKk4";"7,lROH<L+`G\"\"]8)PH";"7)\\*a";"7RhSObI-MUhIV>21&Z";"7I#J[8jt7-91%*ofY2S";"7UEhtF(+tdU";"7b=M=l-lbTS?*Ol+upO]^";"7$7_-6","74LcAj_SYs";"7S?acr";"77W6_9Ke0","71V.T";"7OtM-";"7jtJ33","76DJGQ%CceD8C>`-rC9Ht";"7(e..";"7[DGaQp1ufV&@@besK>";"7N^XVp4[%","7:Gf?G\\QkF\":EoCENP-";"7-fB\']\'I[>/G:6P+?mu2\"m_RP";"7)<t``";"7%7N\'_ptF","7M+ppGB5cTf";"78]?b","7p[";"76Hjn","7a\"\"P\"^@r)`","7HFV!X";"7kR\"N.hQ4";"7^31*!g2*6";"7#A\"9U","7)Tskiql]:\\Sg";"7Fst14Ltk","78?=XZZ+WJ","7gj@dBY93","7GPF&GbAd","72@3Mo&H=tUM<","7#_ted","7ZQE3db$Ve9Gu3RN*`g3jAlZ","7@`>`O3pEV2";"7;^?]F";"7\\X\"7]SGZn4\'SB0f","7A%pKs>k/u4&D";"7*2rq";"7BA2?","7p?n:.t7WI&&#)-BG+","7fA4ahgZG\"Z";"76cXRB./)%Y","7p)-E";"7LXn5(ie4u/Bb","7<i)mS-KN","7SBqU\"B,94s<2&4&3aC5]","7%FA`","7c@rOlRI:";"7aE6a";"7:r^f)E1_6M","77?3Zm7SuIhoGnbQp*";"7hNFn(t/khl>b/?]34etTkaW$D(V(";"7*#u\'<","789B$\'";"7he=/(:`mf%","7\"H%W2be6=0\\5ZY)_PT6\'KktnTWpq","7hGl=8FelW>@c","7HSSR]";"72E]\'#]\\d1nb2t=\'^E";"7M3p`%\"g<A8(g#>>@ER";"7oKj\\B","7Kt7Kc";"7W!EQ8eud\\Y8s8(@W/I";"7;j3It.dpeY3C=?.%RGN","7[JuM";"7,.<Bmj$<";"7sHb=5!Ud<gSb";"7#XNk","7j4F!J","7&Q5\"","7Sk;f";"7hjdQ__OI-.(p-W6bN";"78r/.>EUs","7%FC>";"77iqAe5tmeKjI:<i<l","7\'B)1tk5,(R";"7LgRON","7]UeM";"7+EnDAWZ<ut-*","7in6_;*XL";"7@<,$5%Akj";"7BC\\I*%s4\'HKE1","7F(nP;`up6t\"-j%!AfY";"7.tt^t","77VH(9\"MZ","7)2TI/3u\'lh-0SYTFCYreJ0m9NRE","72]u]80F7Z$aKj","7;7)0k0ndo=o9";"78F-q)P.+","7U$M8m4Ju16";"7GZ-mIAk=_Cbha","7+=a3\'","7FX2]R","7[P6\\nP`Psb<m#KY;s","7ug;4G,sBaq";"7Ku0I0","7o7Ep9";"7U,0,p","7#%H`1k:kh";"7I+G^2\'\\Mn6%<","7Aum`aA`nr$<#TGb","7*\"PWsjGaa:5g*&\"PBR","7[JQc+","7tA0O";"7)mhn","75<Gj","7\"2hL>AaL%N]\"ZN`=,UY@","7IC\"B/","7_mB/6nuY,tqXT^u(dUaU";"7[_(9;";"7DUm:8k7","7%Aa=";"7Vo5gh$6.uL`H)n9fE","7Shabo6op\"=k9h,\\CMTg";"7<OD)j-GN9:Y6";"7cE>tZN$jU;OX:BCWU","7BCNKCK@f!uC\'n(hIG8r:j8R&\'e%N","7*UbU3";"7%Gg#c";"7VY5qm+\\n5B","7Od@d";"7K,2aJp$`Hf.b,Zs2pfq(","7pm:A\'";"7a>Qgf!LO*RjK>I>1_","7M?!130b[\'%]2ns)._@I","7jS/7\'BSU,=,(SLN5F","7QUZ0`0UNHLKPRG&2H\\+XlD=0shA","7<bnpAMI<<p";"7P]Lq]p.?7c_](M6VBi","7lh.F3/gO0s+!nXY0j(";"72m6c@Abt^16pN";"7q6`&IF/b";"7B89M","7jS0j=";"7U4#7\':J,p2pZD","76<OggNLS;";"7-!G!","77^:c*)84=gMA.G*>D8";"7H#+-2+^W.$";"7u##_";"7SG8]JN=(\\`)r*5HB\'","77ic2PoOiClj*U_";"7cf(&he8=5XaS-@dHA-#VWB`[5VRi","7(`kML";"7\'fC(m[9mTF2(c;,\'t4";"7C&5Q0^\\C4","7gfrCSdHS(QA\'q/]tB8o(8+,Ig)H]";"7SOU7m7?3je!3Rp@Sb";"7?JPXgL%c";"7s=3],";"7Eru\\V&).I_**","7*lnt^:Ylr#P4Db<<.G";"7@0CS<p_Tk:S#L64NgY";"7OZ[c","7d(YKBdXbd&","7N=N0.,\"lMZ\"\'<nM<HU";"72eL(Z6>FsC","7`)g\\:_Cmr)QScWtqU&GH";"763B!H2nmT0jNRNY";"7AQ`4n,(TKIpK";"71sN\\5";"7h*=VH`tpn3gWLZ\'(K";"7?rb[q","7Ip:,&";"7?k9R_Ho9","7!5qpCSS<J$PTc3c,:";"7]aU,%d\"7:-0h_","7Zf2F0i\\*\'","710@@KBDQ?M!1(1AQo$","72L%>!uMY8IajQoDLMlkD","7Kl+6","7k>p@MCjA";"7,r%!71p,PY*3O+;@<";"7KVf+tEn]gV*%.:";"7C7cePq]0m","7sq3o7","7p98>WJl0-H5Jr+4<Pm";"7+Mkd","7OrS$3FeHnck)h.\"Mqe^","7n-=\\0";"7<ZaqG\\`+^Z58-)p\\&r";"7Z=pL+qC(7";"7O(!;,1M=F0`a553e@T7`","7)@Aq-";"7N5(t";"7bhrL";"7L:1Cr`)r03L`\"d";"77!k%(:H)_T5DJK!\\\"!","7.?#m=-H>Pj","7@2Z91*5%;Ah8m>3CZ/","7JpOM0%?V#bD`AhSpZCO!rk`F_Q2X";"7p^CWko$W@4,X:93ja&";"72lV\'%hP\\lQH,bR.@s";"75K0k=U@3`\"jP\\e","7,!r!WZes%_fVq&&7NV";"78V*8(c=/","7skf&hj@&)$";"7pAq:m*=u75*3bLK","7;$IVbk@tnk?C\\0`C])S";"7C5+EhF.[","7Bb7-","7aF0<q";"7l#:IiFTh9>%^0iXW5)";"7,A\'?F","7[-\">IfB:";"7B#&U=\"\\B)C7V#taAPT";"79JQX*I04Fm6r,K*38)";"70XIaY3Ri-i.r5XIcl","76bDD\'","7hup/GSf8t::\\!","7SHh\\l!WDt:5Dk[`";"7nZ\\JV1*<@L);?";"7F=RS>qZ9$jg`#2Nu5RIj";"7B691/A[","73`4gbu9gJBj#R&";"7b`>=,&QhF(","770?9q9sa<:*mS";"7UhN\\t,]\\","7H7*^$JFTGp5JaR/@!j6O","7Cagg`KK.c_gH","7DRToCY;\\sfi.(";"7,ZL*^","7\\:BA_Y.CV%ZBnMNh0h5G@T.";"7*pt\"dKI8TZ-#DC:V[$X)","7hj7T5F*Q?]NU","7J*gcUNIl*c";"7$/tEqf?U->\\Y?5-E<O";"7sMD9_0k","7bPOZ","7k7","7=Q+#hr^K.G&8\"@i.^9K>D[","7bI0A";"7.X`tXL7KDW","7JiRj7*#37#h-Nl/","7nPjh%";"7Pu*/+\"<FG1oN0SJp/Q";"78[\\G`F7ne";"7[;Z8";"7d[E+\\pJZ=p";"78DDGP";"7__]Er";"7;D.G";"7=#K&CBtIVng[q9\'J#";"7(#1J";"7utQ;W?So?a";"7II&Wg0/nFR@)L";"7+Am4I9-%rZ30\']=Enjl","7C+ghDofbu1";"7Pjgskd5`l[,DfmjH`j$";"7$t1U";"7^M`oG4JQ";"7GcMt48q>UeB6>(La0TX$","7Y4pptN\"IDXh4udnE=";"70f\\I-rlA;LfnI9g,&q8)";"7C[Ad=PVJX\"";"7\"$[n(,=07d@*cb@?OuMZ?m4`AW!a","7oJ5/E7U%=1oOQiV";"7?]3>O","7>RSo5B_]\'","7B%&%VN1kR";"7)%,Y%jl2";"7N3i\\DhK.6";"7@_V.","73UMV";"7\\C4I";"7;b8P","7idNhLZ)!B9SirNDAgh8N<@S*";"7A<0i_";"7%>_:54AmZA";"7U`$";"7l[";"7edl:>gW]4KJG";"7l\\j%@!?Sb.","72gU$","7d=sI_:6qm>--","7=6bdp","7CE\\L30aKPE";"7;/6pL\";3UK","7H!b_3I)CQ";"71G;\'@LDXiBF&eB0";"7<BM&D5a%PRNT[L.b@%A";"7(!$Go";"7@u>u=A[","7B%9(^Qs$toD062\\,52";"7uD6jfU<Nn","7^)0I";"73b]+qqP";"7Ah-`";"7(^Y`Eg!W1QfE","7=I(1-YE.VCkh(4b8h","7t4jT!`)_=BK5?P)1eP";"78\"bO";"7`R=p_";"7+@U<A";"7V`:S9uBD(","7/S_J\"0?G","7N,qS.;#$Cj";"7^q5a";"7,=,Xf#(&";"7lPY<<lNtVK12+5i$nu";"7HOJ-o;<N;Db-[+VDG#","7cjV\'?/(!cJYk&6<-Es6j*EpBSh1N","76D?$7;7?","7$EiuehtZ<(";"7L<3U2>C`I?\"ta";"7ju;rJ^>/U$)8L","7uKkmh8S";"7Yo/2^52NBC@-\\>sPdZb_;C\"=4f>UYp";"7[(8D1dL[GN<9","7^qT%]Rd2lTHkr72CbWNM","7gUR<P";"75a=nU","7:#_7l";"7H3$W%";"7\\,LTVC\\^)cha)kkM%.qX7<`d";"7U.A^uaX","7p<\\46","79l^*gS=?D:";"7%=l%UUHA#S]\"j","7o$\"LBS:dm+@[lcJ\\h","7B4+6fsq1h!hAGLBUQId[";"7>R5A?#K?DJL<\\$";"7pRD(A.?O?^O>ZI12bs";"7H7P7OQOK4J*LV\'AAh=m9","7j2u&Ga\'\'?s7ir?D:$U","7\"si","7]o_O%";"7[i#^","7[GlK","7*XE1";"77/WkEWMi4&lCg37o2*Um";"7>o@Y6SX:u#R0qO_KA3U";"7Jl/Y:";"7lr#*$Mk<cCV\'t=?";"7JpaHUM%/","7.[h_";"7g\'t)bC1JgRC:","7i\"a5fff`Hg";"7_sD:\"";"7/oD<F]\"bF:";"77FSKDtT8s)fB<gR\\;ZK(","7","7ch0BO#(ZK#86";"7EJPR","7?Msckc?a";"7$^ol?\"s#";"7;]^3.c(O%jbD","7IYF9t.VtVWI+f[f83>(","7p$)r","7]Zp0?,t>N)sRSPlKK","7oh+q!LZoI,3G";"70E+t]WbDlK+N";"78fTTS2$fL)r=M";"7@[1AB5BV","7=oNb4`>H_L-)A<H)gGpRgH","7@0+QZ@0+fQ\\j<nV1L=V`oJ/t$\\eh","7uG\\nkhYIBml_#L;fcf([";"7An.uO1Pclb<;M_9PG";"7b4gP<$$q","76d0*TA].BTKa";"7-A9N","7\">h$k<R7;Japfj\\rL2H","7annXP\\A6ss\">SB*:l";"7?o,b*8Se#b","7Y)R.h","7Uu*T2t[%<JC2u7s";"7jKgdPa32qrqZp","7!F","75Z,X";"7#6_ngZT\'iR";"7>Jgp";"7,EdMJ=n=/_.eI;U1RI\'D";"7&rM4SY0M";"7*g7af1.uj)N=\\fE@hs";"7O[Ln8:+qg9^g!$;4Qkic";"7+*tf#`P","7G/1O]d=ud!aO/hU4rFVs4\"3bD","7JcLBs$O0_kQE)f_,JSo0VC6","7W0aI[b7&]r]p1";"7SP)T:fIo3+EY8OOK(<";"7*1554j;p1T5qrs7:l","7OY<>SGa_a[V@\\B,\\e2RF1[S/Z5p(","7VLJ@LUXe\"l?Q:YSL#..Sek0`sWb?","7GKSETlNl","7/f6j";"7/f)L\\";"7:#M=mab\'grSY&e\\@s","7kbPo","7U<<s2D\"cCubp,ZG^Lf4";"7Yk^PH";"7*><[nBhB2FBh0c2\\1qX>","7C050qD1kf(","7D,iii.q_6\"%Opj2`KLN$kLAk*pF!h)#V.,_"}for G,m in ipairs({{-714932-(-714933),-579191-(-581116)},{-365980-(-365981);393460+-392997},{1030348+-1029884,-662989+664914}})do while m[3631986576%14824435]<m[809158+-809156]do E[m[804644-804643]],E[m[1685668824%14285329]],m[-373232-(-373233)],m[310880+-310878]=E[m[366912061%3562253]],E[m[3302008571%13477586]],m[1038642521%6372040]+(-242467+242468),m[-643246+643248]-13611506%2722301 end end local function G(G)return E[G-460799817%3156093]end do local G={V=250447392%2276794,["1"]=-715102+715136,b=1015246-1015180;["?"]=1042055+-1041976,["<"]=291411+-291396,c=-583633-(-583675),["&"]=268461+-268404,j=630718-630687,["2"]=438326941%5096824;N=530166269%12623006,["."]=22659715%3776612,["\'"]=-245500+245539,W=1110922142%4767906;[":"]=100146894%3338229;k=-492653-(-492655);["/"]=678309+-678302;["["]=3052798605%12562957,["9"]=-551455-(-551463),["\\"]=552057620%7169579;D=-849160+849232,s=-940211+940280;["%"]=196766+-196762;_=234044874%3493207,U=-160805-(-160835),f=703232-703156;C=1151560873%6854529,[";"]=771828574%11874285;B=474985+-474953,n=-149393-(-149455);h=795078+-795027;t=2105307354%12682574;d=-10258+10316;O=1193186252%12300889;X=165271-165187;[","]=201765-201737;[")"]=618273749%2630952,I=555628+-555578;i=254041868%4704478;L=542809+-542738;l=367869+-367806,M=1370820201%6288166,["7"]=521815285%16306727;E=510793-510779;e=3623368346%15160537;r=-984597+984603,["6"]=-873211-(-873289),J=639577-639503;q=499963+-499895;["8"]=-576385-(-576458);u=-702037+702098,["-"]=494673+-494673,["4"]=-915417+915497,["*"]=-175229+175256,["("]=-220297+220306,["`"]=3465039995%16344528,H=-125939+126014,Q=586657+-586593;["]"]=-218771+218826,["^"]=713167-713127,g=-59528+59539,["5"]=-633913-(-633929),["$"]=1493778463%13960546,P=396846-396808;["+"]=166420666%11887187,m=91462492%1407114;["="]=-847359+847371;["@"]=-351955+351977,[">"]=-68923+68933,G=2305298900%14408118;K=330657+-330576;A=-774434-(-774470);p=840949-840931,a=899260-899234;Z=-74035+74080,["#"]=-162186-(-162233);["0"]=96149945%1413969,F=-425113-(-425173);T=220335+-220252;o=775271-775238;["\""]=594757446%12654413;["!"]=559270+-559245,R=3621731563%15543912;S=-437924+437947,Y=620683-620637,["3"]=-153037+153102}local m=type local z=table.insert local T=string.char local c=string.sub local O={l=1588206745%11941404;Q=520013-520012;K=1053591345%8707366;t=170669-170659;b=519747+-519694;["+"]=-782867-(-782906);F=219862+-219800;R=-129596-(-129648),H=364378-364357;e=1033855-1033822;w=629575-629515;G=331303+-331299,m=-137923+137960,i=1822490463%8136118;X=-209550+209561,x=782677+-782619,["/"]=-955433+955478;U=-492905+492960,["6"]=-981075-(-981078);q=218344-218304,v=1398114589%15033490,Y=894095208%14657298,u=2970583342%15079103;j=2207850109%12334358;p=263273-263249;y=434053+-433997;r=1020023-1020011;["2"]=599565186%9828937;W=-462874+462879;["3"]=990383+-990322,c=960412799%10217157;["7"]=480412+-480380;O=3237568349%15716351;C=2347600308%12621507;D=183413+-183359,["0"]=963405+-963370;d=-553266+553312,L=745669-745660,["4"]=277569-277520;["9"]=-806350-(-806366),z=585627946%5975795,P=339421-339414,M=555690+-555664;T=948192549%4195542,g=1000125-1000110,o=724020-724006;J=135331+-135331;N=33941+-33903;["5"]=892840750%6613635,["8"]=335191-335149;B=358929810%1661712;V=982752+-982708,I=151705980%619208;f=1921995816%12728449;s=82598+-82564;A=497107860%14620818,S=161105+-161097,a=-304684+304707;k=849928-849878;h=-102262+102290,n=39502-39480,E=272936000%15163111;["1"]=636823493%3282595;Z=180977-180930}local r=table.concat local Z=E local L=string.len local C=math.floor for E=-696009+696010,#Z,225428+-225427 do local P=Z[E]if m(P)=="string"then local m=c(P,1089125724%9152317,829979-829978)if m=="L"then P=c(P,479528+-479526)local G=L(P)local m={}local w=-20696+20697 local A=225039-225039 local N=247334172%3254397 while w<=G do local E=c(P,w,w)local r=O[E]if r then A=A+r*((197119657%1991107)^((1066403075%4165637-N)))N=N+643585273%4875646 if N==1306999398%15939017 then N=195545609%8501983 local E=C(A/(798538+-733002))local G=C((A%(-945582+1011118))/(302476+-302220))local c=A%(214205+-213949)z(m,T(E,G,c))A=-1031451-(-1031451)end elseif E=="="then z(m,T(C(A/(2420342857%10477391))))if w>=G or c(P,w+1630396491%8812954,w+(-356274+356275))~="="then z(m,T(C((A%(592416009%4142311))/(838447+-838191))))end break end w=w+(521752+-521751)end Z[E]=r(m)elseif m=="7"then P=c(P,623595854%4724211)local m=L(P)local O={}local w=183170+-183169 while w<=m do local E=(m-w)+(-723808+723809)local r=E>=-640749-(-640754)and 107998441%8307572 or E local Z=-273480-(-273480)local L=r>-225097-(-225098)for E=-523347-(-523347),574537924%13057680,408117267%12003449 do local m if E<r then local z=c(P,w+E,w+E)m=G[z]if not m then L=false break end else m=172404+-172320 end Z=Z*(440532+-440447)+m end if L then local E=C(Z/(8181128920%32920773))%(238985-238729)local G=C(Z/(-66594-(-132130)))%(807388+-807132)local m=C(Z/(-553961-(-554217)))%(-1001416+1001672)local c=Z%(-53324+53580)if r==2676114413%14623576 then z(O,T(E,G,m,c))elseif r==700433-700429 then z(O,T(E,G,m))elseif r==-257614+257617 then z(O,T(E,G))elseif r==29324+-29322 then z(O,T(E))end end w=w+r end Z[E]=r(O)end end end end return(function(E,z,O,T,Z,c,r,L,w,X,D,I,m,P,u,Y,g,s,N,d,b,p,A,C)D,p,L,m,b,Y,N,u,C,g,w,d,I,A,s,X,P=function(E,G)local z=A(G)local T=function(T)return m(E,{T},G,z)end return T end,function(E,G)local z=A(G)local T=function(...)return m(E,{...},G,z)end return T end,{},function(m,T,c,O)local IR={}local Y9,ER,V,U,a9,h,w,C9,o9,g9,PR,R9,w9,e9,B9,b9,F,k,S,q9,n,D9,Z9,X9,O9,G9,P9,k9,s9,j,zR,Z,T9,p9,C,q,z9,U9,Q9,rR,l,wR,Q,H,J,TR,ZR,c9,l9,N,i,r9,I9,W9,j9,V9,v9,CR,e,t9,LR,p,x9,n9,x,t,B,NR,a,H9,v,N9,f,AR,OR,GR,J9,cR,y,M9,o,S9,u9,M,f9,L9,E9,A9,R,A,m9,K,mR,i9,y9,h9,K9,d9,W,F9 while m do if m>1409608374%13739022 then if m>205272+12194878 then if 14456102-(-8001)>m then if 1033924+12468583>m then if m<-24913+12913088 then if-448949+13173967>m then if m>12870007-281543 then if m>-649721+13354278 then if m<-196466+12913130 then f=L[c[-471138+471148]]m=4872943281%19278941 x=f(e,C)else U=G(2321544782%12091322)Z=L[w]m=Z~=U m=m and 3941367-(-966897)or-156668+10679648 end else if 12314665-(-350118)>m then m=L[c[161453-161450]]m=m and 1213546-949733 or-790704+7555129 elseif 184197+12502236>m then m=145426456%22981158<=2478657137%11288514 L[c[320800623%11457165]]=m m=4759631-168752 else m=Z and 5849371-534323 or-935540+15345401 end end else if m<13250663-769995 then if 727087+11731667>m then Z,m={},E[G(3610609530%15630299)]elseif 12115036-(-352205)>m then m=L[c[1379005793%10291088]]w,C,A=T[-893604+893606],T[50742916%3382861],m m=A[w]m=m and 1642296899%21734760 or 266540+15170073 else m,Z=E[G(-298713+310293)],{}end else if m<2232539241%14800226 then U=3843309798671-441874 m=L[c[816650+-816648]]A=L[c[326715-326712]]N=L[c[-713337-(-713341)]]e,R=34047710198651-507277,G(473744+-463108)p=N(R,e)Z=A[p]N=L[c[3713730148%15803107]]e=G(-520841-(-531543))p=L[c[885080-885076]]R=p(e,U)f=G(2323841691%13750480)A=N[R]m[Z]=A m=L[c[-526072-(-526074)]]R,e=G(-256444+266888),30578374181494-(-177449)A=L[c[769440-769437]]N=L[c[-914733+914737]]p=N(R,e)Z=A[p]p=G(3424448669%15287665)N=E[p]x=5605729271347-(-461823)R=L[c[55670918%11134183]]e=L[c[170757164%4878776]]U=e(f,x)p=R[U]U,e=-223609+28239107775702,2785514962%12325287 A=N[p]R,p=-271965-(-272065),-948920-(-949175)N=A(p,R,e)m[Z]=N Z=G(1023073-1010913)m=E[Z]N=L[c[758769901%4570903]]e=G(1016293+-1004294)p=L[c[876933-876929]]R=p(e,U)A=N[R]Z=m(A,C)m=7966119-(-421746)elseif-792365+13312117>m then L[w]=V m=a m=1329584400%21184859 else v=29550218656298-(-703382)x=L[c[704630-704622]]j=G(195337-183412)t=L[c[-439598-(-439599)]]o=L[c[218364-218362]]Q=o(j,v)J=t[Q]f=x[J]Z,m=f,-711244+17409181 end end end else if 4599733363%20755346>m then if 12302182-(-478930)>m then if m<2506418341%25188779 then p,N,m=nil,nil,-320076+6155437 elseif m<-526149+13276613 then m=3288921816%17344406 A=L[c[237990-237988]]w=C==A Z=w else m=L[c[6831+-6830]]Z=m()m=L[c[860998+-860996]]w={m()}C,Z=w[1080261002%7716150],w[674746+-674745]m,w=C and 2231469253%10744323 or 692999703%13408998,Z end else if 285119+12510967>m then m,Z=E[G(1015979+-1004429)],{}else R=L[c[1036880-1036877]]x=3267164133149-(-405204)e=L[c[1373730979%10175785]]f=G(-167793+179076)U=e(f,x)m=R[U]t,U=G(397735+-385820),G(312230-300521)e=E[U]o=222439+33832066635939 f=L[c[-928930-(-928933)]]x=L[c[2376519656%13351234]]J=x(t,o)U=f[J]f=72259+-72231 R=e[U]U,x=267498-267470,-91399+91427 e=R(U,f,x)f=G(3565+7532)p[m]=e R=L[c[569687003%3351100]]x=722435+30521353777537 e=L[c[1170131998%4815358]]U=e(f,x)m=R[U]x,R,f=200684+5843915012789,.05,G(18392483%496777)p[m]=R R=L[c[533615+-533612]]e=L[c[822705-822701]]t=G(-166925-(-177686))U=e(f,x)m=R[U]U=G(69366893%1035152)e=E[U]f=L[c[48807+-48804]]o=16745908309133-(-479720)x=L[c[-842225+842229]]J=x(t,o)x=-789626+789846 U=f[J]f=478627-478407 R=e[U]U=846685+-846465 e=R(U,f,x)p[m]=e m=2878436915%12502571 end end else if 11899004-(-952612)>m then if m<1932592635%18111068 then o=L[c[233472508%4764745]]J=f m=t~=o m=m and 181624+10763818 or 11681312-617539 elseif m<-213570+13054041 then m,Z=E[G(142821527%9520724)],{}else m=L[c[161847+-161839]]w=m()L[c[682007910%3853152]]=w m=-360957+800305 end else if-535358+13406839>m then R=nil m=L[c[71816485%11969414]]p=nil m[N]=R N,m=nil,456834+1888857 else J=f m=L[c[-137195+137200]]t=m(J)m=t and-966407+10690034 or 8946706-887414 end end end end else if m>447592+12713720 then if m>283745+12987577 then if m<3236160160%14851167 then if 12852911-(-499126)>m then Z=G(126476-115577)m=E[Z]A=L[c[446736+-446735]]N={m(A)}w,C,m,Z=N[-708711+708714],N[357616+-357614],642704742%23261476,N[368347-368346]A=Z elseif m<387545+13039867 then Z,m={},E[G(-464943+475425)]else Z=L[c[143796709%2178738]]m=not Z m=m and-498489+8625280 or 6112374-920946 end else if m<4560179692%18407657 then S,k=G(48292+-36496),G(-784601+796510)l=E[k]h=E[S]m=-673781-(-992344)k=l(h)l=G(188440622%3489436)E[l]=k else m=Z and 16826070-825932 or 4822940494%20064885 end end else if m<2336241464%20199923 then if m<556749774%15986932 then m=e m,A=13531417-640193,R elseif 12209511-(-1022388)>m then w=nil L[c[921369+-921364]]=w m=1674761431%6779309 else m=L[c[-356190+356191]]m=m and 574695+11893013 or 5072385-(-930401)end else if-106986+13364503>m then A=L[c[-487473-(-487484)]]m=A and 3609895377%19067346 or 9372218-(-268276)else R=3478243354625-434606 w=L[c[-966634+966637]]p=G(305117+-293985)A=L[c[133969+-133965]]m=G(85479184%348848)N=A(p,R)Z=w[N]m=C[m]m=m(C,Z)w=m m=not w m=m and-397794+9655897 or 10302777-(-105080)end end end else if m>2062001461%14741279 then if 12969474-(-141197)>m then if-5714+13011732>m then m=Z and 15171296-(-984457)or 350766+13230443 elseif 13269036-206143>m then x,m,N=2127208218222-637584,-713565+7938872,G(1354766021%12902423)R=L[c[-790187-(-790188)]]N=A[N]e=L[c[912123+-912121]]f=G(152254901%15224416)U=e(f,x)p=R[U]N=N(A,p)Z=N else m,Z=E[G(351405-339596)],{}end else if m<4019298181%29030117 then C,m=nil,-27878+6741244 L[c[-618142+618147]]=Z else A=L[c[726099+-726098]]p=L[c[904174-904172]]f,U=-664361+21057189398902,G(-656967+668430)R=L[c[-444504+444507]]e=R(U,f)m=287929+1191833 N=p[e]w=A[N]C=not w Z=C end end else if m<1317682466%23299207 then if 3959738916%20556445>m then m=p m=A and 3004189644%17859341 or-866079+16486064 elseif 921684889%19335455>m then m,Z=E[G(-445979+456273)],{}else m,Z=E[G(479356-467267)],{w}end else if m<-115006+13054308 then N,U,Z=G(-41690+53599),G(-580269-(-591653)),G(516151-504583)m=E[Z]C=L[c[1050910744%9553734]]f=g(988592384%11676407,{})A=E[N]e=E[U]U={e(f)}e,R=948434867%9032713,{z(U)}p=R[e]N=A(p)A=G(693933673%4886773)w=C(N,A)C={w()}Z=m(z(C))C=Z w=L[c[1210016092%5576111]]m,Z=w and 2566636-79654 or 12300907-(-829461),w else e,R=-278458+27187173241134,G(-577610-(-588943))Z=L[c[1029373472%5172731]]A=L[c[616336+-616332]]N=L[c[2461073753%12244148]]p=N(R,e)w=A[p]m=Z[w]m=m and 447090+16051764 or 2683738190%23080808 end end end end end else if m>353604+13751555 then if m<-731079+15049078 then if 13802068-(-411248)>m then if-1858+14137332>m then if m<1000709+13113593 then G9=708689+-708688 M=F[G9]B,G9=m,17605271-1010349<1361481465%17566380 n=M==G9 m,m9=n and-1019321+13299211 or 600200+2566527,n elseif m<5840875172%29728315 then m,Z=E[G(348087916%3315013)],{}else m,Z=E[G(-1009865-(-1020708))],{}end else if m<6592195043%25796154 then m,C,p=782919758%24191086,nil,nil else m=f m=U and 1797056755%8566607 or 6143431995%26088173 end end else if 1890097249%20169891>m then if m<2925326442%25991998 then R=G(185485-174749)A=L[c[457236423%6724065]]e=15443261759633-296058 N=L[c[507905-507901]]p=N(R,e)w=A[p]m=10983866-(-905213)A=L[c[116470-116465]]C[w]=A elseif 13545530-(-712132)>m then N,m,Z=nil,nil,nil Z={m;Z;N}m=E[G(1107159824%9627382)]else m=e U,e=m,A m=A and-335433+3965598 or 2261857-626456 end else if 3526363240%23570818>m then k9=G(9225870%143965)k9=E9[k9]k9=k9(E9)m=-1014535+12865595 else Z=L[c[-494348-(-494350)]]e=11185957002291-116699 w=L[c[304762-304759]]A=L[c[653806404%3269032]]p,R=G(1004900-994170),32001195236188-336167 N=A(p,R)C=w[N]A=L[c[179844822%4386459]]R=G(-759066+770864)N=L[c[721456900%11272764]]p=N(R,e)w=A[p]R=-588978+31395642226125 Z[C]=w m=987586+12736868 Z=L[c[-366887+366889]]w=L[c[1232161608%11100555]]p=G(-382401-(-393488))A=L[c[-848919-(-848923)]]N=A(p,R)C=w[N]w=L[c[732368-732363]]Z[C]=w end end end else if-202251+14551281>m then if m>13881084-(-463113)then if m<208187+14137759 then m=L[c[-740083-(-740089)]]C=L[c[909675488%9887777]]Z=m(C)m=912462971%29862359 else Z,m={},E[G(-360903-(-372242))]end else if-330176+14653945>m then A=L[c[-205492+205495]]e=387893+22877667163752 N=L[c[-823336-(-823340)]]R=G(-449889-(-460649))p=N(R,e)w=A[p]Z=C[w]L[c[94544-94539]]=Z m=-613310+10385363 elseif-13904+14348065>m then A=L[c[2984739463%12920950]]m=A and 1673871-996603 or-215400+14264933 else Z=L[c[1131809331%5441391]]A=L[c[-437225-(-437229)]]R,f,x,p=16207556638166-(-386981),230346+29532028416493,G(-983186+994565),G(-75731+86258)N=A(p,R)J=863642+20203347834661 m=Z[N]N=G(309258+-297552)A=E[N]p=L[c[-642372+642375]]U=G(-365136-(-376033))R=L[c[321804-321800]]e=R(U,f)N=p[e]Z=A[N]e=L[c[17329100%753439]]U=L[c[-525756+525760]]f=U(x,J)J=26841145533791-(-478067)R=e[f]p=w[R]U=.1 e=L[c[-437062+437067]]R=e*U N=p+R e=L[c[728918-728915]]U=L[c[742425+-742421]]x=G(-607112+618096)f=U(x,J)R=e[f]p=w[R]A=Z(N,p)w[m]=A m=8874286-210621 end end else if m>-204618+14588417 then if 13495397-(-906930)>m then Z=L[c[1680036829%16634028]]m=not Z L[c[889324030%3917727]]=m Z=L[c[296878+-296877]]m=Z and 3773335-(-19349)or 11088508-672352 else w,R=G(-921219+933276),G(762213335%5730840)Z=E[w]e=16643809160067-462141 A=L[c[1292550094%9942693]]f=32563525691926-(-610597)N=L[c[1022686-1022681]]p=N(R,e)w=A[p]R=G(-603932-(-614267))m=Z[w]A=L[c[335808331%2730149]]N=L[c[133015-133010]]e=-579169+18391888328661 p=N(R,e)U=G(1233805434%12215783)w=A[p]e,R=111742+4461561107359,482822+27828015944856 Z=m(w)w,p=Z,G(-206407-(-217977))Z=L[c[-743528+743532]]A=L[c[-608495+608500]]N=A(p,R)R=G(234229-223848)m=Z[N]A=L[c[362672+-362668]]x=3946158909670-631225 N=L[c[-855718-(-855723)]]p=N(R,e)Z=A[p]w[m]=Z p=G(-346235-(-357015))Z=L[c[-667420-(-667424)]]A=L[c[-113405+113410]]R=5884272365965-(-522535)N=A(p,R)m=Z[N]R,Z=-224310+27299534659038,C w[m]=Z p=G(248668+-237008)Z=L[c[1753997396%15660691]]A=L[c[2503836275%12154545]]N=A(p,R)m=Z[N]N=G(2054556774%11105649)A=E[N]p=L[c[2254675560%14004196]]R=L[c[-319967-(-319972)]]e=R(U,f)N=p[e]R=126098-126098 Z=A[N]f,N,p=-679738+10253826830816,-183654+183909,715214100%4768094 A=Z(N,p,R)R,p=928988+19594446927560,G(448133-437123)w[m]=A U=G(1958657192%11321648)Z=L[c[234444-234440]]A=L[c[362643-362638]]N=A(p,R)m=Z[N]N=G(-1033909+1045618)A=E[N]p=L[c[690214771%12109031]]R=L[c[-166665-(-166670)]]e=R(U,f)N=p[e]Z=A[N]N,p,R=-457593+457848,268457+-268457,1138060551%11732583 A=Z(N,p,R)R,p=-953822+8724399218108,G(309027+-298548)w[m]=A Z=L[c[95772+-95768]]A=L[c[-1006432-(-1006437)]]N=A(p,R)m=Z[N]R,Z,p=6810429043739-(-546888),1213914586%6225203,G(-574262+585477)w[m]=Z Z=L[c[9338944%155649]]A=L[c[-1030220-(-1030225)]]f=G(627761-615611)N=A(p,R)R=1112049424667-(-370922)m=Z[N]Z=758476284%7436042 w[m]=Z Z=L[c[-529055+529059]]A=L[c[402724+-402719]]p=G(-432357+442710)N=A(p,R)p=G(815522675%15102053)m=Z[N]N=E[p]R=L[c[349534+-349530]]e=L[c[1149061009%9266621]]U=e(f,x)p=R[U]A=N[p]U=G(-960123+970619)p=L[c[-213742+213746]]f=-26749+25588739675912 R=L[c[153837-153832]]e=R(U,f)N=p[e]Z=A[N]w[m]=Z Z=L[c[544676-544672]]A=L[c[-581902-(-581907)]]R,p=-397737+21669860342035,G(-119787-(-131100))N=A(p,R)A=G(2503061342%16045190)m=Z[N]Z=E[A]w[m]=Z m=L[c[473683142%13533804]]Z=w w=nil m[C]=Z C,Z,m=nil,{},E[G(-395677-(-406889))]end else if m<3538629383%15457344 then m,J9=-809622+8477688,G(251840+-239730)J9=k9[J9]J9=J9(k9)elseif 2791525324%18638656>m then m=Z and 1072658730%15029344 or 4622365-(-439439)else m,Z=E[G(268220066%6877169)],{}end end end end else if m>13471087-(-364216)then if-3412+14003740>m then if m<2410021389%18431721 then if 14490388-637727>m then o,m=nil,1971811519%11333802 elseif 622990413%24364569>m then U=L[c[-105831-(-105837)]]x=L[c[-259069-(-259070)]]Q=1231940763993-720668 J=L[c[1036220042%6772680]]o=G(201348933%10066865)t=J(o,Q)f=x[t]Z=U[f]U=G(606981775%6131010)U,m=Z[U],-92843+6936093 U=U(Z)e=nil else Z=L[c[-578007-(-578009)]]w=L[c[877640+-877637]]R,p=322613+1829950150431,G(666689-654581)A=L[c[258920393%2845279]]N=A(p,R)C=w[N]m=Z[C]C=m m=not C m=m and 3222390317%12984073 or-126739+6196103 end else if 516292514%20093616>m then p=L[c[20277451%405549]]R=L[c[1143922427%4867755]]J,U,f=G(-166508-(-178070)),G(917465-907204),-190372+27927716911728 e=R(U,f)N=p[e]e,t=G(840213-828400),24294870662877-479916 A=C[N]R=E[e]U=L[c[2068738813%10945708]]f=L[c[-784339-(-784341)]]x=f(J,t)e=U[x]p=R[e]e=L[c[216132-216131]]U=L[c[-890539-(-890541)]]J,x=9715104375476-(-306935),G(273981-263306)f=U(x,J)R=e[f]N=p[R]m=1660764746%17748082 w=A==N Z=w else m=L[c[722895-722894]]w=L[c[-231764+231766]]p,R=G(876669-864642),-856031+27712703283783 A=L[c[-644911+644914]]N=A(p,R)C=w[N]Z=m(C)m,Z=E[G(-141551-(-152722))],{}end end else if m<740837+13337119 then if 688509851%17294413>m then m=164827806%7647340 elseif m<-816727+14869750 then m=10510918-870424 else m=L[c[867652075%16067631]]m=m and 959666+502533 or-630871+11880658 end else if-607267+14708156>m then C=L[c[9510498%1188812]]A=L[c[-785912+785915]]N=L[c[107191+-107187]]U,R,e=-885452+1295404893479,G(3818206885%16746475),133029+5952376095534 p=N(R,e)w=A[p]N=L[c[-239958+239961]]p=L[c[-977082+977086]]m,e=1617969029%13072064,G(3312085017%14400320)R=p(e,U)A=N[R]C[w]=A C=L[c[1559780450%16247713]]R=G(1674978876%7008229)A=L[c[1855191107%10723648]]N=L[c[-127244-(-127248)]]e=841748+22290078896247 p=N(R,e)w=A[p]A=L[c[775002-774993]]C[w]=A C=nil L[c[835879716%3397885]]=C else U=m f=L[c[746763-746754]]m,Z=f and 4294512-829802 or-935820+8238132,f end end end else if m<13491318-(-146002)then if m>-471911+14035058 then if m<390075850%18824929 then e=L[C]R=not e w,m=R,12046997-1032756 elseif m<-634512+14236714 then Z,m={},E[G(290994+-278873)]else p=L[c[574085-574082]]R=p(C)m,N=1192086-4120,not R w=N end else if 3498584136%16285332>m then N=w R=L[c[1542304514%12144130]]m=p~=R m=m and 4588322799%25287121 or 13095815-367767 elseif m<13731196-185417 then m=v and 17463357-822088 or 960536+14566730 else Z=G(1050971303%4254897)m=L[c[-688114-(-688121)]]Z=m[Z]Z=Z(m)m=nil L[c[-987903-(-987910)]]=m m=-35132+5677616 end end else if m>176861+13598489 then if 343016+13486042>m then m=L[c[995214-995212]]Z=m()C=Z m=C and 3208531-(-773059)or 1019949516%9575013 else w=G(-189564+201270)Z=E[w]R,U=G(-347677+359324),G(3024296086%12869294)A=L[c[707891+-707889]]N=L[c[2656668765%13417519]]e=572103+9308114736679 p=N(R,e)N=G(52463766%2622603)w=A[p]m=Z[w]A=E[N]p=L[c[130359242%965624]]R=L[c[-387026-(-387029)]]f=570712+9352650447787 e=R(U,f)N=p[e]w=A[N]A=w(C)w=L[c[580134+-580130]]N=L[c[549593294%4618431]]Z=m(A,w,N)L[c[1061489238%14742906]]=Z m=488896+2208249 end else if 14548213-887499>m then w,R,m,e=G(484336+-473701),G(309253939%9370995),2.8,26128709879804-104565 Z=E[w]A=L[c[1332821375%7363654]]C=m N=L[c[1383647771%14877933]]p=N(R,e)w=A[p]m=Z[w]Z=m()m,w=330849+5818202,Z elseif 13145108-(-552110)>m then j=I(j)N=I(N)R=I(R)f=I(f)p=I(p)e,o=nil,nil x=I(x)t,J,A,Q=nil,nil,nil,nil w=I(w)N=P()w=nil U=I(U)L[N]=w w=P()A=nil L[w]=A A,e,t,x=219963332%7332111,G(45404976%1513109),G(-77213-(-88919)),G(3131762580%13616308)p=P()L[p]=A U=P()o=442849+-442593 R=E[e]e=G(52462+-41939)A=R[e]e=P()m=17115179-614837 R=P()L[R]=A A=669494-669494 L[e]=A J,A=G(-299598+310613),{}L[U]=A f=E[x]x=G(198199018%1468064)A=f[x]x=E[J]J=G(-347392+358341)f=x[J]J=E[t]t=G(663269863%11241662)x=J[t]J,Q={},o t,o=-70152-(-70153),-524023+524024 j=o o=346254+-346254 h=j<o o=t-j else Z,m={},E[G(2545527146%16213481)]end end end end end end else if-769903+16591271>m then if m>-4536+15286998 then if m>5535346957%23792243 then if 1035066+14606822>m then if 1042711+14560492>m then if m<16497459-922808 then o=L[c[1996319031%13673418]]m,v=816244+15273386,G(570489688%4563835)Q=L[c[1069351804%10693518]]l=19740558513016-(-413808)j=Q(v,l)t=o[j]J=x[t]x=J elseif 16597464-1012550>m then U=G(-882235+894187)p=L[c[447975+-447973]]R=L[c[-469774-(-469777)]]f,t=115058+20405721097132,1560993242614-367392 e=R(U,f)J=G(-73519-(-84178))N=p[e]e=G(92993-81180)A=C[N]R=E[e]U=L[c[641728-641726]]f=L[c[601462+-601459]]x=f(J,t)e=U[x]p=R[e]e=L[c[152198192%8455455]]x,m=G(-993332+1004680),15070346-711991 U=L[c[473937-473934]]J=32351379411988-350524 f=U(x,J)R=e[f]N=p[R]w=A~=N Z=w else m=L[c[405913+-405909]]Z=m()m=3181201-744801 end else if 644507+14978944>m then m=14292651-(-32657)else m,Z=E[G(397092+-386547)],{}end end else if m<15830570-46608 then if-60803+15743610>m then Z,m={},E[G(865417-855033)]elseif m<5782659299%27592906 then Z=L[c[480049-480048]]C=L[c[-65216+65218]]m=Z[C]C=m m=nil w=m m=L[c[767799399%4218678]]m=m and 6031894-(-541277)or 529109204%17108151 else Z=L[c[340541+-340540]]m=not Z m=m and 754218+10125984 or 702678+13123569 end else if-333341+16138005>m then f,U,C=652912+29834690150356,G(192908-182131),T[1344250156%5398595]p=L[c[209224+-209223]]R=L[c[561928+-561926]]J,t=G(-271065-(-282248)),34654051043990-(-734323)e=R(U,f)N=p[e]e=G(-627645+639458)A=C[N]R=E[e]U=L[c[3238109057%15718976]]f=L[c[457464282%3267602]]x=f(J,t)e=U[x]x=G(3623003236%16543340)p=R[e]J=10430066595632-(-408520)e=L[c[-557434+557435]]U=L[c[-723226+723228]]f=U(x,J)R=e[f]N=p[R]w=A==N m,Z=w and 1363271-(-1036318)or 5460513979%22994157,w else e=-839416+4937704871923 m=L[c[391631-391629]]A=L[c[559175+-559172]]U,R=15008052203290-(-789554),G(200318+-188437)N=L[c[349926-349922]]p=N(R,e)e=G(1159712372%8403633)Z=A[p]N=L[c[215350252%5820277]]p=L[c[1074944428%4842092]]R=p(e,U)A=N[R]m[Z]=A m=L[c[1964+-1962]]f=G(372195905%3323073)A=L[c[113973+-113970]]R=G(800338+-788569)N=L[c[158327719%4059685]]x,e=959661+21124887560640,83667706682169%3637726652842 p=N(R,e)Z=A[p]p=G(562435+-550726)N=E[p]R=L[c[2053843284%13971723]]e=L[c[3427231120%14220876]]U=e(f,x)p=R[U]A=N[p]e,R,p=2356395620%16139695,1335925655%13359254,-44390+44490 N=A(p,R,e)m[Z]=N m=8541658-153793 end end end else if-723912+16145894>m then if m>-463214+15824041 then if 1400824913%24739778>m then Z=L[c[937035-937033]]p=G(-392217-(-403492))w=L[c[-906329-(-906332)]]R=25645983044284-(-564202)A=L[c[-28478+28482]]N=A(p,R)C=w[N]A=L[c[40893+-40890]]R,e=G(-474177+485907),-58717+33657759883926 N=L[c[-384039-(-384043)]]p=N(R,e)m=314449785%15827649 w=A[p]Z[C]=w Z=L[c[1005335+-1005333]]R=-683411+8952047386075 w=L[c[2261236753%14311625]]A=L[c[-297057-(-297061)]]p=G(2270779620%15447405)N=A(p,R)C=w[N]w=L[c[899412-899406]]Z[C]=w else Z=L[c[-601290+601291]]m=not Z m=m and 297485548%25737522 or 1709494-(-593892)end else if-624012+15937203>m then m=L[c[-752035+752036]]p=507021+33497974915169 C=L[c[-698911-(-698913)]]w=L[c[1609952735%8341724]]N=G(998269726%12324179)A=w(N,p)Z=C[A]C,N=69114+11961853<=755440-(-995270),G(1954000273%12061660)m[Z]=C m=L[c[965242-965238]]C=L[c[951970597%4643759]]p=-1028281+26725704163670 w=L[c[-437407-(-437410)]]A=w(N,p)Z=C[A]C=3009054-318065<=5537479-(-775639)m[Z]=C m,Z=E[G(-352099-(-363414))],{}elseif 851885+14482765>m then m=12037786-632829>=3325360-720043 L[c[683126-683125]]=m Z,m={},E[G(92983+-81687)]else R,e,w=G(145933-133865),221111865955%1650094023,G(167422259%4292596)C=E[w]A=L[c[813832+-813830]]N=L[c[1022149-1022146]]p=N(R,e)w=A[p]m=C[w]w=L[c[513393534%7662590]]C=m(w)Z,m={},E[G(964719+-953916)]end end else if m>-352727+15807197 then if m<15373376-(-123185)then R=L[c[-732058+732059]]f,x=G(463748-452001),28819576890154-634558 e=L[c[341175611%5985537]]m=1562690869%10611856 U=e(f,x)p=R[U]N=w[p]p=46384122%498754 A=N<=p Z=A else Q,j,m=nil,nil,4830426-(-966118)end else if 16204537-773639>m then m=h w=m m,S=838979+5029372,t C=S elseif m<3786809671%27132157 then m={}L[c[56278721%2084397]]=m p=35184372465897-377065 Z=L[c[1636725493%11287762]]N,m=Z,977194886%8193876 Z=w%p e=975222+-974967 L[c[-78130+78134]]=Z f=332882050%6527099 R=w%e e=908858+-908856 p=R+e U,e=G(9737371%972672),G(2900515478%15510721)L[c[353898-353893]]=p J=321608-321607 R=#C A[w]=e x,e,t=R,-661138+661342,J J=2052113118%15314277 o=t<J J=f-t else m=-169490+709446 end end end end else if m>1916434005%21364323 then if m>1412323783%21830211 then if m>3886134890%17920771 then if m<258579+14996757 then w,Z,m,C=nil,{},E[G(687229+-676907)],nil else m,C,Z=E[G(682359+-670773)],nil,{}end else if m<5861768658%23480146 then U,C,A,w=19617419895413-(-164154),T[251769-251768],G(1230818496%7740921),T[-297244-(-297246)]Z=E[A]N=L[c[254631+-254630]]p=L[c[42233627%187705]]e=G(976725-966410)R=p(e,U)A=N[R]U=14995556516377-(-907565)m=Z[A]N=L[c[-833871+833872]]e=G(780107+-768291)p=L[c[745396-745394]]R=p(e,U)e=29200883334080-(-784733)A=N[R]Z=m(A)A,R,f,J=Z,G(854650-844238),G(-521440+532648),-587430+190296962814 Z=L[c[-16533-(-16534)]]N=L[c[816689+-816687]]p=N(R,e)x=13876307832477-431456 m=Z[p]p=G(594669-582791)N=E[p]R=L[c[-646069-(-646070)]]e=L[c[1914020396%13384758]]U=e(f,x)p=R[U]f=G(502626-492054)Z=N[p]x,R,U,p,e=-176731+11470579173176,348880+-348900,-624102-(-624145),95265+-95264,471497+-471497 N=Z(p,R,e,U)A[m]=N R=G(159983201%11426626)Z=L[c[1178158461%12401668]]e=-726935+8596492347194 N=L[c[-838023-(-838025)]]p=N(R,e)m=Z[p]p=G(-801876-(-813754))N=E[p]R=L[c[295108+-295107]]e=L[c[164633809%2457221]]U=e(f,x)p=R[U]Z=N[p]p,e,R=161792015%752521,5066+-5066,618146706%9970108 N=Z(p,R,e,w)A[m]=N R=G(-840491-(-850770))Z=L[c[136107531%805370]]N=L[c[-431074+431076]]e=-385627+25662076408072 p=N(R,e)R=G(1741663154%9675846)m=Z[p]Z=L[c[1786836611%13959661]]A[m]=Z e=586357+22470644545130 Z=L[c[441979+-441978]]N=L[c[-435416-(-435418)]]p=N(R,e)m=Z[p]Z,R=.12,G(-838063-(-849553))A[m]=Z e=34651140042830-225607 Z=L[c[63977+-63976]]N=L[c[1002254+-1002252]]p=N(R,e)m=Z[p]Z,e=C,-323283+11900865332344 A[m]=Z Z=L[c[-684810-(-684811)]]N=L[c[570825881%14636561]]R,x=G(552291-540903),-51237+31580094431638 p=N(R,e)m=Z[p]f,p=G(-962166+972901),G(-393765+405474)N=E[p]R=L[c[720097+-720096]]e=L[c[849042+-849040]]U=e(f,x)p=R[U]Z=N[p]R,p,e=71831-71596,-515080+515315,345093+-344858 N=Z(p,R,e)R=G(651110921%3922286)A[m]=N Z=L[c[-57141-(-57142)]]x,e=G(1463722582%14350107),905710+4787698874055 N=L[c[-294190+294192]]p=N(R,e)m=Z[p]Z=760208+-760195 A[m]=Z Z=L[c[502561+-502560]]R,e=G(-107350+119132),14453316278261-621995 N=L[c[-641821+641823]]p=N(R,e)R=G(758039234%5376081)m=Z[p]p=E[R]e=L[c[-779533+779534]]U=L[c[139347+-139345]]f=U(x,J)R=e[f]x=47869+27559285077796 N=p[R]R=L[c[-1004192-(-1004193)]]e=L[c[-127943+127945]]f=G(463687+-453296)U=e(f,x)e=27246293027107-(-403564)p=R[U]Z=N[p]A[m]=Z Z=L[c[43942+-43941]]N=L[c[743771-743769]]U,R=G(-939010+950468),G(1595500803%9669635)p=N(R,e)m=Z[p]Z,e,R=610823934%2867718,-430686+10332878873897,G(3039176623%15995604)A[m]=Z Z=L[c[619501+-619500]]N=L[c[496023+-496021]]f=25368136453151-482811 p=N(R,e)R=G(1160617310%16346578)m=Z[p]Z=3729614561%28355220<4586156-(-412709)A[m]=Z e=-349162+4034515376960 Z=L[c[209872-209871]]N=L[c[-960005+960007]]p=N(R,e)e=30453298907658-(-60762)m=Z[p]R,Z=G(728285-717827),1567168895%14925417 A[m]=Z Z=L[c[2798621911%15127686]]N=L[c[733243+-733241]]p=N(R,e)m=Z[p]N,J=G(1645027377%7029980),34708225630262-(-319212)Z=L[c[872950922%4499747]]A[m]=Z Z=E[N]p=L[c[73001+-73000]]R=L[c[-781984-(-781986)]]e=R(U,f)U=G(-387752+398717)N=p[e]x=G(-644632-(-655355))m=Z[N]f=1729750408849-121708 p=L[c[347058-347057]]R=L[c[-799051+799053]]e=R(U,f)N=p[e]e=G(-808183+819602)Z=m(N)U,N=15801482005451-634637,Z Z=L[c[255261-255260]]p=L[c[426332666%2089866]]R=p(e,U)m=Z[R]R=G(775721+-764922)p=E[R]e=L[c[1972082361%13600568]]U=L[c[-306432+306434]]f=U(x,J)U=207070+24907336795248 R=e[f]Z=p[R]R,e=-932599+932599,2060505027%10406591 p=Z(R,e)N[m]=p Z=L[c[534354-534353]]p=L[c[-500883-(-500885)]]e=G(702003+-691125)R=p(e,U)m=Z[R]R,p,Z=734101+-734101,1.8,A N[m]=Z m=L[c[506646+-506641]]Z=m(A,p,R)Z,m={A},E[G(-686632+696930)]elseif m<15947486-712570 then p=L[c[894276841%14660276]]R=p(N)Z,m={N},E[G(155008+-143397)]else m=L[c[-1012785-(-1012788)]]w=L[c[-603089-(-603090)]]R=29058581774097-(-308682)A=L[c[961134-961132]]p=G(306813+-296289)N=A(p,R)Z=w[N]w=6020201281%26933772<-485694+1351271 m[Z]=w m=426721+-419833 end end else if m<304879+14726900 then if 728428+14285800>m then V=1907398311%9304382 v=P()i=G(-44122-(-55828))L[v]=l K=E[i]E9,q,n,i=376603-366603,-662982+663237,G(-81000-(-92909)),G(356368+-344563)S=K[i]F,i=1875511551%10029473,694121-694120 K=S(i,F)S=P()F=962716-962716 L[S]=K K=L[U]i=K(F,q)H=-244191-(-244191)K=P()L[K]=i q=226382689%14148918 i=L[U]a=2210613974%10889724 y=L[S]F=i(q,y)i=P()L[i]=F q=L[U]y=q(V,a)q=1870593636%9124847 F=y==q q=P()a=G(1097716712%10163948)L[q]=F y,F=G(343527747%5725264),G(-354858-(-365264))B=E[n]F=Q[F]M=L[U]G9={M(H,E9)}n=B(z(G9))B=G(137557-127229)m9=n..B V=a..m9 a=G(897818892%11364652)F=F(Q,y,V)y=P()L[y]=F V=E[a]m9=g(7560584534%30669207,{U;v;f;N;w;j;q,y;S;i;K;x})a={V(m9)}F={z(a)}V=L[q]m=V and 2635474174%12517818 or 223215+1890984 elseif m<14025443-(-994861)then m=1533909255%6995818 else Z=L[c[828134-828133]]m=not Z L[c[902271-902270]]=m Z=L[c[968964211%15628455]]m=Z and 597538267%4289935 or 2965034-(-953406)end else if 89700309%24863720>m then m=v and 1466917097%18862111 or 3458250310%18756416 else w=L[c[-813404-(-813408)]]m=w and 228843+2393310 or-752465+3844173 end end end else if m<-6125+14675241 then if m<906386049%15115107 then if m<654259+13872188 then m=Z and 15625266-(-585215)or-300512+11111969 elseif m<14825595-277199 then k=L[c[-226497-(-226498)]]h=L[c[504755627%3059125]]K,F,i=G(-622215-(-633346)),682639+14480169119687,992589+28174750404082 S=h(K,i)W=k[S]l=j[W]h=L[c[1149871041%14373388]]i=G(446066-433979)S=L[c[-114700+114702]]K=S(i,F)k=h[K]K=21085665894389-(-591461)W=N[k]S=G(727756110%8086054)v=l-W W=L[c[595226+-595225]]k=L[c[659998+-659996]]h=k(S,K)l=W[h]m=v[l]v=m l=L[c[-771463-(-771469)]]m=v<=l m=m and-43319+4539999 or 2367471058%15665424 else Z=L[c[-582471+582473]]w=L[c[-139913+139916]]e,p=119174+32992873867901,G(912751615%3934228)A=L[c[-309515-(-309519)]]R=-826383+6097474676518 N=A(p,R)C=w[N]R=G(1548666419%8849457)A=L[c[788600+-788597]]N=L[c[518256+-518252]]p=N(R,e)w=A[p]Z[C]=w p=G(921853-910376)Z=L[c[-978819+978821]]w=L[c[306336507%12764021]]m,R=2935470-(-194691),26770450861950-(-827699)A=L[c[36454+-36450]]N=A(p,R)C=w[N]w=L[c[-869678+869684]]Z[C]=w end else if m<246913+14389146 then Z=G(437008140%8092534)m=E[Z]m=m and 2037989852%18643327 or 1915341120%12043147 elseif m<14549378-(-98141)then w,p=A(C,w)m=w and 3759340587%23884799 or 832841+621263 else A,e,R,m=nil,nil,nil,13556136-(-493397)end end else if m>409110+14548639 then if m<-241061+15226046 then w=L[c[146572190%13324744]]f,x,U,e=G(597189+-585133),-98507+18047521563039,14945396928238-(-224321),G(105018441%15001136)N=L[c[-582447+582450]]p=L[c[3325689960%16144126]]R=p(e,U)A=N[R]R=L[c[214382-214379]]e=L[c[382258+-382254]]U=e(f,x)p=R[U]U=17516427169583-601939 R=L[c[3286080334%15004933]]N=p..R e=G(-529721-(-541245))w[A]=N w=L[c[-472597-(-472603)]]N=L[c[657176+-657173]]p=L[c[-176620-(-176624)]]R=p(e,U)A=N[R]m=C and-1046412+7609291 or 13184464-(-34787)N=L[c[469271-469261]]w[A]=N else R=L[c[206885-206878]]m=-338376+3252648 U=L[c[2033875650%13742403]]e=R(U)p=not e A=p end else if m<14548308-(-166333)then m,Z=E[G(410662-399726)],{C;w,A}elseif m<-450352+15297594 then f,Z,m,x=G(247388+-236726),424146048%2256096,1956389958%15807134>709163981%9930194,21943+19218474683710 L[c[-374071-(-374072)]]=m L[c[-893917-(-893920)]]=Z w=L[N]J=34956649004298-163189 R=L[c[-325212-(-325216)]]e=L[c[-572827-(-572832)]]U=e(f,x)p=R[U]R,x=1337947975%11961077<=252573-(-290165),4100+18725767811595 w[p]=R f=G(1737847623%13165432)w=L[N]R=L[c[2084817830%11455043]]e=L[c[293997884%4666633]]U=e(f,x)p=R[U]R=5428521-536810<-409711+3377766 w[p]=R R,x=G(8035853%4011898),G(1418326287%7021358)p=E[R]e=L[c[986819-986815]]U=L[c[1527786181%13640948]]f=U(x,J)x=G(542225-531002)R=e[f]j=G(439288256%6187000)w=p[R]e=L[c[-768702+768706]]J=2081624713192-631839 U=L[c[844024316%5308329]]o=-55419+25416367965878 f=U(x,J)R=e[f]p=w(R)J=-332147+1057822626655 L[c[271433+-271427]]=p x=G(188312-177735)w=L[c[-64048-(-64054)]]e=L[c[920048-920044]]U=L[c[699640+-699635]]f=U(x,J)R=e[f]U=L[c[637850-637846]]f=L[c[236390357%1343127]]t,J=-292672+15215538492141,G(5298+5955)x=f(J,t)e=U[x]x=G(-410893+422626)w[R]=e w=L[c[50865+-50859]]t=34239550656129-(-257991)e=L[c[522764+-522760]]U=L[c[-338376+338381]]J=11295826858696-441916 f=U(x,J)J=G(239774501%2888722)R=e[f]e=L[C]w[R]=e e=G(255824341%4193644)R=E[e]U=L[c[-1019708+1019712]]f=L[c[-450307+450312]]x=f(J,t)e=U[x]J=G(-994937-(-1005793))w=R[e]U=L[c[295184-295180]]l=21230641671553-607971 f=L[c[-960422-(-960427)]]t=-703278+18262372310118 x=f(J,t)e=U[x]R=w(e)L[c[-908394+908401]]=R w=L[c[298636413%5061634]]t=641103+21576960024304 U=L[c[542526+-542522]]J,v=G(690579+-679019),813117+18542772713853 f=L[c[74217849%1279618]]x=f(J,t)t=G(-37800+49768)e=U[x]f=L[c[1381588950%7718374]]x=L[c[-806977+806982]]J=x(t,o)U=f[J]w[e]=U w=L[c[351988319%3034382]]U=L[c[-406804+406808]]t,J=34941965010935-(-145304),G(698789654%8958690)f=L[c[1518204933%14322688]]x=f(J,t)e=U[x]U=L[c[211933-211927]]w[e]=U w=L[c[722830255%8605122]]U=L[c[307955-307951]]J,t=G(329979799%6469984),805922+16671794401841 f=L[c[313759+-313754]]x=f(J,t)e=U[x]J=G(154020008%14000745)x=E[J]t=L[c[1167441972%4946788]]o=L[c[100326803%5573711]]Q=o(j,v)J=t[Q]f=x[J]Q,j=G(420131+-408146),-316474+17644250903634 J=L[c[-340353-(-340357)]]t=L[c[-179505+179510]]o=t(Q,j)x=J[o]U=f[x]w[e]=U J=G(-138948+150269)w=L[c[-120050+120057]]U=L[c[845223+-845219]]Q,t=G(878581-866567),803466+3838156768369 f=L[c[215252+-215247]]x=f(J,t)e=U[x]x=G(766676+-754970)f=E[x]j=4361788599969-681650 J=L[c[568053+-568049]]t=L[c[-367375+367380]]o=t(Q,j)t,v=-653895+1631330696510,G(1224253381%13306982)x=J[o]U=f[x]w[e]=U j,J,Q=21922+9989441617033,G(738538-727267),G(893052346%4675605)w=L[c[338635329%4576153]]U=L[c[3441512032%15094351]]f=L[c[-46902-(-46907)]]x=f(J,t)e=U[x]x=G(179938617%789156)f=E[x]J=L[c[517140+-517136]]t=L[c[-742728+742733]]o=t(Q,j)t=233577+1768481534670 x=J[o]U=f[x]w[e]=U w=L[c[-642788+642795]]J=G(147423+-135698)U=L[c[614094+-614090]]f=L[c[5804-5799]]x=f(J,t)e=U[x]o=1047061+734082746176 U=L[C]w[e]=U U,t=G(217606-205549),G(-201040-(-211599))e=E[U]f=L[c[-968867-(-968871)]]x=L[c[86104+-86099]]J=x(t,o)o,t=16869326044440-319081,G(-857042-(-867708))U=f[J]w=e[U]Q=344504+19651305595398 f=L[c[822004-822000]]x=L[c[305478855%12219154]]J=x(t,o)U=f[J]e=w(U)L[c[122733152%757612]]=e t=G(208353-197375)w=L[c[-192414+192422]]f=L[c[-625073+625077]]o=13732070952068-701322 x=L[c[170866818%10050989]]J=x(t,o)o=G(2151310463%15257447)U=f[J]x=L[c[580057-580053]]J=L[c[52217+-52212]]t=J(o,Q)f=x[t]w[U]=f w=L[c[-738682+738690]]f=L[c[737267+-737263]]o,t=1032749+21944538965437,G(-377192+387662)x=L[c[509702765%5663364]]J=x(t,o)t=G(1815473858%7119459)U=f[J]J=E[t]o=L[c[2136307628%13026266]]Q=L[c[-612966+612971]]j=Q(v,l)t=o[j]x=J[t]t=L[c[2684245684%11184357]]j,v=G(404244+-392280),-431803+12352878112051 o=L[c[2145605535%12621209]]Q=o(j,v)J=t[Q]t=G(-183769+194986)f=x[J]w[U]=f w=L[c[353014592%2262914]]f=L[c[347775-347771]]x=L[c[919198-919193]]o=-210481+17080607642946 J=x(t,o)U=f[J]f=L[c[480517246%2018980]]w[U]=f w=L[c[-775275+775283]]t,m,o=G(-289589-(-301611)),E[G(-891234-(-903334))],7615899387833-457183 f=L[c[1035853060%12331584]]x=L[c[117418-117413]]J=x(t,o)t=G(-729917+741507)U=f[J]f,o=185124690%24898563<749974762%17311696,60015+27932116912223 w[U]=f w=L[c[-293922+293930]]f=L[c[135883+-135879]]x=L[c[-627717-(-627722)]]J=x(t,o)U=f[J]f=205445-205415 w[U]=f w=L[c[-357531+357539]]t=G(992903-981133)f=L[c[3518877388%16291099]]v=-300840+26834373937143 x=L[c[2142784684%16111163]]o=512195+1907486503605 J=x(t,o)j=G(306071296%14574304)U=f[J]J=G(-424594+436300)x=E[J]t=L[c[-582504-(-582508)]]o=L[c[961964-961959]]Q=o(j,v)o=11473512207360-(-475358)J=t[Q]f=x[J]w[U]=f t=G(-167708-(-178401))w=L[c[1216507256%9215964]]f=L[c[1224710008%14579881]]x=L[c[20436080%206425]]J=x(t,o)U=f[J]f=L[C]w[U]=f o=G(-1003491-(-1014649))w=L[c[-826197-(-826206)]]Q=774511+1679762977183 U=w()U=L[c[-239988-(-239998)]]x=L[c[529786-529782]]J=L[c[933255+-933250]]t=J(o,Q)f=x[t]w=U[f]U=G(-648511+659457)f=s(1095204-899035,{c[396722-396721];C,c[-516166-(-516170)];c[-198300-(-198305)];N;c[515924244%2468537];c[-264782+264794];c[572904415%13640581],c[914819+-914816];c[554837731%15412159],c[520193-520185]})U=w[U]U=U(w,f)w=-104400+3911832~=1232496952%11088113 L[c[-73038+73052]]=U Z={w}else m=4118858380%16675540 L[c[524361+-524358]]=m m=2358048135%10710134 end end end end end else if 3143728054%21420057>m then if m<15871498-(-308786)then if 16187353-207478>m then if 409058+15464756>m then if 730142+15097261>m then m=x m=f and 2576292107%18638585 or 1007979+6743655 elseif 488033+15358608>m then Z,m={},E[G(532199791%7602701)]else A=2030869099%12536229 m=C[A]w=m m=2266777-(-589059)end else if m<-887289+16808572 then Q,e=G(378812187%4856421),G(465348-454954)Z=E[e]U=L[c[897947+-897946]]J,t=G(-628412+639218),-844345+33036836691536 f=L[c[592269570%9254212]]x=f(J,t)e=U[x]x=G(2731827254%13867084)m=Z[e]Z=m(N,p)e,j=Z,101016+11973966678831 Z=-954518-(-954519)f=E[x]J=L[c[2066515484%13685533]]t=L[c[1045085152%5471650]]o=t(Q,j)x=J[o]J=1015719+-1015718 U=f[x]t=L[c[270670-270667]]x=J-t t,C,Q=802212+-802152,nil,1410438124466-(-93918)J=w*t w,t=nil,17860190473932-519760 f=U(x,J)m=Z-f J,o,N,p,U=G(-3408-(-13765)),G(622729-612220),nil,nil,m Z=L[c[437516801%10937920]]R=nil f=L[c[521151+-521149]]x=f(J,t)m=Z[x]x=L[c[65334-65333]]J=L[c[937952+-937950]]t=J(o,Q)f=x[t]Z=A[f]f=G(-898849+909471)f=Z[f]f=f(Z,e,U)A[m]=f A,e,m,Z,U=nil,nil,E[G(-185836-(-197553))],{},nil else N=297272350%3670029 w=L[c[774005+-774004]]p=89786-89784 A=w(N,p)w=3723537581%16475830 C=A==w Z,m=C,C and 175111462%12066415 or 351282+7115898 end end else if m>15611757-(-494629)then if 1032222+15107225>m then i=I(i)m=485821+376218 K=I(K)v=I(v)q=I(q)S=I(S)y=I(y)F=nil else N,R=G(1894135231%9916881),18730115483992-223047 m=L[c[-793906-(-793907)]]C=L[c[689397-689395]]p=16033179577080-(-733746)w=L[c[928429+-928426]]U=34130321778427-76006 A=w(N,p)Z=C[A]p=G(152381-140519)w=L[c[-241077-(-241079)]]e=G(1028746+-1017719)A=L[c[886094+-886091]]N=A(p,R)C=w[N]m[Z]=C m=L[c[31713691%1057123]]N,p=G(122503+-110795),791773+26212647262929 C=L[c[-509459+509461]]w=L[c[861182344%6573911]]A=w(N,p)Z=C[A]A=G(327655+-315946)w=E[A]N=L[c[1043929637%10988733]]p=L[c[-264512-(-264515)]]R=p(e,U)A=N[R]C=w[A]N,p,A=-659584-(-659729),270982-270837,136447079%3327974 w=C(A,N,p)m[Z]=w m=-950665+14531874 end else if 451485+15554400>m then m=L[c[-866039-(-866040)]]p=6089170308008-(-900971)C=L[c[-955070-(-955072)]]N,R=G(-739154+750872),15761948214412-(-497695)w=L[c[-208042+208045]]A=w(N,p)Z=C[A]w=L[c[-637889-(-637891)]]p=G(47533125%435986)A=L[c[652108383%6210556]]N=A(p,R)C=w[N]m[Z]=C m=3020962318%14082216 elseif 16242767-192136>m then Z=L[c[403645-403643]]m=Z[C]Z=G(-6178-(-18288))Z=m[Z]Z=Z(m)Z=nil m=L[c[-1000343+1000345]]m[C]=Z m=1416031111%7145814 else U,Z,W,m,Q=nil,{},G(135708043%4679174),E[G(-716673-(-728086))],G(1815864316%9360065)o=E[Q]k,S=163776+3604388497102,G(799913882%4493832)j=L[c[3309261163%13343795]]v=L[c[2396563690%12884751]]l=v(W,k)Q=j[l]t=o[Q]Q=L[c[138276+-138270]]l=G(619640-608591)j=L[c[2810944249%12661911]]v=L[c[550262+-550254]]o=t(Q,j,v)K=5039251404471-404877 Q=x*o v=E[l]W=L[c[397872-397869]]k=L[c[221162+-221158]]h=k(S,K)l=W[h]j=v[l]l=1327358256%13544472 k=L[c[250703-250694]]e,h=nil,237899+4207492523612 W=k*o k=-732089+732089 v=j(l,W,k)t=Q+v Q=L[c[461532574%12820349]]R,k,N=nil,G(-891641+902251),nil v=L[c[-448831+448834]]p,x=nil,nil l=L[c[102547522%794942]]W=l(k,h)h,o,f,S,k,C=877098+25548927798351,nil,nil,G(666186+-654440),G(564122901%4372957),nil j=v[W]v=t Q[j]=v Q=L[c[-737450-(-737461)]]v=L[c[321555323%16077766]]l=L[c[804005828%5289512]]W=l(k,h)A=nil j=v[W]W=L[c[989740-989737]]K=346198+26269891716978 k=L[c[-403818-(-403822)]]h=k(S,K)l=W[h]v=w[l]w=nil Q[j]=v t=nil end end end else if m<376688+15906365 then if 527223936%20440013>m then if m<16647787-440139 then L[w]=a G9=L[i]m,H=m9,-362120-(-362121)M=G9+H n=F[M]B=J+n n=898360+-898104 m9=B%n J=m9 M=L[K]n=t+M M=-121162+121418 B=n%M t,m=B,6417003102%30192830 elseif-1048362+17264282>m then Z,m={},E[G(734252-722741)]else Z=L[c[-993826+993827]]m=not Z L[c[-25045-(-25046)]]=m Z=L[c[694544-694543]]m=Z and-893315+2346557 or-915391+15477634 end else if m<17169078-925004 then Z,C,m={},nil,E[G(765942+-755001)]else N=G(-617663-(-629369))A=E[N]p=L[c[356270-356269]]C,U=T[835759+-835758],G(445151+-433887)R=L[c[98795+-98793]]f=11834302785332-(-372306)e=R(U,f)N=p[e]w=A[N]x=29825245267420-659356 A=w(C)f,w=G(334030-322026),-906339.5-(-906340)Z=A*w w=-800468.5-(-800469)m=Z+w w,p=m,G(140654546%5409340)N=E[p]R=L[c[691687701%6288070]]J=15288078387162-912395 e=L[c[327279-327277]]U=e(f,x)p=R[U]R=2.094 A=N[p]p=C+R N=A(p)A=3160913999.5%14499605.5 Z=N*A A=-292915+292915.5 m=Z+A A,x,R=m,G(578350900%4131003),G(-708994-(-720700))p=E[R]e=L[c[493137+-493136]]U=L[c[166621+-166619]]f=U(x,J)R=e[f]N=p[R]e=4.188 R=C+e p=N(R)N=162056+-162055.5 Z=p*N N=940081.5-940081 m=Z+N N,p=m,G(-429661+441370)Z=E[p]R=L[c[2823114708%13906969]]f=G(184549-173364)e=L[c[514587+-514585]]x=113697694848-812108 U=e(f,x)p=R[U]m=Z[p]Z={m(w,A,N)}Z,m={z(Z)},E[G(20036-9546)]end end else if-548270+16921804>m then if m<15599039-(-731707)then m=L[c[-639972-(-639974)]]C=L[c[-922571-(-922574)]]p=19171451449123-(-95164)w=L[c[672250+-672246]]N=G(143907376%910736)A=w(N,p)R=6151283025922-(-1041198)Z=C[A]p=G(-475624-(-487475))w=L[c[581348-581345]]A=L[c[609135817%6152887]]N=A(p,R)C=w[N]m[Z]=C m=L[c[845114-845112]]C=L[c[-430391-(-430394)]]p,N=694501+32591065244259,G(-596805+607590)w=L[c[755764+-755760]]A=w(N,p)Z=C[A]N=G(515758-505327)C=L[c[-1041050-(-1041055)]]m[Z]=C m=L[c[-988769-(-988775)]]C=L[c[1337681214%10875457]]w=L[c[535698606%5522666]]p=34287126680741-824903 A=w(N,p)N=G(2210655895%16747301)Z=C[A]C=L[c[-638840+638845]]m[Z]=C m=L[c[-657064-(-657071)]]C=L[c[-312356+312359]]p=-998623+6879885085026 w=L[c[415281964%4828860]]A=w(N,p)Z=C[A]C=L[c[-853850+853855]]m[Z]=C p=277119+11963588205379 m=L[c[948451+-948443]]C=L[c[-935839-(-935842)]]N=G(3505360607%16380136)w=L[c[530008-530004]]A=w(N,p)Z=C[A]C=L[c[-249063+249068]]m[Z]=C m=6239001-291597 elseif 15441318-(-917977)>m then Z=L[c[-160948-(-160951)]]m=Z==C m=m and 9651714-635516 or 7121157-(-79321)else w=L[c[-795182+795192]]m=w and 12473667-457116 or-748484+11671975 end else if m<15912604-(-474221)then m=L[c[459677+-459676]]C=m m=L[c[1014661496%16633795]]m=m and 8722718-(-422581)or 223883661%10661739 else f,U=30334090116544-(-342381),G(-761786-(-773612))p=L[c[-504148-(-504149)]]R=L[c[166969350%2693054]]e=R(U,f)t=9027726762880-332565 N=p[e]A=C[N]m,J,e=561794+6688650,G(80269771%2675295),G(778563653%4718496)R=E[e]U=L[c[616657+-616656]]f=L[c[1009442534%6866956]]x=f(J,t)e=U[x]p=R[e]J,x=14689101075406-(-886506),G(214181320%4199403)e=L[c[1308860218%8903811]]U=L[c[227633-227631]]f=U(x,J)R=e[f]N=p[R]w=A==N Z=w end end end end else if m>7081196547%29192563 then if m<7415248647%33177514 then if m>-134359+16769377 then if m<298526+16343688 then l=G(2577256865%10350385)v=E[l]K,i=-875645+34689903156118,882302+8672090347848 W=L[c[1398580636%12831015]]k=L[c[-263794-(-263796)]]S=G(-135236+145657)h=k(S,K)l=W[h]m=v[l]K=G(504885+-492878)k=L[c[-938625-(-938626)]]h=L[c[1518769714%9991906]]F=6859105761707-208177 S=h(K,i)W=k[S]i=G(2562766273%13559551)l=j[W]h=L[c[15682540%15682539]]S=L[c[368095-368093]]K=S(i,F)k=h[K]W=j[k]v=m(l,W)K=G(-979090+990560)l=v-e k=L[c[22996123%7665374]]i=-33383+4494546750099 h=L[c[2140428323%8808347]]S=h(K,i)W=k[S]m=l[W]l=m m=l<w m=m and 1522684-(-282765)or 58881+7545537 else t=not e x,m=t,3132275502%21275751 end else if 2003586047%19291049>m then e,m=3743515-1034288<=5701580554%24647132,13888419-(-252328)R=L[c[958891+-958884]]R[p]=e elseif m<429307+16194577 then Z=-548692-(-548762)m=N<Z m=m and 7775079-(-1020213)or 3547622095%21071925 else m,Z=E[G(831654285%10942672)],{}end end else if-310050+17027954>m then if-1034432+17721750>m then m=C and 3780653-902249 or 126006+4436402 elseif m<15870792-(-824048)then m=L[c[-436416+436421]]U,x=G(2358636618%9213378),1077826179753-(-44876)p=L[c[15699753%15699752]]R=L[c[626881-626879]]f=31825619446668-(-577111)e=R(U,f)Z=p[e]f=G(-392833-(-404370))R=L[c[451276+-451275]]e=L[c[-502110-(-502112)]]U=e(f,x)p=R[U]m[Z]=p m=648604+7656883 else m=U m=Z and-381022+430106 or 2023391829%26790526 end else if m<-698426+17440382 then w,m,Z=nil,nil,nil Z={m;Z;w}m=E[G(1952670381%13466613)]else f,m=J,t m=J and 1892344-(-763754)or 3206114-(-801515)end end end else if m<2911270988%18321286 then if m<-223618+16719373 then if m<122874+16296346 then h=-772666+20164933660392 v=L[c[990891+-990890]]l=L[c[576357782%6066924]]k=G(334738-323263)W=l(k,h)j=v[W]S=2828261092089-(-743980)Q=t[j]h=G(-76031-(-87398))l=L[c[167231749%961102]]W=L[c[-468687+468689]]k=W(h,S)v=l[k]j=N[v]o=Q-j j=L[c[391712301%4608380]]W=G(-946758-(-958339))v=L[c[1415929664%13357827]]k=16472782812916-923902 l=v(W,k)Q=j[l]m=o[Q]o=m Q=L[c[-831003+831010]]m=o<=Q m=m and 1917517993%12500093 or 2573562010%20379091 elseif m<4528490721%30486697 then Z=L[c[-715972+715973]]m=not Z L[c[601822079%4208546]]=m Z=L[c[83528+-83527]]m=Z and 542979+13770789 or 1194930993%19025082 else m=L[c[759581931%6437135]]w=L[c[-1027635-(-1027637)]]A=L[c[-60131+60134]]R,p=8420351985600-686191,G(498848-488217)N=A(p,R)C=w[N]Z=m(C)Z,m={},E[G(-384612-(-395940))]end else if 17252276-752678>m then m=-310161+310162 C-=m m=605326573%8939733 else S,o=not h,j+o t=o<=Q t=S and t S=Q<=o S=h and S t=S or t S=4275729-967906 m=t and S t=851822+8798479 m=m or t end end else if 15874037-(-718891)>m then if 138230+16381980>m then m,Z=E[G(417816-406440)],{}elseif m<17057361-498680 then N=L[c[-309662+309663]]J,e,U=26076190837383-(-763111),G(-396601+407486),13385347838463-203174 p=L[c[617067961%3785693]]R=p(e,U)A=N[R]R,x=G(447616+-435803),G(565129+-553942)Z=C[A]p=E[R]e=L[c[-475375+475376]]U=L[c[264516+-264514]]f=U(x,J)R=e[f]f=G(1464807654%6313776)N=p[R]R=L[c[275493674%2071381]]e=L[c[857464+-857462]]x=519795+17780027650532 U=e(f,x)p=R[U]A=N[p]m=Z==A m=m and 200599+6805318 or-486491+15735066 else Z,m={},E[G(204285+-193778)]end else if m<-442468+17037096 then w=L[c[54109+-54107]]A=-972610-(-972823)C=w*A w=27552854810881-339684 Z=C+w C=962612+35184371126220 m=Z%C L[c[60139-60137]]=m m=2276526378%18613073 else Z=L[c[276769-276768]]m=not Z L[c[895128+-895127]]=m Z=L[c[946397+-946395]]C=Z()Z=L[c[104915409%3384368]]m=Z and 488149+6311665 or 14082225-(-879987)end end end end end end end else if m<-698441+10967106 then if m>10132166-869358 then if m>266967664%25733361 then if-954678+10850658>m then if m>8986905-(-808390)then if m>790585+9066278 then if m<3543685449%22798784 then Z=L[c[1401093234%15921514]]w=L[c[-404600+404603]]p=G(-465440+475925)A=L[c[-830516-(-830520)]]R=34814331692030-582827 N=A(p,R)e=18762157808010-128874 C=w[N]A=L[c[-371344+371347]]R=G(891982-880579)N=L[c[395577494%7192318]]p=N(R,e)w=A[p]Z[C]=w R,p=824464+15453232252811,G(311123246%2592595)Z=L[c[2734889159%14470313]]w=L[c[1794209770%13490299]]A=L[c[-677480+677484]]m=186765707%15547328 N=A(p,R)C=w[N]f=748028+15665301303938 w=L[c[539207-539202]]R=861761+25254584125359 Z[C]=w Z=L[c[-57576-(-57582)]]w=L[c[2170346688%11129983]]p=G(-784735+796700)A=L[c[264410+-264406]]N=A(p,R)C=w[N]w=367601+-367598 Z[C]=w Z=L[c[616586520%13118862]]w=L[c[3122077749%14657642]]R=20398677352621-621459 A=L[c[-714978+714982]]p=G(342971+-332720)N=A(p,R)p,R=G(930851925%9037282),700241+14369897343698 C=w[N]w=460007-459993 Z[C]=w Z=L[c[-1003905+1003911]]w=L[c[290290-290287]]A=L[c[-430467-(-430471)]]N=A(p,R)C=w[N]w,U,R=2375667964%9426857,G(1811758114%8969043),75677168241183%497876184968 Z[C]=w Z=L[c[2171423589%10489969]]p=G(-61022-(-72115))w=L[c[979906973%4780034]]A=L[c[813686-813682]]N=A(p,R)C=w[N]w=9158857-759199>=2397846677%15308556 Z[C]=w Z=L[c[-286300-(-286306)]]R=26351053259910-300184 w=L[c[497034+-497031]]p=G(1035065+-1024061)A=L[c[437693+-437689]]N=A(p,R)C=w[N]N=G(1460978313%14323202)A=E[N]p=L[c[-216346+216349]]R=L[c[1091302203%4938019]]e=R(U,f)N=p[e]R=-20562+20817 w=A[N]p,N=1287535107%6016518,721737-721482 A=w(N,p,R)Z[C]=A p=G(788934-777375)Z=L[c[-435215-(-435221)]]U,R=G(28345+-16504),22787943565506-(-483505)w=L[c[353225038%5986865]]f=437684+1066931475516 A=L[c[925255+-925251]]N=A(p,R)C=w[N]N=G(881070+-869361)A=E[N]p=L[c[-724305+724308]]R=L[c[-803170-(-803174)]]e=R(U,f)N=p[e]w=A[N]R,p,N=-307411+307666,283845635%3119180,2230784715%12393247 A=w(N,p,R)Z[C]=A else Z,m={w},E[G(943084+-932564)]end else if m<2304012397%10428113 then m=10800141-1000032>16321472-706524 Z={m}m=E[G(-161627-(-172456))]elseif m<1290214027%9848993 then Z=G(-970425-(-981164))m=E[Z]p,N=G(-824401+836196),G(-589093+600795)A=E[N]p=A[p]N={p(A)}A={m(z(N))}Z,C,m,w=A[306829-306828],A[34294852%6858970],-309165+2517941,A[962448-962445]A=Z else m=L[c[644521333%3541326]]m=m and 11854804-438 or 1049704563%4466610 end end else if m<1644835048%25954529 then if 2451395319%12651554>m then Z,m,C={},E[G(633646930%4369900)],nil elseif m<9134518-(-528540)then m=12836+824899 else Z=G(-455287-(-466904))m=L[c[-1022142-(-1022145)]]Z=m[Z]Z=Z(m,C)m=Z and 9930211-25719 or-238301+1945136 end else if m<649846+9097994 then m=L[c[-423924-(-423930)]]t=m(J)m=t and 856928+15555039 or 574955+1774415 else w=L[c[1766059714%8138524]]N=L[c[422501-422498]]U=790621+24875183463650 p=L[c[189716804%7588672]]f,x,e=G(220057412%1583063),-386437+32833217225022,G(129842675%1475357)R=p(e,U)A=N[R]R=L[c[926116-926113]]m=1007093-734985 e=L[c[-282741+282745]]U=e(f,x)p=R[U]R=L[c[1036479-1036472]]N=p..R w[A]=N w=L[c[149642+-149636]]N=L[c[1005242+-1005239]]e,U=G(-849791-(-861288)),-641216+3146529164921 p=L[c[1038559498%9110171]]R=p(e,U)A=N[R]N=L[c[1589367509%6540607]]w[A]=N w=L[c[-948672-(-948681)]]A=w()end end end else if 9140543-(-928689)>m then if 1008706+8937540>m then if m<659105+9246762 then m=10389722-463540<=1122015310%11530090 Z={m}m=E[G(-374597+384957)]elseif 549811+9358142>m then U=G(211700+-200813)m=L[c[328153+-328148]]N,f=G(-57202-(-67837)),29317141989190-(-110093)A=E[N]p=L[c[-384653-(-384655)]]R=L[c[869360+-869357]]e=R(U,f)N=p[e]R=582131+8229332184325 w=A[N]A=w()w=1.8 C=A*w Z=m(C)m=L[c[809261-809255]]w=L[c[-172804+172806]]A=L[c[-519612-(-519615)]]p,C=G(-108775-(-120206)),Z N=A(p,R)Z=w[N]w=C m[Z]=w m=L[c[-831490-(-831497)]]R=23766197784478-(-449437)w=L[c[354745430%1555901]]p=G(-450466-(-461151))A=L[c[2012713395%12052176]]N=A(p,R)Z=w[N]p,w=G(173696181%11578945),C m[Z]=w R=16992302092996-(-248868)m=L[c[883684-883676]]w=L[c[-776981-(-776983)]]A=L[c[-45086+45089]]N=A(p,R)Z=w[N]w=C C=nil m[Z]=w m,Z=E[G(-501566-(-512028))],{}else p=L[c[510251+-510250]]A=G(1635984439%10762982)A,m,f,U=C[A],-708697+11968481,21009063559645-(-369754),G(76278420%348250)R=L[c[-1021879+1021881]]e=R(U,f)N=p[e]A=A(C,N)w=not A Z=w end else if m<3327213162%16838602 then Z=L[c[-676944-(-676954)]]m=Z and 738113-135889 or 1352124347%14298751 else C,Z,m=nil,{},E[G(2425593998%10234526)]end end else if 10993889-805865>m then if m<-139702+10269263 then Z,m={},E[G(1328224773%7546672)]elseif 4222237295%20250331>m then p,R,f=G(104734403%1805575),-559669+28363833130444,15691901296986%1207069775854 Z=L[c[939288850%6303952]]w=L[c[546908+-546905]]A=L[c[-464121-(-464125)]]N=A(p,R)C=w[N]e=840691+13632759301337 A=L[c[3448631069%13739566]]R=G(-414295-(-424853))N=L[c[615796+-615792]]p=N(R,e)w=A[p]R=-649215+19998073031775 Z[C]=w Z=L[c[1795849079%9603471]]w=L[c[-177652-(-177655)]]A=L[c[444987830%12026698]]p,U=G(523044+-511023),G(-342022+353366)N=A(p,R)p=G(242775+-231936)C=w[N]w=L[c[-369479-(-369486)]]Z[C]=w Z=L[c[2321629272%11108274]]w=L[c[-688838-(-688841)]]A=L[c[-747480-(-747484)]]R=1949588735959-115788 N=A(p,R)C=w[N]A=L[c[861871+-861863]]p=L[c[-165753-(-165756)]]R=L[c[246188-246184]]e=R(U,f)N=p[e]w=A[N]Z[C]=w p=G(-656479+666867)Z=L[c[-367053-(-367059)]]f=27876981525801-645748 w=L[c[866000+-865997]]R=27255899306238-(-637078)A=L[c[-105289-(-105293)]]N=A(p,R)C=w[N]A=L[c[3351717858%16270475]]p=L[c[-377414+377417]]R=L[c[1128874194%7732015]]U=G(997597+-986855)e=R(U,f)R=1284794899071-890921 N=p[e]U,p=G(-7273-(-18245)),G(113206-101330)w=A[N]Z[C]=w Z=L[c[601765+-601759]]w=L[c[977127-977124]]A=L[c[125492-125488]]N=A(p,R)C=w[N]A=L[c[376110129%8746747]]f=18984921624249-(-62415)p=L[c[537522-537519]]R=L[c[269498-269494]]e=R(U,f)f,U=517781+15115673777385,G(91907+-81647)N=p[e]w=A[N]p=G(507170+-496863)Z[C]=w R=6.4891032950041e+14%11587684546513 Z=L[c[1040040-1040034]]w=L[c[140817-140814]]A=L[c[-104190-(-104194)]]N=A(p,R)C=w[N]A=L[c[846585-846577]]p=L[c[968872+-968869]]R=L[c[1319802114%11998201]]e=R(U,f)N=p[e]w=A[N]U,R=G(174037+-163042),728600270966-251683 Z[C]=w Z=L[c[-546674-(-546680)]]p=G(1041696-1031219)w=L[c[147558-147555]]A=L[c[711137-711133]]f=14556894124792-(-524162)N=A(p,R)C=w[N]A=L[c[413530-413522]]p=L[c[1030243-1030240]]R=L[c[1007360996%3981664]]e=R(U,f)N=p[e]w=A[N]U,R=G(628406486%11024491),19814468838954-442912 Z[C]=w p=G(-641281-(-652881))Z=L[c[1413823894%14575504]]w=L[c[-910314-(-910317)]]A=L[c[-385003+385007]]m=811925-614154 N=A(p,R)C=w[N]A=L[c[666994373%5799951]]p=L[c[219319939%2492272]]R=L[c[-861811+861815]]f=33379701322434-(-969205)e=R(U,f)N=p[e]w=A[N]Z[C]=w else N=L[c[1367264323%7196128]]p=L[c[-594081-(-594085)]]U,e=476113+16280508307916,G(238804-227046)R=p(e,U)A=N[R]Z=w[A]f=959153+33209210608055 p=L[c[1371053071%6753956]]R=L[c[-683507-(-683511)]]U=G(-751044+761662)e=R(U,f)N=p[e]A=w[N]m=Z<A m=m and 14846896-503881 or 778925373%20817884 end else if 2812513841%14519740>m then m=Z and-163613+12141690 or 15808913-(-416949)else w=L[c[-636285+636286]]U=16679592914361-(-635038)N=L[c[-334776+334778]]p=L[c[-1014955-(-1014958)]]e=G(173304-162773)R=p(e,U)A=N[R]x,p,f=-965222+28310778686949,G(460706+-448797),G(-629908+640819)N=E[p]e=G(335210-324661)R=L[c[4459-4454]]p=N(R)U=30279205590352-(-1040835)w[A]=p w=L[c[-366345+366352]]N=L[c[693370+-693368]]p=L[c[-964633-(-964636)]]R=p(e,U)A=N[R]R=L[c[558495137%2986605]]e=L[c[-941715-(-941718)]]U=e(f,x)p=R[U]R=L[c[241761041%3663046]]N=p..R w[A]=N w=L[c[774816+-774808]]m=w and-554844+7801217 or 10969096-935789 end end end end else if m<-881758+10342936 then if 3714936040%23452968>m then if 4764575907%20321670>m then if m<3506382640%15612102 then C,m,Z=nil,E[G(489155-478096)],{}elseif m<9027874-(-260542)then m,W,l=1122774-(-869260),nil,nil else C,w=T[1888177795%16709538],T[1674075314%13286312]m=w and-724257+16351175 or 1733617-(-905996)end else if m<8908603-(-418618)then w=L[c[405724951%5409666]]C=#w A=L[c[156957+-156956]]w=A[C]N=nil A=L[c[-151867+151868]]Z,m={w},E[G(351916+-341571)]A[C]=N elseif m<10385010-1029328 then k,m=G(-638555-(-650295)),422278050%6776684 W=E[k]f,k=J,G(-70121+81998)l=W[k]W=l(C,f)l=L[c[-547691+547697]]k=l()v=W+k j=v+e v=559872-559616 Q=j%v W,e=1176477233%7307312,Q l=e+W f=nil v=N[l]j=U..v U=j else N,R=w(A,N)m=N and 2229443-623789 or-768566+14774522 end end else if 10405222-998532>m then if m<89955+9291750 then m,Z=E[G(968101-956777)],{}elseif 3122305227%19097597>m then R=L[c[2061401223%9202684]]m,e=395763+5624325,1530240688%6800825<2926024903%21585209 R[p]=e else Z,m={C},E[G(268157+-256211)]end else if-901069+10322230>m then m=L[c[3554879233%16534322]]m=m and 360185+15226237 or 3454281-1017881 else N=w R=L[c[1408239722%7823554]]m=N==R m=m and 2123273-(-930385)or 3878723692%15909149 end end end else if m<10272833-692260 then if 8783466-(-768948)>m then if m<4742785354%21130706 then w,A=G(1300221303%14944939),-103351+2019585 C=w^A Z=1190111-(-827227)m=Z-C C,Z=m,G(776575-764624)m=Z/C Z={m}m=E[G(-300434+311597)]elseif m<8666236-(-869111)then m=nil Z={m}m=E[G(-381197-(-391893))]else e,R,U,m=789903+23519646375225,G(633483746%3886340),G(-891290+902258),7604855-(-931532)~=4611301906%19899981 L[c[-187570+187573]]=m A=L[c[235669+-235668]]N=L[c[495778+-495776]]p=N(R,e)w=A[p]Z=C[w]L[c[943498996%5422408]]=Z f=2725+32959084638542 A=L[c[116223+-116218]]p=L[c[-305587+305588]]R=L[c[185609146%1111432]]e=R(U,f)N=p[e]w=A[N]m=3744209-957336 L[c[842972862%6386158]]=w end else if m<-327851+9892446 then w=L[c[-146761-(-146762)]]C=not w m,Z=C and 4191608677%17102567 or 1004252+12149451,C else C=N e=L[c[1998591124%13783387]]R=p~=e m=R and-244617+9640249 or 2971974876%14328284 end end else if 10199484-599965>m then if 650187+8935987>m then f,U=G(35145+-23662),G(918819-907336)U,f,W=p[U],p[f],-870427+26491553708107 U=U(p,R)f=f(p,e)l=G(-103036+113696)J=A*U t=N*f x=J+t Q=L[c[-617788+617791]]j=L[c[-397274-(-397278)]]v=j(l,W)o=Q[v]t=x[o]o=1857404529%8006054 J=t>o m=J and 15755198-189302 or 3211005750%17749534 elseif m<9189385-(-398974)then Z=L[c[606168700%2832564]]C=Z()m=C and 7030595-(-91456)or 10804920-(-16101)else w,m,R=G(3753326%935405),nil,G(-449826+461084)Z=E[w]C,e=m,3557973701316-(-775092)A=L[c[115347761%455920]]N=L[c[329789-329787]]p=N(R,e)w=A[p]m=Z[w]Z=L[c[410646+-410643]]N=L[c[1022706+-1022705]]e,U=G(2252642606%15752669),20582783003730-(-31006)p=L[c[-602884-(-602886)]]w=m R=p(e,U)A=N[R]m=Z[A]A=m Z,m=A,A and 12696841-(-337971)or 1381434897%10570843 end else if m<-1010230+10628721 then l=L[U]h,k=201291821%2368139,455671441%2410960 W=l(k,h)h,l=G(977224616%5170442),G(-86602-(-97680))E[l]=W k=E[h]h=-719755-(-719757)l=k>h m=l and 13551362-71969 or 10258715-(-245514)else m=L[c[-200492+200494]]Z=m()m=785206503%28550370 end end end end end else if m<697107+8065351 then if m>4947700164%19293276 then if 4286841502%25314460>m then if m<8545259-(-116797)then if m<7861309-(-794108)then F=-696208+11527316518023 h=L[c[429108841%5297640]]i,m=G(-897732-(-909004)),4520389252%22761872 S=L[c[225936002%4707000]]K=S(i,F)k=h[K]W=j[k]k=345765+-345765 l=W>k v=l elseif m<2005721669%15244757 then N,p=w(A,N)m=N and-431174+10007021 or 1680723702%21727402 else m=2164816397%16525316 R=m m=4381363-(-737032)end else if m<-52582+8721540 then m,w,C,Z=E[G(547546-536628)],nil,nil,{}else Z=L[c[584913316%3701983]]w=L[c[-307280+307283]]A=L[c[-963187-(-963191)]]m,p,R,e=70193+16445066,G(-865676+877326),24754692390708-(-159187),752069+7764435276890 N=A(p,R)C=w[N]A=L[c[33212-33209]]R=G(2560468810%14465866)N=L[c[892743946%6469159]]p=N(R,e)w=A[p]Z[C]=w Z=L[c[78773973%4633763]]w=L[c[822801603%5713900]]p,R=G(990029469%4583421),-929390+226081746647 A=L[c[689977864%4422935]]N=A(p,R)C=w[N]w=L[c[68674-68667]]Z[C]=w Z=L[c[644537-644529]]C=Z()Z=nil L[c[249800-249791]]=Z end end else if m<-463463+9216280 then if 106602+8619898>m then Z=L[c[1610501510%8521172]]w=L[c[603095600%3568613]]A=L[c[-230075+230079]]p,R=G(184812575%1635405),-95090+25199028773192 N=A(p,R)C=w[N]A=L[c[256761-256758]]e=19258517191717-563486 N=L[c[138001+-137997]]R=G(347481400%10858464)p=N(R,e)w=A[p]Z[C]=w Z=L[c[16473162%411829]]w=L[c[100429588%1209995]]p,R,e=G(-94816+106141),26052285122535-(-780156),15723052724265-889744 A=L[c[1214035386%5100989]]N=A(p,R)C=w[N]w=L[c[-795948+795955]]m=728511693%21647924 Z[C]=w Z=L[c[1026712-1026704]]C=Z()w=G(361929-350914)C=E[w]A=L[c[815664-815661]]R=G(801487104%12143564)N=L[c[-679810-(-679814)]]p=N(R,e)w=A[p]Z=C[w]w=L[c[-357559-(-357568)]]C=Z(w)Z=nil L[c[95338538%2979329]]=Z elseif m<3825669815%18089709 then m,Z=E[G(-233258+245130)],{}else A=L[c[104717-104716]]w,C=not A,T[789606-789605]m,Z=w and 3218667164%16962801 or-569685+1448798,w end else if m<214791+8542522 then C=L[c[830912111%3391478]]Z=#C C=975652+-975652 m=Z==C m=m and-51710+16645365 or-274008+9583500 else w,R=G(3325588515%13302310),G(-432932-(-443730))Z=E[w]A=L[c[793632522%3293081]]N=L[c[52168+-52166]]e=991999+6621734496524 p=N(R,e)w=A[p]m=Z[w]w=L[c[2919325348%15780137]]Z=m(w,C)m=10643145-(-274740)end end end else if m>-601206+8989988 then if-794479+9282860>m then if m<8552490-153458 then p=G(599159781%13933668)Z=E[p]f,x=G(1795227600%11657248),33729038758492-(-805630)R=L[c[907552501%6050350]]e=L[c[2560272365%12250107]]U=e(f,x)p=R[U]m=Z[p]x=32331987977357-(-718402)R=L[c[-832188-(-832189)]]f=G(143810-132319)e=L[c[2945874122%13451480]]U=e(f,x)p=R[U]Z=m(p)N,U,f=Z,G(-146498+158528),26911520311365-(-862382)p=L[c[468426-468425]]R=L[c[591889712%3115209]]e=R(U,f)m=p[e]f=G(405412719%4406547)R=L[c[224238781%8305140]]e=L[c[2766573524%15455718]]x=24596529405116-307199 U=e(f,x)f=42238+4262346040002 p=R[U]N[m]=p p=L[c[727395374%7062091]]x=24128943354323-886256 R=L[c[-326903-(-326905)]]U=G(466164584%8632486)e=R(U,f)m=p[e]R,e,f=m,1.8,G(-722884-(-733721))p=w or e N[m]=p R=L[c[201783-201782]]e=L[c[-157252-(-157254)]]U=e(f,x)e=m p=R[U]U,f=833338+-833338,G(503044-492507)R=A or U N[p]=R x=13504885512272-(-262208)R=L[c[240956+-240955]]e=L[c[181535-181533]]U=e(f,x)p=R[U]x,m=27242326712094-(-21103),14503143-(-718555)U=L[c[-617441-(-617444)]]f=L[c[224145760%1932291]]e=U[f]f,U=G(-662117+674017),259846435%14435913 R=e[U]N[p]=R R=L[c[354897001%1971650]]e=L[c[-611024-(-611026)]]U=e(f,x)p=R[U]R=C N[p]=R elseif 500228411%14902890>m then m=L[c[-382112+382118]]N=w R=m(p)m=R and 2280817-4058 or 1140010-498639 else w=G(-1018508+1029247)Z=E[w]R=G(495790314%12092159)R=C[R]p={R(C)}R={Z(z(p))}w,N,m,A=R[478209597%15426116],R[-383665+383668],9386159-19745,R[-819033+819035]end else if 468913+8084980>m then m={}A=L[c[-296274+296283]]C,N=m,A A,w=-1015992+1015993,400891-400890 p,m=A,11033443-(-330466)A=61783-61783 R=A>p A=w-p else C=L[c[108720501%3882875]]m,Z=C and 1677156256%8253384 or 13598501-101067,C end end else if 7491230-(-820310)>m then if 8545775-301582>m then C=T[66448007%420557]m=not C m=m and 3133592593%13451539 or-810464+4168724 elseif 8019641-(-256696)>m then f,p=G(287382-275898),G(-221193+232895)Z=E[p]R=L[c[563745+-563744]]e=L[c[28274498%1767156]]x=-819704+25093492830109 U=e(f,x)p=R[U]m=Z[p]p=m m=not p m=m and 5600437-980801 or 681410+2373990 else Z=L[c[368562+-368556]]R=L[c[1680016924%7088679]]A=nil e=L[c[-318810-(-318812)]]f,x=G(714942-703597),18639063855472-446345 U=e(f,x)N=nil p=R[U]m=Z[p]Z=G(-604970+616755)Z=m[Z]Z=Z(m)m=1871484578%18841773 end else if m<-668011+8994120 then U=-833881-(-833882)Z=e==U m=Z and 11798+4315693 or 426573+7106737 elseif-340586+8701831>m then Z=L[c[-1026702+1026705]]w=L[c[1927271943%12934711]]m=Z==w m=m and 3662312006%27017472 or 1573990135%8734286 else U,A=11019289095307-1005696,G(-242468+253220)Z=E[A]N=L[c[1515132408%11223203]]e=G(1254730329%6709727)p=L[c[3538051254%14152205]]R=p(e,U)A=N[R]N=D(222909+7945469,{c[746908514%8891768];c[-996631-(-996634)];c[3006832945%13856373]})m=Z[A]C,w,A=nil,nil,22075055%11037526 Z=m(A,N)Z,m={},E[G(-944980+956258)]end end end end else if m<625672+8283663 then if 7892115-(-972151)>m then if 496780+8320733>m then if 678660+8101595>m then w,C,e,A=T[912141-912139],T[567350443%12071286],G(511859988%2159703),G(604404+-592347)Z=E[A]N=L[c[153314458%3739377]]p=L[c[-304485-(-304487)]]f,U,x=G(3410800961%13323397),341013+33733137877319,-925512+1867352777389 R=p(e,U)A=N[R]m=Z[A]N=L[c[738802+-738801]]e=G(893223-881862)p=L[c[-264761+264763]]U=-509835+3114813263157 R=p(e,U)A=N[R]Z=m(A)e,A=86589383096456%721578231944,Z Z=L[c[425114+-425113]]N=L[c[-400821+400823]]R=G(-241632+252443)p=N(R,e)m=Z[p]p=G(-1004905-(-1016783))N=E[p]R=L[c[2315248840%9527773]]e=L[c[1046418162%5507464]]U=e(f,x)e=818229+-818229 p=R[U]Z=N[p]R,x,U,p=538128+-538136,31649078980189-(-428852),195004+-194959,561111-561110 N=Z(p,R,e,U)R,f=G(207042527%2620659),G(69113814%13820524)A[m]=N Z=L[c[1436184329%14806024]]e=966915+31591452538995 N=L[c[-515463-(-515465)]]p=N(R,e)m=Z[p]p=G(712051921%7340619)N=E[p]R=L[c[77969-77968]]e=L[c[492403940%6312871]]U=e(f,x)p=R[U]Z=N[p]e,p,R=1413893922%7288113,3875128488%16775448,19477702%177070 N=Z(p,R,e,w)A[m]=N x,e,R=533747+27387183107294,-643324+1397418840966,G(536383+-525967)Z=L[c[-58239+58240]]N=L[c[326882234%1911592]]p=N(R,e)m=Z[p]e=14747315547818-676823 Z=L[c[1727767117%16774438]]A[m]=Z R=G(-737971-(-748423))Z=L[c[-970104-(-970105)]]N=L[c[-915501+915503]]p=N(R,e)R,J=G(1018466364%4715069),-7385+16237197326946 m=Z[p]Z=.22 A[m]=Z e=-250266+6466918473053 Z=L[c[408763-408762]]f=G(1660007552%16599963)N=L[c[547016+-547014]]p=N(R,e)m=Z[p]Z,e=C,-83069+7735402402447 A[m]=Z R=G(244542528%11115046)Z=L[c[-775347-(-775348)]]N=L[c[298620+-298618]]p=N(R,e)m=Z[p]p=G(-682961+694670)N=E[p]R=L[c[1030962961%7159465]]e=L[c[-200361-(-200363)]]U=e(f,x)e=242996+-242761 p=R[U]R=-48611+48846 Z=N[p]p=-365595-(-365830)N=Z(p,R,e)x,R,e=G(610213+-598667),G(424562046%2332699),838486+21912520350853 A[m]=N Z=L[c[99015+-99014]]N=L[c[146982478%686834]]p=N(R,e)m=Z[p]Z,e=809889419%5363506,2590901959914-30772 A[m]=Z Z=L[c[1352045901%9521450]]R=G(-320516+331719)N=L[c[-992573+992575]]p=N(R,e)m=Z[p]R=G(111769+-99956)p=E[R]e=L[c[-589421+589422]]U=L[c[2041848105%8134853]]f=U(x,J)R=e[f]N=p[R]x,f=-596843+14389636560279,G(-153946-(-164634))R=L[c[511229+-511228]]e=L[c[749482-749480]]U=e(f,x)p=R[U]Z=N[p]R=G(1360066030%6602206)A[m]=Z e=16182578406215-984536 Z=L[c[-958576+958577]]N=L[c[796241+-796239]]p=N(R,e)m=Z[p]Z=812763-812763 A[m]=Z R=G(996695-984666)Z=L[c[-63631-(-63632)]]e=-76134+21174901428202 N=L[c[497621266%12137104]]p=N(R,e)R=G(1007609-996773)m=Z[p]e,Z=29397687911801-(-1044480),1700128669%12027020~=16006276-(-506934)A[m]=Z Z=L[c[-484103-(-484104)]]N=L[c[26542109%1396953]]p=N(R,e)m=Z[p]e,R,Z=19820298281803-540478,G(2670643963%15617741),-910095-(-910200)A[m]=Z Z=L[c[933381666%4886815]]f=7115417338657-(-444880)N=L[c[-567923+567925]]p=N(R,e)m=Z[p]N=G(801086507%7282495)Z=L[c[559158-559154]]A[m]=Z U,x=G(351578-339731),G(-791147-(-802280))Z=E[N]p=L[c[828242953%6420488]]R=L[c[1490929871%10426083]]e=R(U,f)N=p[e]m=Z[N]p=L[c[79084+-79083]]R=L[c[857406+-857404]]U,f=G(-76144+87234),-391575+28261026934015 e=R(U,f)N=p[e]Z=m(N)N=Z Z=L[c[-590937+590938]]p=L[c[1787302870%7236044]]e,U=G(706529211%4558178),23663607173330-75207 R=p(e,U)m=Z[R]R=G(-288096-(-298895))p=E[R]e=L[c[-1030681+1030682]]J=-399587+2509420436851 U=L[c[-231747-(-231749)]]f=U(x,J)U=864201+33866755411409 R=e[f]e=744510+-744502 Z=p[R]R=-191560+191560 p=Z(R,e)N[m]=p e=G(-188927-(-200959))Z=L[c[275374+-275373]]p=L[c[-763375-(-763377)]]R=p(e,U)m=Z[R]Z=A N[m]=Z p=1.8 m=L[c[135714+-135709]]R=-222527+222527 Z=m(A,p,R)Z,m={A},E[G(2062067851%14419978)]elseif m<85597+8714552 then m=L[c[147898163%979458]]f=9275181712695-537688 p=L[c[-321733+321734]]R=L[c[1098588059%5520543]]U=G(-352714+364503)e=R(U,f)Z=p[e]f=G(285920-274721)R=L[c[441993-441992]]e=L[c[-1037969-(-1037971)]]x=8251244345724-633466 U=e(f,x)p=R[U]m[Z]=p m=418403154%13228957 else N,p=w(A,N)m=N and 379825459%6929038 or 567228+5909217 end else if m<8637707-(-199322)then Z=L[c[1228561045%9168366]]m=not Z m=m and 2882568865%23159067 or 7814736-840337 else w=L[c[512803+-512788]]m=9669614-669784 A=w()end end else if m<114947+8784478 then if 8887395-(-560)>m then A,R=N(w,A)m=A and 323512039%3274968 or 2439661918%10424394 elseif-726363+9618397>m then A=A+p Z,e=A<=N,not R Z=e and Z e=N<=A e=R and e Z=e or Z e=698452533%11403060 m=Z and e Z=-643488+2325847 m=m or Z else IR[-113798-(-113799)],m=IR[-599388+599398],1648636959%10629325 end else if 8476528-(-430517)>m then F,q,y,h=G(-456396+467726),718711+1249723402958,235520+5543462138389,G(172396576%1267541)k=E[h]S=L[c[605534+-605533]]K=L[c[104072132%11563570]]i=K(F,q)h=S[i]q=G(471730-459943)m=k[h]K=L[c[4139491248%16491997]]i=L[c[328905-328903]]F=i(q,y)S=K[F]h=W[S]y=G(844538-833220)i=L[c[114716+-114715]]F=L[c[-765114+765116]]V=26290838699498-495128 q=F(y,V)K=i[q]y=12299136636812-1016109 S=W[K]q=G(170047-158000)k=m(h,S)h=k-e K=L[c[-389700+389701]]i=L[c[-171434-(-171436)]]F=i(q,y)S=K[F]m=h[S]h=m m=h<w m=m and 3813694423%22881140 or 566323+5302028 else m=L[c[-5361+5365]]C=L[c[-1047955-(-1047956)]]Z=m(C)m=Z and 399255+9981014 or 4869884858%20849975 end end end else if 939932977%20237653>m then if 9401638-420842>m then if m<5503451505%25089109 then x=L[c[87416-87403]]e,j=m,G(1231908159%9624202)t=L[c[-798046+798048]]v=9030888910678-(-483607)o=L[c[731720-731717]]Q=o(j,v)J=t[Q]f=x[J]U=not f m,R=U and 13822651-653729 or 3685780554%20662313,U elseif 5733673692%24360468>m then Z,m={C},E[G(-395161+406579)]else w=L[c[493498884%2756977]]e,U=G(599111322%7396286),31671653320493-85393 N=L[c[404753-404751]]p=L[c[514439538%4050705]]R=p(e,U)A=N[R]m,p=E[G(694628+-682992)],G(-602986-(-614895))N=E[p]R=L[c[-1047763-(-1047768)]]p=N(R)C=nil w[A]=p Z={}end else if m<-669151+9667395 then C=G(217145-206130)m=L[c[-417744-(-417745)]]R=991687+7451553180614 Z=m()Z=E[C]w=L[c[462030+-462028]]p=G(15807713%15795790)A=L[c[210639+-210636]]N=A(p,R)C=w[N]m=Z[C]C=L[c[-535367+535371]]Z=m(C)Z=L[c[-705155-(-705160)]]m=not Z m=m and-126634-(-305170)or 375928+9460609 else m=544004927%16346743 end end else if 8791566-(-351486)>m then if m<83839+8925284 then C=G(534989-524237)Z=E[C]w=L[c[793255681%9443520]]A=L[c[902996605%14803223]]R,p=1113699901828-745342,G(2822046176%14471971)N=A(p,R)C=w[N]m=Z[C]C=.4 Z=m(C)C=780723242%17813536~=-730612+13219107 m=L[c[477292+-477289]]Z=L[c[1947337516%8540954]]m[Z]=C m=L[c[3456241868%14583299]]m=m and-893264+15238643 or 75016+16517185 elseif 8368626-(-709875)>m then m=nil L[c[300711489%1348482]]=m m=3954193353%16110175 else C,Z,w,m=nil,{},nil,E[G(286801393%2956602)]end else if m<3574373528%18863343 then m=1615011886%16165320<2909135509%16742862 L[c[-395265+395266]]=m Z=L[c[576280+-576278]]w=Z()m=1294006255%17580238 Z=L[c[754442829%8772591]]w=Z()else Z,m={},E[G(-876772+887715)]end end end end end end else if m<1700150072%15784033 then if m>1182338602%22971469 then if m<11567786-658592 then if m>5863947609%24696670 then if m>-301359+11190845 then if m<3588779113%21424428 then p=L[c[312619217%3005954]]t,U,f=8885273595451-(-737774),G(745428038%12022839),-628708+31951231144450 R=L[c[-451097-(-451099)]]e=R(U,f)N=p[e]e=G(324625+-312812)A=C[N]R=E[e]m=4474148965%17467771 U=L[c[364661313%12574528]]f=L[c[59093+-59091]]J=G(699660-688456)x=f(J,t)e=U[x]J,x=5579784656269-(-717977),G(-589851+600596)p=R[e]e=L[c[147251+-147250]]U=L[c[-666826+666828]]f=U(x,J)R=e[f]N=p[R]w=A==N Z=w else m=L[c[196538+-196535]]e=7836591977811-(-219374)A=L[c[747798-747797]]R=G(-881695-(-892698))N=L[c[405970313%2218417]]x=-960010+12219062811715 p=N(R,e)Z=A[p]p=G(-583279-(-595157))N=E[p]R=L[c[-551254-(-551255)]]e=L[c[9771502%390860]]f=G(-583221+594301)U=e(f,x)p=R[U]A=N[p]p,e,R,U=251705+-251704,599678-599677,332999485%5123069,-215856+215856 N=A(p,R,e,U)m[Z]=N m=L[c[258024244%14334680]]A=L[c[744301105%15506273]]N=L[c[-873007-(-873009)]]R,e=G(-927769+938287),16211843414988-990799 p=N(R,e)U=16085260322065-(-743473)Z=A[p]e=G(-529981-(-542044))N=L[c[-726499+726500]]p=L[c[-407482+407484]]R=p(e,U)U,e=15345614569918-239061,8581646581485-(-4271)A=N[R]R=G(408310-398013)m[Z]=A m=L[c[739495647%4963058]]A=L[c[978712-978711]]N=L[c[737382-737380]]p=N(R,e)Z=A[p]e=G(-83602-(-94662))N=L[c[31026405%1069876]]p=L[c[-311434+311436]]R=p(e,U)A=N[R]e=G(29879+-19451)m[Z]=A A,U=G(-763714-(-774466)),-330332+21500937236856 Z=E[A]N=L[c[-631300-(-631301)]]p=L[c[575947205%3253939]]R=p(e,U)A=N[R]m=Z[A]A=.35 Z=m(A)m=L[c[-234751+234758]]m=m and 765296+12787667 or 707506+4934978 end else if m<2487769408%22314610 then Z,m={},E[G(543927-531986)]elseif 11068715-203194>m then f=903778+6273862516999 p=L[c[51977633%12994408]]R=L[c[720129764%10911057]]C,U=T[-1039181-(-1039182)],G(-115688-(-127554))e=R(U,f)N=p[e]A=C[N]e=G(-628757+640570)R=E[e]U=L[c[80539+-80538]]f=L[c[-250650-(-250652)]]t,J=93128348310147%2116553688318,G(154101604%7704539)x=f(J,t)e=U[x]p=R[e]x=G(-207016+217605)e=L[c[3338691469%15601362]]J=-626815+9415595270559 U=L[c[-1041287+1041289]]f=U(x,J)R=e[f]N=p[R]w=A==N Z,m=w,w and 2144787316%18427042 or 853261+15534237 else m,Z=E[G(-663496-(-674610))],{}end end else if m>11500793-675830 then if 11335199-506205>m then m=13627474-(-42509)else m=Z and 7726026-(-1005701)or 959928+1945452 end else if 10812103-9347>m then p=L[c[-404350+404360]]R=p(N,C)m=3147869-(-742018)elseif m<599985+10216254 then p,C=G(291827+-280487),G(464989-453287)Z=E[C]w=L[c[-882422+882425]]A=L[c[3740175186%16052254]]R=12531335260389-283162 N=A(p,R)C=w[N]m=Z[C]C=m m=not C m=m and 378284945%15452445 or 936715+4367113 else m=1031977+4366596 end end end else if 2867489576%17741929>m then if m<10248696-(-705997)then if m<3073947600%17403562 then m,C,Z=E[G(773977+-763672)],nil,{}elseif 2897794266%24057165>m then w=L[c[-311498+311510]]m=w and 1883581718%23451806 or 616195782%19983763 else l,W=G(1357312393%11502550),846363+27061051393822 Q=L[c[-691124-(-691125)]]j=L[c[36922+-36920]]v=j(l,W)o=Q[v]m=t[o]o=m m=o and 2467013837%15280460 or 873025+12965711 end else if 11539880-550788>m then Z,m={},E[G(665148-653766)]else m,Z=p,w m=2270057496%13184464 end end else if m>157359+11033047 then if m<-803572+12057115 then m,Z=E[G(694229+-682802)],{}else R=e..U m=f p=C..R C=nil A=N..p m=E[G(347974+-336044)]Z[w]=A Z={}end else if m<10177405-(-889505)then J,m,t=nil,4263461-769144,nil elseif m<-42498+11143034 then Z=L[c[-316464-(-316465)]]w=L[c[60312+-60310]]R=17886657565079-28942 A=L[c[28165869%9388622]]p=G(473667-462027)N=A(p,R)C=w[N]m=Z[C]C=m m=not C m=m and 271739+16466132 or 7256236-(-723703)else A,U,f=G(159720739%753347),G(167459+-156895),27589551965928-447673 A=w[A]p=L[c[-486754-(-486755)]]m=-583896+7399198 R=L[c[-789403+789405]]e=R(U,f)N=p[e]A=A(w,N)Z=A end end end end else if m<1379869212%24897131 then if m<2638294115%15016342 then if m>-885281+11276062 then if m<2212095596%21798921 then e,R=618247+8182654754779,G(3439792267%15086756)A=L[c[420568-420567]]N=L[c[349193-349191]]p=N(R,e)N=G(390085+-379420)N=C[N]Z=A[p]A=555271+12436287>=12119310-(-495677)m={N(C,Z,A)}Z={z(m)}m=E[G(27638266%531272)]elseif 10613491-201485>m then U,e=29380714469482-(-171271),G(-831639-(-843665))N=L[c[111340+-111337]]p=L[c[354363+-354359]]R=p(e,U)A=N[R]Z=w[A]A=-900288-(-900288)m=Z<=A m=m and 1321944164%13515260 or-885561+11068490 else R,p=7481782907589-(-88790),G(-63774-(-74181))Z=L[c[-62993-(-62995)]]w=L[c[54658851%1271136]]A=L[c[699413509%2854749]]N=A(p,R)C=w[N]R,e=G(351190-339211),-418407+1316118930635 A=L[c[2748333178%12782945]]N=L[c[-949615-(-949619)]]p=N(R,e)w=A[p]R=9473018255114-247247 Z[C]=w m=1599543-665396 Z=L[c[718118-718116]]w=L[c[863199-863196]]A=L[c[1353995854%9026639]]p=G(638132+-626801)N=A(p,R)C=w[N]w=L[c[-469236-(-469242)]]Z[C]=w end else if 1987438249%22214568>m then A=L[c[-952706-(-952707)]]R,e=G(-583877+594267),715873+8865547412415 N=L[c[-594281+594283]]C=T[886852-886851]p=N(R,e)w=A[p]Z=C[w]p=G(124531916%1858509)N=E[p]x=-464418+34153211319361 R=L[c[-250783-(-250784)]]f=G(-399365-(-410237))e=L[c[783131172%4121743]]U=e(f,x)p=R[U]A=N[p]p=L[c[29364391%1957626]]R=L[c[-935430+935432]]f,U=-880774+23885913054200,G(731561741%11992647)e=R(U,f)N=p[e]w=A[N]m=Z==w m=m and 2218305811%10952241 or 3622851611%26555740 elseif m<-290410+10661038 then m=L[c[-602816+602823]]L[c[78158577%1371203]]=m m=980686+1716459 else m=L[c[-957899-(-957904)]]C=3419178-282130<=11881804-262872 Z=L[c[138497-138496]]m[Z]=C m=L[c[1637361303%13994541]]m=m and-1016680+1547669 or 572944+3992692 end end else if m>76440+10437164 then if m<147582+10376088 then m=428196656%21926743<=264575+2901066 L[w]=m m=989030376%19183184 else N=G(1164841704%5600143)m=L[c[1802258767%14303641]]C=L[c[126024662%4667580]]w=L[c[608869-608866]]p=464901+11745664564568 A=w(N,p)Z=C[A]C,p=714346+9012946<=4259601-733608,15408700973666-(-719269)m[Z]=C m=L[c[513040+-513036]]C=L[c[714018774%4353773]]N=G(-416536-(-427377))w=L[c[-498850-(-498853)]]A=w(N,p)Z=C[A]C=112577605%17508721>=6120768-371254 m[Z]=C Z,m={},E[G(951280349%10013357)]end else if 1285690964%27132535>m then m=L[c[669745-669744]]m=m and 144230067%12995423 or 10556233-969184 elseif m<-766990+11254736 then Q=G(234698+-224412)J=L[c[-624418+624423]]j=25911949908735-1027037 t=L[c[-804188-(-804194)]]m=273931+10983368 o=t(Q,j)x=J[o]U=x else h=G(44394323%14794415)l=E[h]h,m=G(935455+-923659),368245253%12264223 E[h]=l end end end else if m>3847182423%15723476 then if m>10312463-(-441724)then if m<10644051-(-134957)then U,Z,e=-531140+25865698363856,G(-357043+368611),G(110322-99959)m=E[Z]w=L[c[1034821-1034820]]N=L[c[605656-605654]]p=L[c[-866611-(-866614)]]R=p(e,U)A=N[R]C=w[A]Z=m(C)C=Z m=C and 1222919772%19949693 or 1944220-(-550378)else Z,m={},E[G(-262431+273065)]end else if m<1901366245%18356237 then Z=L[c[-811872-(-811879)]]w=Z()m=w and-803395+7151520 or-872724+8858490 elseif 11010050-294220>m then m,e=9900022-1008606,nil else m=46198+10730467>=156483+11282191 Z={m}m=E[G(469447-457354)]end end else if m>-925398+11490804 then if 4294544125%20207214>m then m=w and 6046053259%24930611 or 621875-182527 else A=G(-412152-(-422904))w=E[A]N=L[c[-253522+253526]]e,U=G(165931099%2048396),358368+18740834937398 p=L[c[-430627-(-430632)]]R=p(e,U)A=N[R]Z=w[A]A=304331+-304330.5 w=Z(A)Z=L[c[238998182%14937386]]m=Z and 10690325-30648 or 16928200-567283 end else if-255718+10787442>m then w,p=A(C,w)m=w and 10757497-(-590730)or-624001+15969746 elseif m<11004536-462550 then C,Z,m,w=nil,{},E[G(-546814-(-557264))],nil else Z=L[c[-907568+907572]]A=Z(C)Z=nil m=A~=Z Z={m}m=E[G(2466729327%15711576)]end end end end end else if m>1212554876%12772567 then if m>11564443-(-607038)then if m>-333172+12588396 then if m>3819432532%15996304 then if m<539079+11797545 then f,x=-951128+34550342435376,65388+1582980350837 m=L[c[-816468-(-816473)]]p=L[c[565546465%8976928]]R=L[c[-184873+184875]]U=G(-793386-(-804299))e=R(U,f)f=G(152049-140286)Z=p[e]R=L[c[114660491%1170005]]e=L[c[22884+-22882]]U=e(f,x)p=R[U]m[Z]=p m=3119578491%15326468 else w=L[c[788985+-788984]]e=G(2568318368%15197082)N=L[c[-965076-(-965078)]]p=L[c[-212051+212054]]U=-247531+13921900421181 R=p(e,U)m=-349018+13326243 A=N[R]C=w[A]Z=C end else if 12447162-167117>m then G9=3047250212%16038159 M=F[G9]G9=L[y]n=M==G9 m9,m=n,3200136-33409 elseif 2202393255%19730656>m then Z,N,w=G(206871888%5045373),G(-682483-(-693349)),G(153713801%637770)m=E[Z]C=E[w]A=L[c[1069733809%7480656]]N=C[N]w={N(C,A)}Z=m(z(w))m=Z()Z,m={},E[G(-373747+384579)]else m,f=2270831546%11232702,G(30670136%3065925)R=L[c[810863+-810862]]e=L[c[-331773-(-331775)]]N,x=G(961528-949922),16848710132551-738466 N=A[N]U=e(f,x)p=R[U]N=N(A,p)Z=N end end else if m<11513832-(-695942)then if m<733616+11452881 then W=L[w]v,l=W,m m=W and 3159470-(-837279)or 1582726857%13236766 elseif 12704040-508374>m then Z,m={w},E[G(1613642413%6866518)]else m,U=J,x m=x and-620517+7037074 or 7912261-72435 end else if m<11601339-(-622998)then Z=L[c[-902667+902668]]m=not Z L[c[-16191+16192]]=m Z=L[c[2612166035%11982413]]m=Z and 3068829-77219 or-670328+14769728 else m=L[c[354335+-354330]]x=-1016811+15069767032660 p=L[c[-443928+443929]]U,f=G(-969137+980459),7162766711300-920829 R=L[c[1577211144%7136702]]e=R(U,f)Z=p[e]f=G(355479-344862)R=L[c[859703+-859702]]e=L[c[-919896-(-919898)]]U=e(f,x)p=R[U]m[Z]=p m=8117945-(-187542)end end end else if-869502+12887668>m then if 4900835088%20370170>m then if m<-430116+12409386 then m=L[c[223157-223154]]m=m and 3877306020%17532507 or 4282630-(-851191)elseif-842910+12829032>m then o=L[c[109485773%2606804]]v,l=G(1212055566%7528231),563424+27924316985835 Q=L[c[1969684338%8526772]]j=Q(v,l)m=14947220-(-878978)t=o[j]J=U[t]f=J else A=L[c[-628380-(-628381)]]N=L[c[1985492686%9638314]]R,e=G(2452878785%11849600),646256+24815534985395 p=N(R,e)Z=A[p]m=C[Z]Z={m}m=E[G(-602167+613336)]end else if m<5644969613%25604377 then m=G(-848344-(-860454))m=p[m]m=m(p)m=597172529%15792289 else w=L[c[172317-172306]]m=174263871%11667170 A=w()end end else if m>218456918%18756027 then if 12610770-459537>m then C,R,p=G(522285+-511533),165953+9414189451486,G(708392-696281)Z=E[C]w=L[c[904889-904888]]A=L[c[587641407%2379115]]N=A(p,R)C=w[N]m=Z[C]C=.15 Z=m(C)m=Z and 11951637-(-702839)or 11751694-(-1039994)else e,m,R=9214203334637-999211,2031251544%21256447,G(549132-537489)A=L[c[176175+-176172]]N=L[c[168665182%1637526]]p=N(R,e)w=A[p]A=-715834-(-715850)C[w]=A end else if m<854284+11181144 then Z=L[c[947880+-947879]]m=not Z m=m and 797641+6456524 or 13161943-(-723848)elseif 838582584%21749677>m then p=G(-713741-(-724965))m=L[c[1026883-1026882]]w=L[c[-288038+288040]]A=L[c[75899-75896]]R=-604763+32460117800294 N=A(p,R)C=w[N]Z=m(C)Z,m={},E[G(805930+-793944)]else C=P()L[C]=T[370997441%2107940]Z=L[C]A=L[c[-945991-(-945992)]]e=814322+10828454913728 N=L[c[-383570-(-383572)]]R=G(787315+-776007)p=N(R,e)w=A[p]m=Z[w]Z=G(-7399-(-18345))w=g(9085717-83669,{c[986956-986955],c[-771136+771138],c[105404-105401];C,c[679694+-679690];c[1040606842%10102979]})Z=m[Z]C=I(C)Z=Z(m,w)Z,m={},E[G(658926626%2995073)]end end end end else if 2777116177%22123533>m then if m<11226279-(-218142)then if m>11551490-200428 then if 973117+10385786>m then R=2348617-(-143450)~=866209+15515193 m=L[c[2286959234%9649617]]m[p]=R m=L[c[-308026+308032]]R=m(p)m=2086396282%17137754 elseif m<11607442-218407 then A=A+p w,e=A<=N,not R w=e and w e=N<=A e=R and e w=e or w e=1165264968%8178451 m=w and e w=18205-(-811817)m=m or w else R,w=G(990822-979789),G(-141071+152777)Z=E[w]A=L[c[24581-24579]]e=757672+10281133490955 N=L[c[621695616%9279039]]p=N(R,e)N=G(-934045-(-945751))w=A[p]m=Z[w]A=E[N]f,U=669477+26361188432078,G(484509-474217)p=L[c[82162+-82160]]R=L[c[1027610+-1027607]]e=R(U,f)N=p[e]w=A[N]A=w(C)N=L[c[-109108-(-109112)]]w=-1022731-(-1022732)Z=m(A,w,N)m=-531735+10746658 L[c[1860872395%14314403]]=Z end else if 11122379-(-142998)>m then m=Z and-205993+219820 or 913198015%16134325 elseif m<2971521532%15662497 then A=L[c[761867965%14651307]]N=L[c[571005+-571003]]R,x,e,f=G(720420+-709715),33238563997325-805400,8276954579174-504280,G(1023262-1011327)p=N(R,e)w=A[p]Z=C[w]p=G(1278697358%8818521)N=E[p]R=L[c[512131-512130]]e=L[c[208790+-208788]]U=e(f,x)p=R[U]f=33102759892209-350395 A=N[p]U=G(-764764+775624)p=L[c[539002+-539001]]R=L[c[781188914%11659536]]e=R(U,f)N=p[e]w=A[N]m=Z==w m=m and 15462324-214190 or 267974+-261086 else N,m=w,p and 339274+1686686 or 12163323-474133 end end else if m<12639102-1009739 then if m<10648344-(-829401)then m=Z and 1023157+11427578 or 7143929-709660 elseif m<1412188286%21548222 then IR[784015493%5984851]=G(773796-761739)IR[587770259%15071032]=E[IR[289264+-289252]]IR[304512+-304495]=-309537+1278157060980 IR[-667126+667139]=L[N]IR[495279-495263]=G(88587702%4661967)IR[2065272590%8327712]=L[w]IR[288882+-288867]=IR[1401-1387](IR[-999338-(-999354)],IR[501745217%4181210])IR[185073-185061]=IR[2179727373%8514560][IR[625103793%3360773]]IR[598838+-598837]=IR[835633481%7958414][IR[73826+-73814]]IR[495070-495057]=L[N]IR[3041346322%16263884]=L[w]IR[2157749153%14984369],IR[-439078+439094]=9058881401586-(-187784),G(514225+-502661)IR[766468-766453]=IR[338630+-338616](IR[506562-506546],IR[1550960438%12022949])IR[640865-640853]=IR[599244-599231][IR[596264+-596249]]IR[240812265%5235049]=IR[-245683-(-245684)](IR[-965076-(-965088)])IR[682093015%13641860],IR[80189-80173]=G(2253443874%15540911),27382495545510-22232 IR[-92810+92822]=L[N]IR[687229-687210]=22024154635215-537536 IR[-957511-(-957524)]=L[w]IR[712151+-712137]=IR[101146345%8428861](IR[3550755927%15994396],IR[-471565+471581])IR[534607+-534589]=G(-459436-(-470477))IR[-347443-(-347444)]=IR[-952102-(-952114)][IR[-229812-(-229826)]]IR[897303-897289]=G(-33854-(-45732))IR[451892035%7288581]=E[IR[-142332+142346]]IR[538782+-538767]=L[N]IR[452797718%2727697]=L[w]IR[537319347%2336171]=IR[186546+-186530](IR[579843-579825],IR[369614+-369595])IR[-505448-(-505462)]=IR[705032+-705017][IR[1971738060%7793431]]IR[1911019972%16474310]=IR[169727-169714][IR[806000-805986]]IR[362404-362390],IR[-270225+270242],IR[-778360+778376],IR[-940857-(-940872)]=-154087-(-154088),996686+-996665,-151920+151920,-413379+413322 IR[2598504201%12614098]=IR[246559-246547](IR[973180103%5149101],IR[556065+-556050],IR[2318990659%12812103],IR[1021839-1021822])IR[-600385+600396][IR[-435611+435612]]=IR[1410241241%15328709]IR[-1045758+1045770]=L[N]IR[-258992+259008],IR[13440607%6720296],IR[1035650163%5785755]=29417785003265-(-354433),G(761700843%4730994),G(1136045293%13524205)IR[-458740+458753]=L[w]IR[242191+-242177]=IR[600378+-600365](IR[1438387015%10576375],IR[3365849256%13626920])IR[443120833%7912872]=IR[-381336-(-381348)][IR[2497449566%12006969]]IR[-920357+920366],IR[737124+-737104],IR[805553-805539],IR[138429939%1730374]=nil,7049271206751-(-731507),G(378968222%14575244),10842293773814-(-945602)IR[231340+-231327]=E[IR[627740-627726]]IR[704447-704432]=L[N]IR[1071430432%12038544]=L[w]IR[1128563695%4460726]=IR[1049247922%9203929](IR[706862-706844],IR[-94029-(-94048)])IR[106752+-106736]=200159819%11774107 IR[377419054%2358869]=IR[-804522+804537][IR[-595166+595183]]IR[390612+-390587],IR[1015663+-1015648],IR[486901+-486884]=33042670269231-292629,-510818-(-510872),-990255+990263 IR[1731371016%16031213]=IR[2235679337%13632191][IR[2422518227%11061727]]IR[922899+-922885]=350092+-350092 IR[740588113%12343135]=IR[-430323-(-430335)](IR[973072+-973058],IR[282083120%1819891],IR[1852117182%9596462],IR[1167593457%5613430])IR[91033+-91017]=-684511+7776076398596 IR[1047486+-1047475][IR[492835905%2036512]]=IR[1076819926%16071939]IR[443356-443344]=L[N]IR[1063064535%12655530]=G(1036657882%7249280)IR[2044155319%11748019]=L[w]IR[178935194%2982253]=IR[-347942+347955](IR[-724581+724596],IR[745414700%14064428])IR[-530822+530823]=IR[-653216+653228][IR[-962195-(-962209)]]IR[2981389860%13429684],IR[49105-49087]=89395+-89394,G(843645-832496)IR[255862-255851][IR[-587689+587690]]=IR[2569140261%11625069]IR[894043151%6431965],IR[2879372730%14616105]=6967229561634-(-496010),28490291890331-840905 IR[1027234-1027222]=L[N]IR[977974+-977959]=G(-920020-(-930640))IR[78434-78421]=L[w]IR[-974299+974313]=IR[-61183+61196](IR[-962249+962264],IR[595138+-595122])IR[380107-380088]=21548388140736-794510 IR[659838-659837]=IR[236613+-236601][IR[-142991+143005]]IR[127206+-127193]=L[f]IR[-581605+581620]=L[N]IR[138901932%831748]=L[w]IR[1142644329%9850382]=IR[-637874-(-637890)](IR[56354490%782701],IR[240238380%1985441])IR[456030+-456016]=IR[461593-461578][IR[-796803+796820]]IR[910565643%3908007]=IR[282294+-282281][IR[951205+-951191]]IR[-609692+609708],IR[-217669-(-217684)]=3860876562636-772551,G(740278+-728810)IR[195064-195053][IR[-826069+826070]]=IR[319060-319048]IR[31272-31260]=L[N]IR[1021300-1021287]=L[w]IR[2339365070%10443594]=IR[-886743+886756](IR[-977425+977440],IR[-820755+820771])IR[114324-114306]=G(117042316%1300341)IR[178074535%5396198]=IR[-706109+706121][IR[1748968898%7474226]]IR[533307439%10883825]=G(9422734%376441)IR[136059-136046]=E[IR[688250-688236]]IR[-781687-(-781706)]=-949496+23735562856484 IR[1314238824%7776561]=L[N]IR[-515705+515721]=L[w]IR[112277-112260]=IR[-790016+790032](IR[707078310%2874302],IR[38563-38544])IR[199695950%8682432]=IR[966542+-966527][IR[-294470-(-294487)]]IR[100885900%2967232]=IR[-172120-(-172133)][IR[862776+-862762]]IR[-935590+935605],IR[3284439438%12981974],IR[-483897+483911]=117854+-117599,-285763+286018,741628-741373 IR[-34178-(-34191)]=IR[2821059814%11150434](IR[607635-607621],IR[-437475-(-437490)],IR[-560548-(-560564)])IR[251345+-251330]=G(134318-123954)IR[-171299+171310][IR[476306741%5234140]]=IR[56260425%1654718]IR[-77816+77832]=-513354+27523407349594 IR[923931-923919]=L[N]IR[230429+-230416]=L[w]IR[109664-109645]=G(4054351%1347608)IR[553730+-553716]=IR[455915+-455902](IR[3021759657%11943714],IR[1277629925%5090159])IR[2393666857%12212586]=IR[605598+-605586][IR[-602725-(-602739)]]IR[99153792%4506990],IR[-917920-(-917936)]=2111637288%9261567,25313811210232-(-626195)IR[1008752-1008741][IR[-584590+584591]]=IR[-365471+365483]IR[602256+-602241]=G(1025014627%11516896)IR[-508111-(-508123)]=L[N]IR[-1035127-(-1035140)]=L[w]IR[607937-607923]=IR[-936125-(-936138)](IR[1250611917%12260901],IR[1495977610%14666447])IR[-869824-(-869825)]=IR[854726732%13355105][IR[279150+-279136]]IR[2192443723%13876226]=G(575116-563303)IR[2767877322%14121823]=E[IR[1366892388%12540297]]IR[-1033384+1033400]=L[N]IR[903748913%5510664]=L[w]IR[814487-814469]=IR[1588537403%11186883](IR[-111356-(-111375)],IR[149105116%5325182])IR[-324893+324908]=IR[81370+-81354][IR[391847148%13061571]]IR[-7920-(-7933)]=IR[661182-661168][IR[-341530+341545]]IR[4266897%4266882]=L[N]IR[272073085%2804877]=L[w]IR[966954954%4693956],IR[-957505-(-957524)]=G(1055780202%9597901),14115534666912-(-941325)IR[1719718541%7852596]=IR[623007700%11980917](IR[551694+-551676],IR[3194938879%15661465])IR[401179-401165]=IR[994129%497057][IR[475767-475750]]IR[34280426%250222]=IR[610367-610354][IR[1037195-1037181]]IR[282425+-282414][IR[-262125+262126]]=IR[458889-458877]IR[59901-59885]=11106230184772-562961 IR[-387403+387415]=L[N]IR[-127499-(-127518)],IR[69248+-69233]=G(1073413942%10031808),G(412494591%7499704)IR[-150954-(-150967)]=L[w]IR[1633313418%12188906]=IR[-332843+332856](IR[-1041364-(-1041379)],IR[-827309-(-827325)])IR[865204213%9944876]=IR[16768+-16756][IR[1182420908%4806589]]IR[-763328+763343],IR[2344967469%16172189]=G(922585-910772),12604284129507-(-230922)IR[-678489+678503]=E[IR[513186-513171]]IR[409264637%4704191]=-86183+15270319058029 IR[1596254451%7786607]=L[N]IR[296103683%6300078]=L[w]IR[82468-82417]=32025747366834-(-628367)IR[101126205%717207]=IR[1006342-1006325](IR[-189769-(-189788)],IR[-487927+487947])IR[748093+-748078]=IR[1180738406%9082603][IR[375462368%7509247]]IR[1700338548%11974215]=G(33164-21124)IR[-587550-(-587563)]=IR[467587+-467573][IR[469757+-469742]]IR[3680795995%16143842]=8127447100679-(-401857)IR[370471433%2665262]=L[N]IR[-576291-(-576307)]=L[w]IR[-810078-(-810095)]=IR[1487470244%5856182](IR[1411021584%6355953],IR[147452363%1417811])IR[194625400%892777]=IR[543327+-543312][IR[706738418%3661857]]IR[92412-92400]=IR[100820-100807][IR[65622056%3645669]]IR[-736446-(-736461)],IR[-849405+849425],IR[507940+-507921],IR[767724-767708]=G(1328363267%15268404),18747850573078-(-1006852),G(35878540%3586718),13572309432990-(-7698)IR[599337560%2387799][IR[1199755587%8448983]]=IR[3083293192%14014969]IR[300934516%1406236]=L[N]IR[-626166-(-626179)]=L[w]IR[771562+-771548]=IR[526559+-526546](IR[773997-773982],IR[-231182+231198])IR[22087868%223109],IR[-104929+104944]=258319+29154528838649,G(-393362+405175)IR[2276644565%9646799]=IR[926333+-926321][IR[814111-814097]]IR[654636+-654622]=E[IR[584490+-584475]]IR[-794267+794283]=L[N]IR[1046674-1046657]=L[w]IR[1282859498%8439865]=IR[-986382+986399](IR[-286129-(-286148)],IR[-290404-(-290424)])IR[-97748-(-97763)]=IR[740866+-740850][IR[-903374-(-903392)]]IR[998562+-998549]=IR[1912197539%14377425][IR[26000451%1857174]]IR[2285382024%10729493]=L[N]IR[-415993+416009]=L[w]IR[985821-985802],IR[106867+-106849]=-969380+5443859371146,G(-692486+704117)IR[2257465427%9815067]=IR[-565663-(-565679)](IR[11028936%134499],IR[-263451-(-263470)])IR[877741+-877727]=IR[635951+-635936][IR[-1030577+1030594]]IR[1543600572%6431669]=IR[633661-633648][IR[1926615012%8095021]]IR[1009850908%4334124]=19541320923895-317292 IR[656666+-656655][IR[2475869277%15769868]]=IR[406402027%2245315]IR[10924595%105044],IR[415899778%10397494]=G(445747-434413),13377614594607-43482 IR[-964643+964655]=L[N]IR[-984392-(-984407)],IR[-919251-(-919275)]=G(602878297%16293727),28491786962602-(-208169)IR[48643+-48630]=L[w]IR[255342686%1182142]=IR[707054294%9958511](IR[314218-314203],IR[1002447326%16168505])IR[1296641841%16208023]=IR[691380-691368][IR[-511794-(-511808)]]IR[-487417+487429]=516245-516133 IR[667111011%2668444][IR[265440-265439]]=IR[820689-820677]IR[676431+-676415]=73868212378254%512973757536 IR[335067-335055]=L[N]IR[663129+-663114]=G(-45771-(-57047))IR[-446743-(-446756)]=L[w]IR[836409814%8364098]=IR[478628-478615](IR[140388747%882948],IR[-605862-(-605878)])IR[789691+-789690]=IR[1609158066%7088802][IR[703278-703264]]IR[-924499+924511],IR[-319951+319964],IR[11672-11655]=IR[-82991+82996],G(605748587%2472394),G(369472-357424)IR[758802+-758791][IR[947947+-947946]]=IR[-383158+383170]IR[977060+-977048]=E[IR[292181-292168]]IR[833025-833011]=L[N]IR[46037655%3836470]=L[w]IR[171611-171595]=IR[-713365+713380](IR[984762-984745],IR[989564391%15707371])IR[425585+-425572]=IR[555244+-555230][IR[37789765%12596583]]IR[-8196+8216]=25945227692336-(-288257)IR[550938-550937]=IR[-112267+112279][IR[-36095-(-36108)]]IR[123886+-123872]=L[N]IR[525186+-525169],IR[621024+-621001]=G(583378+-571436),G(1109973446%13213833)IR[514809-514794]=L[w]IR[-243959-(-243977)]=13446311980130-906221 IR[1375389686%9485446]=IR[581110702%5430941](IR[229170-229153],IR[-605115+605133])IR[-941416-(-941429)]=IR[760954+-760940][IR[1167678931%5988097]]IR[131041715%2788121]=992357+22174708745200 IR[290996335%3986251]=IR[888977076%5079869](IR[-1005861+1005874])IR[498241+-498228]=L[N]IR[308780-308766]=L[w]IR[259330503%13648973],IR[-720094-(-720111)]=G(708516+-696542),341278+10745588588141 IR[-880146+880161]=IR[2534712764%12737250](IR[66770+-66754],IR[149041025%6210042])IR[989245-989244]=IR[3555846233%15067145][IR[820734-820719]]IR[195851-195836]=G(1744043935%12730161)IR[-107526+107540]=E[IR[176720927%874856]]IR[865311-865295]=L[N]IR[138475892%1846345]=L[w]IR[1023578-1023560]=IR[564032+-564015](IR[827784976%6729959],IR[739120150%10558859])IR[-31630+31645]=IR[1377526432%7028196][IR[-232900+232918]]IR[234256106%2662001],IR[-211945-(-211964)],IR[-202572+202589],IR[520852163%2356797]=263707618%10142600,G(-542615-(-553978)),787361-787361,22439570283497-(-789736)IR[873245-873232]=IR[821858-821844][IR[-841800+841815]]IR[927160609%7537891],IR[1300727944%11023118],IR[2123105823%15057488]=-718833+718776,22857843729571-998159,-441853+441854 IR[3104992739%15447725]=IR[1126906663%7771770](IR[616321143%6042364],IR[420383826%5459530],IR[-389662-(-389679)],IR[441332-441314])IR[13843+-13826]=9163587979329-(-247914)IR[851210+-851198][IR[-765009+765010]]=IR[617696-617682]IR[-151394-(-151407)]=L[N]IR[-768646-(-768660)]=L[w]IR[1007007+-1006991]=G(2352752228%15277540)IR[2467673733%13267063]=IR[515380-515366](IR[498144+-498128],IR[-815049+815066])IR[-134876-(-134877)]=IR[1898812429%14834472][IR[-302352-(-302367)]]IR[-504634+504649]=G(-862665-(-874543))IR[1849717038%15675568]=E[IR[-148609+148624]]IR[370965-370949]=L[N]IR[754764+-754747]=L[w]IR[42777+-42759]=IR[257922+-257905](IR[714427-714408],IR[3415382345%15179477])IR[1004187+-1004172]=IR[648805+-648789][IR[-858303+858321]]IR[860012-859999]=IR[953539772%6232286][IR[-625020-(-625035)]]IR[508319203%5240404],IR[58706731%329813],IR[2054853650%12606464],IR[925647-925631]=-560721-(-560721),-667766-(-667766),-209926-(-209956),241503021%10500129 IR[-744387+744401]=IR[1024970905%13850958](IR[789030195%3811740],IR[781607-781591],IR[263844+-263827],IR[903335781%14808783])IR[1961112096%12817726],IR[240553-240537]=G(1689459956%9333976),G(44312-32464)IR[-169326+169338][IR[-172838+172839]]=IR[276396+-276382]IR[-594250+594267]=19432904858750-(-722651)IR[1056752365%7338558]=L[N]IR[422605+-422591]=L[w]IR[223749-223734]=IR[-122924+122938](IR[-976478+976494],IR[651448+-651431])IR[-904249-(-904266)]=-837337+32355228959155 IR[-880362+880363]=IR[98678613%12334825][IR[93435387%10381708]]IR[40310101%1550388]=459607-459606 IR[228209-228197][IR[-921130+921131]]=IR[-176865+176878]IR[-781057+781070]=L[N]IR[625737+-625723]=L[w]IR[-53731+53747]=G(325282-313670)IR[996104-996089]=IR[-622068-(-622082)](IR[2756902846%16708502],IR[221278319%1756177])IR[359830-359829]=IR[-35700+35713][IR[-997806-(-997821)]]IR[-225306-(-225325)]=-929222+24136000428461 IR[-863680+863695]=L[N]IR[941522776%15692046]=L[w]IR[2615841100%11523529]=IR[-591060-(-591076)](IR[968296+-968278],IR[-166287+166306])IR[284332-284316]=G(100815+-88906)IR[174090776%6447806]=IR[570025-570010][IR[432594+-432577]]IR[870981775%15836032]=E[IR[-520856+520872]]IR[874347-874329]=L[f]IR[924580-924560]=L[N]IR[-835341+835362]=L[w]IR[-744872+744894]=IR[706578263%9679154](IR[350925-350902],IR[-70229+70253])IR[-111769-(-111788)]=IR[1793402488%7410754][IR[603675+-603653]]l9=nil IR[-657519+657536]=IR[-945801-(-945819)][IR[-363667+363686]]IR[-914379-(-914395)]=IR[742293435%13496244](IR[779481-779464])IR[-96148-(-96161)]=IR[182302-182288]..IR[958578910%12289473]IR[-199826-(-199838)][IR[301491-301490]]=IR[66779565%16694888]IR[-515558-(-515575)],IR[301847716%2874740]=24553351710406-170525,G(359592392%3268921)IR[-145088+145101]=L[N]IR[-845650+845664]=L[w]IR[-974695-(-974710)]=IR[-407540+407554](IR[3791801008%15540168],IR[41047859%1865811])IR[545134477%3045444]=IR[325942-325929][IR[-51626-(-51641)]]IR[649550+-649535]=G(558762-547053)IR[2143387999%11585881]=E[IR[-193796+193811]]IR[1994650576%8904690]=L[N]IR[121785102%1996476],IR[483633376%3900269],IR[-949380-(-949399)]=-1013360+32258824417565,494165+10975780997537,G(698937+-687548)IR[1025924972%6217727]=L[w]IR[276015+-275997]=IR[125743643%4056246](IR[485059571%5160208],IR[-617836-(-617856)])IR[7962193%419062]=IR[-800855-(-800871)][IR[573210+-573192]]IR[878108-878092],IR[-533249+533266]=255153419%3865959,42086-41961 IR[-522867+522880]=IR[920483-920469][IR[659373342%4743693]]IR[247532+-247517]=172026+-171901 IR[-790196-(-790210)]=IR[-655880-(-655893)](IR[2013494927%14080384],IR[3045796%609156],IR[473277+-473260])IR[646780308%11549648]=G(-558763+570010)IR[261169+-261157][IR[488788+-488787]]=IR[-129365+129379]IR[-66087-(-66108)],IR[-80520+80537],IR[-954701-(-954717)]=18751856224600-(-997572),-618875+22725201058513,G(250578844%1176378)IR[-872741-(-872754)]=L[N]IR[1343538214%6717691]=L[w]IR[327227671%11686702]=IR[220851-220837](IR[-1026120+1026136],IR[406364+-406347])IR[2616585879%16052674]=27254907923938%211278388827 IR[-400858+400859]=IR[3005265541%16422216][IR[712435989%12075186]]IR[315785202%10186619],IR[346292830%8245067]=233510-233502,G(645127+-633666)IR[1510225272%14806130][IR[46628+-46627]]=IR[603699+-603686]IR[254833653%12741682]=L[N]IR[328171550%2130984]=L[w]IR[1728820662%9051417]=IR[579172-579158](IR[555372+-555356],IR[1772532215%9529743])IR[13386123%13386122]=IR[32495563%1412850][IR[-1008790+1008805]]IR[1467504016%15286500]=G(-352200-(-364013))IR[785254-785239]=E[IR[-336565+336581]]IR[1998314027%9515781]=L[N]IR[453873+-453855]=L[w]IR[706065-706046]=IR[183601122%1240548](IR[153862+-153842],IR[637156-637135])IR[687988860%12285515]=460781+29692430036501 IR[721446+-721430]=IR[-331577-(-331594)][IR[501353260%7265989]]IR[-665143-(-665157)]=IR[165039+-165024][IR[-8658+8674]]IR[83849-83830]=G(934634+-923745)IR[2990700554%15658118]=L[N]IR[24334+-24317]=L[w]IR[122834941%4235687]=IR[19275+-19258](IR[55922+-55903],IR[472542-472522])IR[563529494%3478577]=G(555327319%15425430)IR[-558222+558237]=IR[-238445-(-238461)][IR[554692117%9401561]]IR[-524632+524648]=G(48294876%405747)IR[-136578+136591]=IR[-661376-(-661390)][IR[-643222+643237]]IR[968754+-968742][IR[1470401290%7779901]]=IR[-833086+833099]IR[-161971-(-161984)]=L[N]IR[211431-211414]=21759661453039-(-47269)IR[-711241+711255]=L[w]IR[1463756218%7584229]=-820990+22612733833247 IR[315808+-315793]=IR[505929+-505915](IR[1033719+-1033703],IR[464413393%4738912])IR[168950-168949]=IR[-343505-(-343518)][IR[-929219-(-929234)]]IR[-171735+171751]=G(113539653%613664)IR[878952-878937]=E[IR[1232468011%4871415]]IR[966458+-966441]=L[N]IR[-483447+483465]=L[w]IR[598196-598177]=IR[-963477-(-963495)](IR[366206100%2317760],IR[2010884421%13964475])IR[349923346%3888037]=IR[388365899%2734971][IR[691580+-691561]]IR[-505704-(-505718)]=IR[-937880+937895][IR[1463736571%11346795]]IR[2809418082%15436363]=L[N]IR[349306052%4596132]=990119+18243619308936 IR[-255387-(-255404)]=L[w]IR[2993252692%12021095],IR[813161-813142]=-158864+11010587508887,G(1555177570%13762540)IR[834669273%11755905]=IR[-565091+565108](IR[-537391-(-537410)],IR[-446388+446408])IR[-637534+637549]=IR[-128040+128056][IR[492330-492312]]IR[1096525612%9878609]=IR[47399278%1077256][IR[1674575250%12404261]]IR[409672344%11379787][IR[259298+-259297]]=IR[-968166+968179]IR[-640728-(-640741)]=L[N]IR[1772642238%13328137]=14098696358547-127214 IR[-49959-(-49973)]=L[w]IR[-343462-(-343478)]=G(-91374+102768)IR[-971279-(-971294)]=IR[-744246-(-744260)](IR[291547+-291531],IR[39046142%1561845])IR[975832-975831]=IR[-436597-(-436610)][IR[-996504-(-996519)]]IR[-312453-(-312466)],IR[-555978+555994]=808369-808257,G(346932154%5506678)IR[51926208%2472676][IR[-965930-(-965931)]]=IR[274012+-273999]IR[472240-472227]=L[N]IR[480700+-480686]=L[w]IR[-749263+749285],IR[360524+-360471],IR[-267975-(-267992)]=6374044191336-655056,4.5646814979902e+14%2205160224515,12742173452430-708961 IR[-471451-(-471466)]=IR[46250+-46236](IR[-507944-(-507960)],IR[333624+-333607])IR[104625+-104601],IR[119879+-119865]=G(1578908801%10186440),G(349004+-336947)IR[293956477%13361658]=IR[206982-206969][IR[-414796+414811]]IR[132032+-132019]=IR[459851009%2370366]IR[17317
+-- SERAPH HUB 1.0 | Painel mobile + Fly 360° + Temas animados
+-- Aba Shaders separada: executa o painel de shaders externo sem integrar o engine ao Hub.
+-- Use este arquivo no seu próprio projeto/experiência Roblox.
+local playersService = game:GetService("Players")
+local userInputService = game:GetService("UserInputService")
+local runService = game:GetService("RunService")
+local lighting = game:GetService("Lighting")
+local localPlayer = playersService.LocalPlayer
+local maxAimDistance = 500
+local aimSmoothness = 0.28
+local targetScanInterval = 0.12
+local defaultSpeed = 45
+local maxSpeed = 500
+local defaultHeal = 100
+local maxHeal = 500
+local flyJumpHeight = 55
+local defaultFlySpeed = 70
+local minFlySpeed = 1
+local maxFlySpeed = 1000
+local colorOff = Color3.fromRGB(55,55,55)
+local colorMob = Color3.fromRGB(150,0,0)
+local colorPlayer = Color3.fromRGB(0,90,180)
+local colorMovement = Color3.fromRGB(0,130,70)
+local colorFullbright = Color3.fromRGB(180,150,0)
+local colorHome = Color3.fromRGB(0,120,255)
+local themes = {
+Original = {
+Color3.fromRGB(255,70,120),
+Color3.fromRGB(255,120,70),
+Color3.fromRGB(255,50,180),
+Color3.fromRGB(170,60,255)
+},
+["Black / Grey / White"] = {
+Color3.fromRGB(255,255,255),
+Color3.fromRGB(150,150,150),
+Color3.fromRGB(70,70,70),
+Color3.fromRGB(230,230,230)
+},
+RGB = {
+Color3.fromRGB(255,0,0),
+Color3.fromRGB(0,255,0),
+Color3.fromRGB(0,140,255),
+Color3.fromRGB(180,0,255)
+},
+["Ocean Theme"] = {
+Color3.fromRGB(0,255,255),
+Color3.fromRGB(0,150,255),
+Color3.fromRGB(0,80,255),
+Color3.fromRGB(0,255,180)
+}
+}
+local currentTheme = "RGB"
+local animatedColors = true
+local animationSpeed = 0.8
+local espMobsEnabled = false
+local espPlayersEnabled = false
+local aimbotMobsEnabled = false
+local aimbotPlayersEnabled = false
+local fullbrightEnabled = false
+local speedEnabled = false
+local flyJumpEnabled = false
+local noclipEnabled = false
+local flyEnabled = false
+local fastHealEnabled = false
+local speedValue = 0
+local flySpeedValue = defaultFlySpeed
+local speedValueApplied = defaultSpeed
+local healValue = defaultHeal
+local mobHighlights = {}
+local playerHighlights = {}
+local aimTargets = {}
+local playerTargets = {}
+local aimTarget = nil
+local playerTarget = nil
+local targetTimer = 0
+local healTimer = 0
+local speedConnection = nil
+local flyConnection = nil
+local noclipConnection = nil
+local flyJumpConnection = nil
+local loading_a = localPlayer:WaitForChild("PlayerGui")
+local loading_b = loading_a:FindFirstChild("Seraph_PANEL")
+if loading_b then
+loading_b:Destroy()
+end
+local loading_c = loading_a:FindFirstChild("Seraph_LOADING")
+if loading_c then
+loading_c:Destroy()
+end
+local loading_d = Instance.new("ScreenGui")
+loading_d.Name = "Seraph_LOADING"
+loading_d.DisplayOrder = 1000
+loading_d.IgnoreGuiInset = true
+loading_d.ResetOnSpawn = false
+loading_d.ZIndexBehavior = Enum.ZIndexBehavior.Global
+loading_d.Parent = loading_a
+local loading_e = Instance.new("Frame")
+loading_e.Size = UDim2.new(1,0,1,0)
+loading_e.Position = UDim2.new(0,0,0,0)
+loading_e.BackgroundColor3 = Color3.fromRGB(5,5,8)
+loading_e.BorderSizePixel = 0
+loading_e.ZIndex = 1
+loading_e.Parent = loading_d
+local loading_f = Instance.new("Frame")
+loading_f.Size = UDim2.new(0,360,0,300)
+loading_f.AnchorPoint = Vector2.new(0.5,0.5)
+loading_f.Position = UDim2.new(0.5,0,0.5,0)
+loading_f.BackgroundColor3 = Color3.fromRGB(15,15,20)
+loading_f.BackgroundTransparency = 0.05
+loading_f.BorderSizePixel = 0
+loading_f.ZIndex = 10
+loading_f.Parent = loading_d
+local loading_g = Instance.new("UICorner")
+loading_g.CornerRadius = UDim.new(0,18)
+loading_g.Parent = loading_f
+local loading_h = Instance.new("UIStroke")
+loading_h.Name = "Seraph_LoadingRGB"
+loading_h.Thickness = 2.5
+loading_h.Color = Color3.fromRGB(255,0,0)
+loading_h.Parent = loading_f
+local loading_i = Instance.new("ImageLabel")
+loading_i.Size = UDim2.new(0,125,0,125)
+loading_i.AnchorPoint = Vector2.new(0.5,0)
+loading_i.Position = UDim2.new(0.5,0,0,30)
+loading_i.BackgroundColor3 = Color3.fromRGB(25,25,30)
+loading_i.BackgroundTransparency = 0
+loading_i.BorderSizePixel = 0
+loading_i.Image = ""
+loading_i.ScaleType = Enum.ScaleType.Crop
+loading_i.ZIndex = 11
+loading_i.Parent = loading_f
+local loading_j = Instance.new("UICorner")
+loading_j.CornerRadius = UDim.new(1,0)
+loading_j.Parent = loading_i
+local loading_k = Instance.new("UIStroke")
+loading_k.Name = "Seraph_LoadingImageRGB"
+loading_k.Thickness = 2
+loading_k.Color = Color3.fromRGB(255,0,0)
+loading_k.Parent = loading_i
+local loading_l = Instance.new("TextLabel")
+loading_l.Size = UDim2.new(1,0,1,0)
+loading_l.BackgroundTransparency = 1
+loading_l.Text = "Seraph"
+loading_l.TextColor3 = Color3.fromRGB(255,255,255)
+loading_l.TextSize = 25
+loading_l.Font = Enum.Font.GothamBold
+loading_l.ZIndex = 12
+loading_l.Parent = loading_i
+local loading_m = Instance.new("TextLabel")
+loading_m.Size = UDim2.new(1,-30,0,35)
+loading_m.Position = UDim2.new(0,15,0,165)
+loading_m.BackgroundTransparency = 1
+loading_m.Text = "Seraph HUB"
+loading_m.TextColor3 = Color3.fromRGB(255,255,255)
+loading_m.TextSize = 23
+loading_m.Font = Enum.Font.GothamBold
+loading_m.TextXAlignment = Enum.TextXAlignment.Center
+loading_m.ZIndex = 11
+loading_m.Parent = loading_f
+local loading_n = Instance.new("TextLabel")
+loading_n.Size = UDim2.new(1,-30,0,25)
+loading_n.Position = UDim2.new(0,15,0,200)
+loading_n.BackgroundTransparency = 1
+loading_n.Text = "Carregando painel..."
+loading_n.TextColor3 = Color3.fromRGB(180,180,180)
+loading_n.TextSize = 11
+loading_n.Font = Enum.Font.Gotham
+loading_n.TextXAlignment = Enum.TextXAlignment.Center
+loading_n.ZIndex = 11
+loading_n.Parent = loading_f
+local loading_o = Instance.new("Frame")
+loading_o.Size = UDim2.new(1,-50,0,8)
+loading_o.Position = UDim2.new(0,25,0,238)
+loading_o.BackgroundColor3 = Color3.fromRGB(35,35,40)
+loading_o.BorderSizePixel = 0
+loading_o.ZIndex = 11
+loading_o.Parent = loading_f
+local loading_p = Instance.new("UICorner")
+loading_p.CornerRadius = UDim.new(1,0)
+loading_p.Parent = loading_o
+local loading_q = Instance.new("Frame")
+loading_q.Size = UDim2.new(0,0,1,0)
+loading_q.BackgroundColor3 = Color3.fromRGB(255,0,100)
+loading_q.BorderSizePixel = 0
+loading_q.ZIndex = 12
+loading_q.Parent = loading_o
+local loading_p = Instance.new("UICorner")
+loading_p.CornerRadius = UDim.new(1,0)
+loading_p.Parent = loading_q
+local loading_r = Instance.new("TextLabel")
+loading_r.Size = UDim2.new(1,-30,0,25)
+loading_r.Position = UDim2.new(0,15,0,255)
+loading_r.BackgroundTransparency = 1
+loading_r.Text = "0%"
+loading_r.TextColor3 = Color3.fromRGB(255,255,255)
+loading_r.TextSize = 11
+loading_r.Font = Enum.Font.GothamBold
+loading_r.TextXAlignment = Enum.TextXAlignment.Center
+loading_r.ZIndex = 11
+loading_r.Parent = loading_f
+local function loading_s(t)
+local loading_t = math.sin(t)*0.5+0.5
+local loading_u = math.sin(t+2.094)*0.5+0.5
+local loading_v = math.sin(t+4.188)*0.5+0.5
+return Color3.new(loading_t,loading_u,loading_v)
+end
+local loading_w
+loading_w = runService.RenderStepped:Connect(function()
+if not loading_d or not loading_d.Parent then
+if loading_w then
+loading_w:Disconnect()
+end
+return
+end
+local loading_x = loading_s(os.clock()*1.8)
+loading_h.Color = loading_x
+loading_k.Color = loading_x
+loading_q.BackgroundColor3 = loading_x
+end)
+runService.RenderStepped:Wait()
+local loading_y = Instance.new("ScreenGui")
+loading_y.Name = "Seraph_PANEL"
+loading_y.DisplayOrder = 999
+loading_y.IgnoreGuiInset = true
+loading_y.ResetOnSpawn = false
+loading_y.ZIndexBehavior = Enum.ZIndexBehavior.Global
+loading_y.Parent = loading_a
+local loading_z = Instance.new("Frame")
+loading_z.Name = "MainPanel"
+loading_z.Size = UDim2.new(0,700,0,400)
+loading_z.AnchorPoint = Vector2.new(0.5,0.5)
+loading_z.Position = UDim2.new(0.5,0,0.5,0)
+loading_z.BackgroundColor3 = Color3.fromRGB(20,20,20)
+loading_z.BackgroundTransparency = 0.14
+loading_z.BorderSizePixel = 0
+loading_z.ZIndex = 100
+loading_z.Parent = loading_y
+local mainUi_a = Instance.new("UICorner")
+mainUi_a.CornerRadius = UDim.new(0,14)
+mainUi_a.Parent = loading_z
+local mainUi_b = Instance.new("UIStroke")
+mainUi_b.Name = "AnimatedBorder"
+mainUi_b.Thickness = 2.5
+mainUi_b.Transparency = 0
+mainUi_b.Color = themes[currentTheme][1]
+mainUi_b.Parent = loading_z
+local mainUi_c = {}
+local function mainUi_d(mainUi_f)
+if not mainUi_f then
+return
+end
+if not table.find(mainUi_c,mainUi_f) then
+table.insert(mainUi_c,mainUi_f)
+end
+end
+local function mainUi_e(objeto,finalUi_v,finalUi_w)
+if not objeto then
+return nil
+end
+local mainUi_f = objeto:FindFirstChild("Seraph_AnimatedBorder")
+if not mainUi_f then
+mainUi_f = Instance.new("UIStroke")
+mainUi_f.Name = "Seraph_AnimatedBorder"
+mainUi_f.Thickness = finalUi_v or 1.8
+mainUi_f.Transparency = finalUi_w or 0
+mainUi_f.Color = themes[currentTheme][1]
+mainUi_f.Parent = objeto
+end
+mainUi_d(mainUi_f)
+return mainUi_f
+end
+mainUi_d(mainUi_b)
+local function mainUi_g(mainUi_m,finalUi_x)
+local mainUi_h = #mainUi_m
+if mainUi_h <= 1 then
+return mainUi_m[1]
+end
+local mainUi_i = finalUi_x % mainUi_h
+local mainUi_j = math.floor(mainUi_i)+1
+local mainUi_k = mainUi_j+1
+if mainUi_k > mainUi_h then
+mainUi_k = 1
+end
+local mainUi_l = mainUi_i-math.floor(mainUi_i)
+return mainUi_m[mainUi_j]:Lerp(
+mainUi_m[mainUi_k],
+mainUi_l
+)
+end
+runService.RenderStepped:Connect(function()
+local mainUi_m = themes[currentTheme]
+local loading_x
+if animatedColors then
+loading_x = mainUi_g(
+mainUi_m,
+os.clock()*animationSpeed
+)
+else
+loading_x = mainUi_m[1]
+end
+for i = #mainUi_c,1,-1 do
+local mainUi_f = mainUi_c[i]
+if mainUi_f and mainUi_f.Parent then
+mainUi_f.Color = loading_x
+else
+table.remove(mainUi_c,i)
+end
+end
+end)
+local mainUi_n = Instance.new("Frame")
+mainUi_n.Name = "Sidebar"
+mainUi_n.Size = UDim2.new(0,145,1,-20)
+mainUi_n.Position = UDim2.new(0,10,0,10)
+mainUi_n.BackgroundColor3 = Color3.fromRGB(12,12,12)
+mainUi_n.BackgroundTransparency = 0.18
+mainUi_n.BorderSizePixel = 0
+mainUi_n.ZIndex = 105
+mainUi_n.Parent = loading_z
+local mainUi_o = Instance.new("UICorner")
+mainUi_o.CornerRadius = UDim.new(0,12)
+mainUi_o.Parent = mainUi_n
+local mainUi_p = Instance.new("TextLabel")
+mainUi_p.Size = UDim2.new(1,-20,0,30)
+mainUi_p.Position = UDim2.new(0,10,0,8)
+mainUi_p.BackgroundTransparency = 1
+mainUi_p.Text = "Seraph"
+mainUi_p.TextColor3 = Color3.fromRGB(255,255,255)
+mainUi_p.TextSize = 21
+mainUi_p.Font = Enum.Font.GothamBold
+mainUi_p.TextXAlignment = Enum.TextXAlignment.Left
+mainUi_p.ZIndex = 110
+mainUi_p.Parent = mainUi_n
+local mainUi_q = Instance.new("TextLabel")
+mainUi_q.Size = UDim2.new(1,-20,0,18)
+mainUi_q.Position = UDim2.new(0,10,0,35)
+mainUi_q.BackgroundTransparency = 1
+mainUi_q.Text = "PLAYER HUB"
+mainUi_q.TextColor3 = Color3.fromRGB(130,130,130)
+mainUi_q.TextSize = 9
+mainUi_q.Font = Enum.Font.GothamBold
+mainUi_q.TextXAlignment = Enum.TextXAlignment.Left
+mainUi_q.ZIndex = 110
+mainUi_q.Parent = mainUi_n
+local function mainUi_r(texto,finalUi_y)
+local mainUi_s = Instance.new("TextButton")
+mainUi_s.Size = UDim2.new(1,-20,0,43)
+mainUi_s.Position = UDim2.new(0,10,0,finalUi_y)
+mainUi_s.BackgroundColor3 = colorOff
+mainUi_s.BackgroundTransparency = 0.12
+mainUi_s.Text = texto
+mainUi_s.TextColor3 = Color3.fromRGB(235,235,235)
+mainUi_s.TextSize = 13
+mainUi_s.Font = Enum.Font.GothamBold
+mainUi_s.BorderSizePixel = 0
+mainUi_s.AutoButtonColor = false
+mainUi_s.ZIndex = 110
+mainUi_s.Parent = mainUi_n
+local mainUi_t = Instance.new("UICorner")
+mainUi_t.CornerRadius = UDim.new(0,9)
+mainUi_t.Parent = mainUi_s
+mainUi_e(mainUi_s,1.8,0)
+return mainUi_s
+end
+local mainUi_u = mainUi_r("⌂  Home",65)
+local mainUi_v = mainUi_r("⚙  Player Settings",113)
+local mainUi_w = mainUi_r("⚙  Configurações",161)
+mainUi_u.BackgroundColor3 = colorHome
+local mainUi_x = Instance.new("Frame")
+mainUi_x.Name = "PlayerProfile"
+mainUi_x.Size = UDim2.new(1,-20,0,61)
+mainUi_x.Position = UDim2.new(0,10,1,-71)
+mainUi_x.BackgroundColor3 = Color3.fromRGB(25,25,25)
+mainUi_x.BackgroundTransparency = 0.12
+mainUi_x.BorderSizePixel = 0
+mainUi_x.ZIndex = 110
+mainUi_x.Parent = mainUi_n
+local mainUi_y = Instance.new("UICorner")
+mainUi_y.CornerRadius = UDim.new(0,9)
+mainUi_y.Parent = mainUi_x
+mainUi_e(mainUi_x,1.8,0)
+local mainUi_z = Instance.new("ImageLabel")
+mainUi_z.Size = UDim2.new(0,42,0,42)
+mainUi_z.Position = UDim2.new(0,7,0.5,-21)
+mainUi_z.BackgroundColor3 = Color3.fromRGB(35,35,35)
+mainUi_z.BorderSizePixel = 0
+mainUi_z.ZIndex = 112
+mainUi_z.Parent = mainUi_x
+local content_a = Instance.new("UICorner")
+content_a.CornerRadius = UDim.new(1,0)
+content_a.Parent = mainUi_z
+local content_b,finalUi_z = pcall(function()
+return playersService:GetUserThumbnailAsync(
+localPlayer.UserId,
+Enum.ThumbnailType.HeadShot,
+Enum.ThumbnailSize.Size100x100
+)
+end)
+if content_b and finalUi_z then
+mainUi_z.Image = finalUi_z
+end
+local content_c = Instance.new("TextLabel")
+content_c.Size = UDim2.new(1,-57,0,21)
+content_c.Position = UDim2.new(0,54,0,8)
+content_c.BackgroundTransparency = 1
+content_c.Text = localPlayer.Name
+content_c.TextColor3 = Color3.fromRGB(255,255,255)
+content_c.TextSize = 12
+content_c.Font = Enum.Font.GothamBold
+content_c.TextXAlignment = Enum.TextXAlignment.Left
+content_c.TextTruncate = Enum.TextTruncate.AtEnd
+content_c.ZIndex = 112
+content_c.Parent = mainUi_x
+local content_d = Instance.new("TextLabel")
+content_d.Size = UDim2.new(1,-57,0,18)
+content_d.Position = UDim2.new(0,54,0,30)
+content_d.BackgroundTransparency = 1
+content_d.Text = "ID: "..tostring(localPlayer.UserId)
+content_d.TextColor3 = Color3.fromRGB(125,125,125)
+content_d.TextSize = 8
+content_d.Font = Enum.Font.Gotham
+content_d.TextXAlignment = Enum.TextXAlignment.Left
+content_d.ZIndex = 112
+content_d.Parent = mainUi_x
+local content_e = Instance.new("TextButton")
+content_e.Name = "Close"
+content_e.Size = UDim2.new(0,34,0,34)
+content_e.Position = UDim2.new(1,-43,0,8)
+content_e.BackgroundColor3 = Color3.fromRGB(40,40,40)
+content_e.BackgroundTransparency = 0.15
+content_e.Text = "×"
+content_e.TextColor3 = Color3.fromRGB(255,255,255)
+content_e.TextSize = 21
+content_e.Font = Enum.Font.GothamBold
+content_e.BorderSizePixel = 0
+content_e.AutoButtonColor = true
+content_e.ZIndex = 130
+content_e.Parent = loading_z
+local content_f = Instance.new("UICorner")
+content_f.CornerRadius = UDim.new(0,8)
+content_f.Parent = content_e
+mainUi_e(content_e,1.8,0)
+local content_g = Instance.new("Frame")
+content_g.Name = "Content"
+content_g.Size = UDim2.new(1,-165,1,-20)
+content_g.Position = UDim2.new(0,155,0,10)
+content_g.BackgroundTransparency = 1
+content_g.BorderSizePixel = 0
+content_g.ZIndex = 101
+content_g.Parent = loading_z
+local content_h = Instance.new("TextLabel")
+content_h.Size = UDim2.new(1,-55,0,38)
+content_h.Position = UDim2.new(0,10,0,0)
+content_h.BackgroundTransparency = 1
+content_h.Text = "Home"
+content_h.TextColor3 = Color3.fromRGB(255,255,255)
+content_h.TextSize = 19
+content_h.Font = Enum.Font.GothamBold
+content_h.TextXAlignment = Enum.TextXAlignment.Left
+content_h.ZIndex = 110
+content_h.Parent = content_g
+local content_i = Instance.new("Frame")
+content_i.Size = UDim2.new(1,-10,1,-48)
+content_i.Position = UDim2.new(0,5,0,45)
+content_i.BackgroundTransparency = 1
+content_i.BorderSizePixel = 0
+content_i.ZIndex = 103
+content_i.Parent = content_g
+local content_j = Instance.new("TextLabel")
+content_j.Size = UDim2.new(1,-10,0,40)
+content_j.Position = UDim2.new(0,5,0,0)
+content_j.BackgroundTransparency = 1
+content_j.Text = "Seraph HUB"
+content_j.TextColor3 = Color3.fromRGB(255,255,255)
+content_j.TextSize = 23
+content_j.Font = Enum.Font.GothamBold
+content_j.TextXAlignment = Enum.TextXAlignment.Left
+content_j.ZIndex = 110
+content_j.Parent = content_i
+local content_k = Instance.new("TextLabel")
+content_k.Size = UDim2.new(1,-20,0,115)
+content_k.Position = UDim2.new(0,10,0,48)
+content_k.BackgroundTransparency = 1
+content_k.Text =
+"PLAYER HUB\n\n"..
+"Versão: 1.0\n\n"..
+"Desenvolvido por: Lkzhin\n\n"..
+"Comunidade: Roblox Scripts Community"
+content_k.TextColor3 = Color3.fromRGB(190,190,190)
+content_k.TextSize = 12
+content_k.Font = Enum.Font.Gotham
+content_k.TextXAlignment = Enum.TextXAlignment.Left
+content_k.TextYAlignment = Enum.TextYAlignment.Top
+content_k.ZIndex = 110
+content_k.Parent = content_i
+local content_l = Instance.new("TextButton")
+content_l.Size = UDim2.new(1,-20,0,42)
+content_l.Position = UDim2.new(0,10,0,170)
+content_l.BackgroundColor3 = colorHome
+content_l.BackgroundTransparency = 0.08
+content_l.Text = "💬  Copiar Discord"
+content_l.TextColor3 = Color3.fromRGB(255,255,255)
+content_l.TextSize = 13
+content_l.Font = Enum.Font.GothamBold
+content_l.BorderSizePixel = 0
+content_l.ZIndex = 110
+content_l.Parent = content_i
+local content_m = Instance.new("UICorner")
+content_m.CornerRadius = UDim.new(0,9)
+content_m.Parent = content_l
+mainUi_e(content_l,1.8,0)
+local content_n = Instance.new("TextLabel")
+content_n.Size = UDim2.new(1,-20,0,25)
+content_n.Position = UDim2.new(0,10,0,218)
+content_n.BackgroundTransparency = 1
+content_n.Text = ""
+content_n.TextColor3 = Color3.fromRGB(100,255,150)
+content_n.TextSize = 11
+content_n.Font = Enum.Font.GothamBold
+content_n.ZIndex = 110
+content_n.Parent = content_i
+local content_o = "https://discord.gg/9ZdJQJ9W5U"
+content_l.Activated:Connect(function()
+if setclipboard then
+setclipboard(content_o)
+content_n.Text = "✓ Link copiado!"
+else
+content_n.Text = content_o
+end
+task.delay(3,function()
+if content_n and content_n.Parent then
+content_n.Text = ""
+end
+end)
+end)
+local content_p = Instance.new("ScrollingFrame")
+content_p.Name = "Options"
+content_p.Size = UDim2.new(1,-10,1,-48)
+content_p.Position = UDim2.new(0,5,0,45)
+content_p.BackgroundTransparency = 1
+content_p.BorderSizePixel = 0
+content_p.ScrollBarThickness = 4
+content_p.ScrollBarImageTransparency = 0.3
+content_p.CanvasSize = UDim2.new(0,0,0,795)
+content_p.Active = true
+content_p.ClipsDescendants = true
+content_p.ZIndex = 102
+content_p.Visible = false
+content_p.Parent = content_g
+local content_q = Instance.new("Frame")
+content_q.Name = "ConfigContent"
+content_q.Size = UDim2.new(1,-10,1,-48)
+content_q.Position = UDim2.new(0,5,0,45)
+content_q.BackgroundTransparency = 1
+content_q.BorderSizePixel = 0
+content_q.ZIndex = 103
+content_q.Visible = false
+content_q.Parent = content_g
+local content_r = Instance.new("TextLabel")
+content_r.Size = UDim2.new(1,-10,0,28)
+content_r.Position = UDim2.new(0,8,0,0)
+content_r.BackgroundTransparency = 1
+content_r.Text = "APARÊNCIA"
+content_r.TextColor3 = Color3.fromRGB(255,255,255)
+content_r.TextSize = 13
+content_r.Font = Enum.Font.GothamBold
+content_r.TextXAlignment = Enum.TextXAlignment.Left
+content_r.ZIndex = 110
+content_r.Parent = content_q
+local content_s = Instance.new("TextLabel")
+content_s.Size = UDim2.new(1,-16,0,38)
+content_s.Position = UDim2.new(0,8,0,27)
+content_s.BackgroundTransparency = 1
+content_s.Text = "Escolha o estilo da borda do Seraph."
+content_s.TextColor3 = Color3.fromRGB(140,140,140)
+content_s.TextSize = 10
+content_s.Font = Enum.Font.Gotham
+content_s.TextXAlignment = Enum.TextXAlignment.Left
+content_s.TextYAlignment = Enum.TextYAlignment.Top
+content_s.ZIndex = 110
+content_s.Parent = content_q
+local content_t = Instance.new("TextButton")
+content_t.Size = UDim2.new(1,-16,0,43)
+content_t.Position = UDim2.new(0,8,0,68)
+content_t.BackgroundColor3 = colorMovement
+content_t.BackgroundTransparency = 0.05
+content_t.Text = "Animated colors: ON"
+content_t.TextColor3 = Color3.fromRGB(255,255,255)
+content_t.TextSize = 12
+content_t.Font = Enum.Font.GothamBold
+content_t.BorderSizePixel = 0
+content_t.ZIndex = 110
+content_t.Parent = content_q
+local content_u = Instance.new("UICorner")
+content_u.CornerRadius = UDim.new(0,9)
+content_u.Parent = content_t
+mainUi_e(content_t,1.8,0)
+local content_v = Instance.new("TextLabel")
+content_v.Size = UDim2.new(1,-16,0,25)
+content_v.Position = UDim2.new(0,8,0,120)
+content_v.BackgroundTransparency = 1
+content_v.Text = "TEMAS"
+content_v.TextColor3 = Color3.fromRGB(255,255,255)
+content_v.TextSize = 12
+content_v.Font = Enum.Font.GothamBold
+content_v.TextXAlignment = Enum.TextXAlignment.Left
+content_v.ZIndex = 110
+content_v.Parent = content_q
+local content_w = {}
+local function content_x(nome,tail_a,finalUi_y)
+local mainUi_s = Instance.new("TextButton")
+mainUi_s.Size = UDim2.new(0.5,-7,0,53)
+mainUi_s.Position = UDim2.new(tail_a,0,0,finalUi_y)
+mainUi_s.BackgroundColor3 = Color3.fromRGB(28,28,28)
+mainUi_s.BackgroundTransparency = 0.05
+mainUi_s.Text = nome
+mainUi_s.TextColor3 = Color3.fromRGB(235,235,235)
+mainUi_s.TextSize = 10
+mainUi_s.Font = Enum.Font.GothamBold
+mainUi_s.BorderSizePixel = 0
+mainUi_s.AutoButtonColor = false
+mainUi_s.ZIndex = 110
+mainUi_s.Parent = content_q
+local mainUi_t = Instance.new("UICorner")
+mainUi_t.CornerRadius = UDim.new(0,9)
+mainUi_t.Parent = mainUi_s
+mainUi_e(mainUi_s,1.5,0.15)
+content_w[nome] = mainUi_s
+return mainUi_s
+end
+local content_y = content_x("Original",0,150)
+local content_z = content_x("Black / Grey / White",0.5,150)
+local controls_a = content_x("RGB",0,211)
+local controls_b = content_x("Ocean Theme",0.5,211)
+local function controls_c()
+for nome,mainUi_s in pairs(content_w) do
+if nome == currentTheme then
+mainUi_s.BackgroundColor3 = themes[nome][1]
+mainUi_s.BackgroundTransparency = 0.05
+mainUi_s.TextColor3 = Color3.fromRGB(255,255,255)
+else
+mainUi_s.BackgroundColor3 = Color3.fromRGB(28,28,28)
+mainUi_s.BackgroundTransparency = 0.05
+mainUi_s.TextColor3 = Color3.fromRGB(220,220,220)
+end
+end
+end
+local function controls_d(nome)
+if not themes[nome] then
+return
+end
+currentTheme = nome
+controls_c()
+content_s.Text =
+"Borda: "..nome..
+"\nAnimated colors: "..(animatedColors and "ON" or "OFF")
+end
+content_y.Activated:Connect(function()
+controls_d("Original")
+end)
+content_z.Activated:Connect(function()
+controls_d("Black / Grey / White")
+end)
+controls_a.Activated:Connect(function()
+controls_d("RGB")
+end)
+controls_b.Activated:Connect(function()
+controls_d("Ocean Theme")
+end)
+content_t.Activated:Connect(function()
+animatedColors = not animatedColors
+if animatedColors then
+content_t.Text = "Animated colors: ON"
+content_t.BackgroundColor3 = colorMovement
+else
+content_t.Text = "Animated colors: OFF"
+content_t.BackgroundColor3 = colorOff
+end
+content_s.Text =
+"Borda: "..currentTheme..
+"\nAnimated colors: "..(animatedColors and "ON" or "OFF")
+end)
+controls_c()
+local _shaderContent
+local _shaderTab
+
+local function controls_e()
+content_i.Visible = true
+content_p.Visible = false
+content_q.Visible = false
+_shaderContent.Visible = false
+mainUi_u.BackgroundColor3 = colorHome
+mainUi_v.BackgroundColor3 = colorOff
+mainUi_w.BackgroundColor3 = colorOff
+_shaderTab.BackgroundColor3 = colorOff
+content_h.Text = "Home"
+end
+local function controls_f()
+content_i.Visible = false
+content_p.Visible = true
+content_q.Visible = false
+_shaderContent.Visible = false
+mainUi_u.BackgroundColor3 = colorOff
+mainUi_v.BackgroundColor3 = colorHome
+mainUi_w.BackgroundColor3 = colorOff
+_shaderTab.BackgroundColor3 = colorOff
+content_h.Text = "Player Settings"
+end
+local function controls_g()
+content_i.Visible = false
+content_p.Visible = false
+content_q.Visible = true
+_shaderContent.Visible = false
+mainUi_u.BackgroundColor3 = colorOff
+mainUi_v.BackgroundColor3 = colorOff
+mainUi_w.BackgroundColor3 = colorHome
+_shaderTab.BackgroundColor3 = colorOff
+content_h.Text = "Configurações"
+end
+mainUi_u.Activated:Connect(controls_e)
+mainUi_v.Activated:Connect(controls_f)
+mainUi_w.Activated:Connect(controls_g)
+
+--==================================================
+-- SERAPH SHADERS | ABA EXECUTOR
+--==================================================
+
+_shaderContent = Instance.new("Frame")
+_shaderContent.Name = "ShadersContent"
+_shaderContent.Size = UDim2.new(1,-10,1,-48)
+_shaderContent.Position = UDim2.new(0,5,0,45)
+_shaderContent.BackgroundTransparency = 1
+_shaderContent.BorderSizePixel = 0
+_shaderContent.ZIndex = 103
+_shaderContent.Visible = false
+_shaderContent.Parent = content_g
+
+local _shaderSection = Instance.new("TextLabel")
+_shaderSection.Size = UDim2.new(1,-10,0,22)
+_shaderSection.Position = UDim2.new(0,10,0,0)
+_shaderSection.BackgroundTransparency = 1
+_shaderSection.Text = "VISUALS"
+_shaderSection.TextColor3 = Color3.fromRGB(180,70,255)
+_shaderSection.TextSize = 11
+_shaderSection.Font = Enum.Font.GothamBold
+_shaderSection.TextXAlignment = Enum.TextXAlignment.Left
+_shaderSection.ZIndex = 110
+_shaderSection.Parent = _shaderContent
+
+local _shaderTitle = Instance.new("TextLabel")
+_shaderTitle.Size = UDim2.new(1,-10,0,38)
+_shaderTitle.Position = UDim2.new(0,10,0,23)
+_shaderTitle.BackgroundTransparency = 1
+_shaderTitle.Text = "Shaders"
+_shaderTitle.TextColor3 = Color3.fromRGB(255,255,255)
+_shaderTitle.TextSize = 22
+_shaderTitle.Font = Enum.Font.GothamBold
+_shaderTitle.TextXAlignment = Enum.TextXAlignment.Left
+_shaderTitle.ZIndex = 110
+_shaderTitle.Parent = _shaderContent
+
+local _shaderCard = Instance.new("Frame")
+_shaderCard.Name = "SeraphShadersCard"
+_shaderCard.Size = UDim2.new(1,-20,0,105)
+_shaderCard.Position = UDim2.new(0,10,0,72)
+_shaderCard.BackgroundColor3 = Color3.fromRGB(22,22,25)
+_shaderCard.BackgroundTransparency = 0.05
+_shaderCard.BorderSizePixel = 0
+_shaderCard.ZIndex = 108
+_shaderCard.Parent = _shaderContent
+local _shaderCardCorner = Instance.new("UICorner")
+_shaderCardCorner.CornerRadius = UDim.new(0,12)
+_shaderCardCorner.Parent = _shaderCard
+mainUi_e(_shaderCard,1.8,0.1)
+
+local _shaderCardTitle = Instance.new("TextLabel")
+_shaderCardTitle.Size = UDim2.new(1,-160,0,28)
+_shaderCardTitle.Position = UDim2.new(0,18,0,20)
+_shaderCardTitle.BackgroundTransparency = 1
+_shaderCardTitle.Text = "SERAPH SHADERS"
+_shaderCardTitle.TextColor3 = Color3.fromRGB(255,255,255)
+_shaderCardTitle.TextSize = 16
+_shaderCardTitle.Font = Enum.Font.GothamBold
+_shaderCardTitle.TextXAlignment = Enum.TextXAlignment.Left
+_shaderCardTitle.ZIndex = 112
+_shaderCardTitle.Parent = _shaderCard
+
+local _shaderCardInfo = Instance.new("TextLabel")
+_shaderCardInfo.Size = UDim2.new(1,-180,0,24)
+_shaderCardInfo.Position = UDim2.new(0,18,0,52)
+_shaderCardInfo.BackgroundTransparency = 1
+_shaderCardInfo.Text = "Tap to execute"
+_shaderCardInfo.TextColor3 = Color3.fromRGB(145,145,145)
+_shaderCardInfo.TextSize = 11
+_shaderCardInfo.Font = Enum.Font.Gotham
+_shaderCardInfo.TextXAlignment = Enum.TextXAlignment.Left
+_shaderCardInfo.ZIndex = 112
+_shaderCardInfo.Parent = _shaderCard
+
+local _shaderExecute = Instance.new("TextButton")
+_shaderExecute.Name = "ExecuteShaders"
+_shaderExecute.Size = UDim2.new(0,135,0,48)
+_shaderExecute.Position = UDim2.new(1,-150,0.5,-24)
+_shaderExecute.BackgroundColor3 = Color3.fromRGB(90,20,35)
+_shaderExecute.BackgroundTransparency = 0.05
+_shaderExecute.Text = "EXECUTE  >"
+_shaderExecute.TextColor3 = Color3.fromRGB(255,255,255)
+_shaderExecute.TextSize = 12
+_shaderExecute.Font = Enum.Font.GothamBold
+_shaderExecute.BorderSizePixel = 0
+_shaderExecute.AutoButtonColor = false
+_shaderExecute.ZIndex = 113
+_shaderExecute.Parent = _shaderCard
+local _shaderExecuteCorner = Instance.new("UICorner")
+_shaderExecuteCorner.CornerRadius = UDim.new(0,9)
+_shaderExecuteCorner.Parent = _shaderExecute
+mainUi_e(_shaderExecute,1.8,0)
+
+_shaderTab = Instance.new("TextButton")
+_shaderTab.Name = "ShadersTab"
+_shaderTab.Size = UDim2.new(1,-20,0,43)
+_shaderTab.Position = UDim2.new(0,10,0,209)
+_shaderTab.BackgroundColor3 = colorOff
+_shaderTab.BackgroundTransparency = 0.12
+_shaderTab.Text = "✦  Shaders"
+_shaderTab.TextColor3 = Color3.fromRGB(235,235,235)
+_shaderTab.TextSize = 13
+_shaderTab.Font = Enum.Font.GothamBold
+_shaderTab.BorderSizePixel = 0
+_shaderTab.AutoButtonColor = false
+_shaderTab.ZIndex = 110
+_shaderTab.Parent = mainUi_n
+local _shaderTabCorner = Instance.new("UICorner")
+_shaderTabCorner.CornerRadius = UDim.new(0,9)
+_shaderTabCorner.Parent = _shaderTab
+mainUi_e(_shaderTab,1.8,0)
+
+_shaderTab.Activated:Connect(function()
+content_i.Visible = false
+content_p.Visible = false
+content_q.Visible = false
+_shaderContent.Visible = true
+mainUi_u.BackgroundColor3 = colorOff
+mainUi_v.BackgroundColor3 = colorOff
+mainUi_w.BackgroundColor3 = colorOff
+_shaderTab.BackgroundColor3 = colorHome
+content_h.Text = "Shaders"
+end)
+
+--==================================================
+-- SHADERS EXTERNOS
+--==================================================
+
+local SHADER_URL = "https://raw.githubusercontent.com/lkzhin/Seraph-hub/refs/heads/main/Seraph%20hub"
+
+_shaderExecute.Activated:Connect(function()
+	local ok, err = pcall(function()
+		loadstring(game:HttpGet(SHADER_URL))()
+	end)
+
+	if ok then
+		_shaderCardInfo.Text = "Shaders abertos em painel separado."
+		_shaderCardInfo.TextColor3 = Color3.fromRGB(100,255,150)
+	else
+		_shaderCardInfo.Text = "Erro ao executar os shaders."
+		_shaderCardInfo.TextColor3 = Color3.fromRGB(255,100,100)
+		warn("Seraph Shaders:",err)
+	end
+
+	task.delay(3,function()
+		if _shaderCardInfo and _shaderCardInfo.Parent then
+			_shaderCardInfo.Text = "Tap to execute"
+			_shaderCardInfo.TextColor3 = Color3.fromRGB(145,145,145)
+		end
+	end)
+end)
+
+local function controls_h(texto,finalUi_y)
+local mainUi_s = Instance.new("TextButton")
+mainUi_s.Size = UDim2.new(1,-8,0,45)
+mainUi_s.Position = UDim2.new(0,2,0,finalUi_y)
+mainUi_s.BackgroundColor3 = colorOff
+mainUi_s.BackgroundTransparency = 0.22
+mainUi_s.Text = texto
+mainUi_s.TextColor3 = Color3.fromRGB(235,235,235)
+mainUi_s.TextSize = 13
+mainUi_s.Font = Enum.Font.GothamBold
+mainUi_s.BorderSizePixel = 0
+mainUi_s.AutoButtonColor = true
+mainUi_s.ZIndex = 105
+mainUi_s.Parent = content_p
+local mainUi_t = Instance.new("UICorner")
+mainUi_t.CornerRadius = UDim.new(0,8)
+mainUi_t.Parent = mainUi_s
+mainUi_e(mainUi_s,1.8,0)
+return mainUi_s
+end
+local controls_i = controls_h("ESP Mobs: OFF",5)
+local controls_j = controls_h("ESP Players: OFF",60)
+local controls_k = controls_h("Aimbot Mobs: OFF",115)
+local controls_l = controls_h("Aimbot Players: OFF",170)
+local controls_m = controls_h("FullBright: OFF",225)
+local controls_n = controls_h("Speed: 45",280)
+local controls_o = Instance.new("TextBox")
+controls_o.Size = UDim2.new(1,-8,0,45)
+controls_o.Position = UDim2.new(0,2,0,335)
+controls_o.BackgroundColor3 = colorOff
+controls_o.BackgroundTransparency = 0.22
+controls_o.Text = "45"
+controls_o.PlaceholderText = "Velocidade (1-500)"
+controls_o.TextColor3 = Color3.fromRGB(255,255,255)
+controls_o.PlaceholderColor3 = Color3.fromRGB(180,180,180)
+controls_o.TextSize = 13
+controls_o.Font = Enum.Font.GothamBold
+controls_o.ClearTextOnFocus = false
+controls_o.TextXAlignment = Enum.TextXAlignment.Center
+controls_o.BorderSizePixel = 0
+controls_o.ZIndex = 105
+controls_o.Parent = content_p
+local controls_p = Instance.new("UICorner")
+controls_p.CornerRadius = UDim.new(0,8)
+controls_p.Parent = controls_o
+mainUi_e(controls_o,1.8,0)
+local controls_q = controls_h("FlyJump: OFF",400)
+local controls_r = controls_h("Fly: OFF",455)
+local controls_s = Instance.new("TextBox")
+controls_s.Size = UDim2.new(1,-8,0,45)
+controls_s.Position = UDim2.new(0,2,0,510)
+controls_s.BackgroundColor3 = colorOff
+controls_s.BackgroundTransparency = 0.22
+controls_s.Text = tostring(defaultFlySpeed)
+controls_s.PlaceholderText = "Velocidade Fly (1-1000)"
+controls_s.TextColor3 = Color3.fromRGB(255,255,255)
+controls_s.PlaceholderColor3 = Color3.fromRGB(180,180,180)
+controls_s.TextSize = 13
+controls_s.Font = Enum.Font.GothamBold
+controls_s.ClearTextOnFocus = false
+controls_s.TextXAlignment = Enum.TextXAlignment.Center
+controls_s.BorderSizePixel = 0
+controls_s.ZIndex = 105
+controls_s.Parent = content_p
+local controls_t = Instance.new("UICorner")
+controls_t.CornerRadius = UDim.new(0,8)
+controls_t.Parent = controls_s
+mainUi_e(controls_s,1.8,0)
+local controls_u = Instance.new("TextButton")
+controls_u.Size = UDim2.new(0.5,-5,0,45)
+controls_u.Position = UDim2.new(0,2,0,565)
+controls_u.BackgroundColor3 = colorOff
+controls_u.BackgroundTransparency = 0.22
+controls_u.Text = "▲  SUBIR"
+controls_u.TextColor3 = Color3.fromRGB(235,235,235)
+controls_u.TextSize = 12
+controls_u.Font = Enum.Font.GothamBold
+controls_u.BorderSizePixel = 0
+controls_u.ZIndex = 105
+controls_u.Parent = content_p
+local controls_v = Instance.new("UICorner")
+controls_v.CornerRadius = UDim.new(0,8)
+controls_v.Parent = controls_u
+mainUi_e(controls_u,1.8,0)
+local controls_w = Instance.new("TextButton")
+controls_w.Size = UDim2.new(0.5,-5,0,45)
+controls_w.Position = UDim2.new(0.5,3,0,565)
+controls_w.BackgroundColor3 = colorOff
+controls_w.BackgroundTransparency = 0.22
+controls_w.Text = "▼  DESCER"
+controls_w.TextColor3 = Color3.fromRGB(235,235,235)
+controls_w.TextSize = 12
+controls_w.Font = Enum.Font.GothamBold
+controls_w.BorderSizePixel = 0
+controls_w.ZIndex = 105
+controls_w.Parent = content_p
+local controls_x = Instance.new("UICorner")
+controls_x.CornerRadius = UDim.new(0,8)
+controls_x.Parent = controls_w
+mainUi_e(controls_w,1.8,0)
+local controls_y = controls_h("Noclip: OFF",625)
+local controls_z = controls_h("Fast Heal: OFF",680)
+local systems_a = Instance.new("TextBox")
+systems_a.Size = UDim2.new(1,-8,0,45)
+systems_a.Position = UDim2.new(0,2,0,735)
+systems_a.BackgroundColor3 = colorOff
+systems_a.BackgroundTransparency = 0.22
+systems_a.Text = "500"
+systems_a.PlaceholderText = "Cura por segundo (1-500)"
+systems_a.TextColor3 = Color3.fromRGB(255,255,255)
+systems_a.PlaceholderColor3 = Color3.fromRGB(180,180,180)
+systems_a.TextSize = 13
+systems_a.Font = Enum.Font.GothamBold
+systems_a.ClearTextOnFocus = false
+systems_a.TextXAlignment = Enum.TextXAlignment.Center
+systems_a.BorderSizePixel = 0
+systems_a.ZIndex = 105
+systems_a.Parent = content_p
+local systems_b = Instance.new("UICorner")
+systems_b.CornerRadius = UDim.new(0,8)
+systems_b.Parent = systems_a
+mainUi_e(systems_a,1.8,0)
+local function systems_c(model)
+if not model then return nil end
+local systems_d = model:FindFirstChild("HumanoidRootPart")
+if systems_d and systems_d:IsA("BasePart") then
+return systems_d
+end
+if model.PrimaryPart then
+return model.PrimaryPart
+end
+return model:FindFirstChildWhichIsA("BasePart",true)
+end
+local function systems_e(obj)
+if not obj or not obj:IsA("Model") then return false end
+if playersService:GetPlayerFromCharacter(obj) then return false end
+local systems_f = obj:FindFirstChildOfClass("Humanoid")
+if not systems_f or systems_f.Health <= 0 then
+return false
+end
+return systems_c(obj) ~= nil
+end
+local function systems_g(mob)
+if not espMobsEnabled or mobHighlights[mob] or not systems_e(mob) then
+return
+end
+local systems_h = Instance.new("Highlight")
+systems_h.Name = "Seraph_MobESP"
+systems_h.Adornee = mob
+systems_h.FillColor = Color3.fromRGB(255,0,0)
+systems_h.OutlineColor = Color3.fromRGB(255,0,0)
+systems_h.FillTransparency = 1
+systems_h.OutlineTransparency = 0
+systems_h.DepthMode = Enum.HighlightDepthMode.AlwaysOnTop
+systems_h.Parent = workspace
+mobHighlights[mob] = systems_h
+end
+local function systems_i()
+for mob,systems_h in pairs(mobHighlights) do
+if systems_h then
+systems_h:Destroy()
+end
+mobHighlights[mob] = nil
+end
+end
+local function systems_j()
+systems_i()
+table.clear(aimTargets)
+if not espMobsEnabled then return end
+for _,obj in ipairs(workspace:GetDescendants()) do
+if systems_e(obj) then
+aimTargets[obj] = true
+systems_g(obj)
+end
+end
+end
+workspace.DescendantAdded:Connect(function(obj)
+if not obj:IsA("Model") then return end
+task.delay(0.15,function()
+if not obj.Parent then return end
+if systems_e(obj) then
+aimTargets[obj] = true
+if espMobsEnabled then
+systems_g(obj)
+end
+end
+end)
+end)
+workspace.DescendantRemoving:Connect(function(obj)
+aimTargets[obj] = nil
+if mobHighlights[obj] then
+mobHighlights[obj]:Destroy()
+mobHighlights[obj] = nil
+end
+if aimTarget == obj then
+aimTarget = nil
+end
+end)
+local function systems_k(target)
+if not espPlayersEnabled or target == localPlayer then return end
+local systems_l = target.Character
+if not systems_l then return end
+local systems_f = systems_l:FindFirstChildOfClass("Humanoid")
+if not systems_f then return end
+if playerHighlights[target] then
+playerHighlights[target].Adornee = systems_l
+return
+end
+local systems_h = Instance.new("Highlight")
+systems_h.Name = "Seraph_PlayerESP"
+systems_h.Adornee = systems_l
+systems_h.FillColor = Color3.fromRGB(0,120,255)
+systems_h.OutlineColor = Color3.fromRGB(0,120,255)
+systems_h.FillTransparency = 1
+systems_h.OutlineTransparency = 0
+systems_h.DepthMode = Enum.HighlightDepthMode.AlwaysOnTop
+systems_h.Parent = workspace
+playerHighlights[target] = systems_h
+playerTargets[target] = true
+end
+local function systems_m()
+for target,systems_h in pairs(playerHighlights) do
+if systems_h then
+systems_h:Destroy()
+end
+playerHighlights[target] = nil
+end
+table.clear(playerTargets)
+end
+local function systems_n()
+systems_m()
+if not espPlayersEnabled then return end
+for _,target in ipairs(playersService:GetPlayers()) do
+if target ~= localPlayer then
+playerTargets[target] = true
+systems_k(target)
+end
+end
+end
+playersService.PlayerAdded:Connect(function(target)
+target.CharacterAdded:Connect(function()
+task.wait(0.4)
+playerTargets[target] = true
+if espPlayersEnabled then
+systems_k(target)
+end
+end)
+end)
+playersService.PlayerRemoving:Connect(function(target)
+playerTargets[target] = nil
+if playerHighlights[target] then
+playerHighlights[target]:Destroy()
+playerHighlights[target] = nil
+end
+if playerTarget == target then
+playerTarget = nil
+end
+end)
+local function systems_o()
+local systems_p = nil
+local systems_q = math.huge
+local systems_l = localPlayer.Character
+local systems_r = systems_l and systems_l:FindFirstChild("HumanoidRootPart")
+if not systems_r then return nil end
+local systems_s = workspace.CurrentCamera
+if not systems_s then return nil end
+local systems_t = systems_s.ViewportSize
+local systems_u = Vector2.new(systems_t.X/2,systems_t.Y/2)
+for mob in pairs(aimTargets) do
+if systems_e(mob) then
+local systems_d = systems_c(mob)
+if systems_d then
+local systems_v = (systems_d.Position-systems_r.Position).Magnitude
+if systems_v <= maxAimDistance then
+local systems_w,tail_b =
+systems_s:WorldToViewportPoint(
+systems_d.Position+Vector3.new(0,1.2,0)
+)
+if tail_b and systems_w.Z > 0 then
+local systems_x =
+Vector2.new(systems_w.X,systems_w.Y)
+local systems_y =
+(systems_x-systems_u).Magnitude
+if systems_y < systems_q then
+systems_q = systems_y
+systems_p = mob
+end
+end
+end
+end
+end
+end
+return systems_p
+end
+local function systems_z()
+local effects_a = nil
+local systems_q = math.huge
+local systems_l = localPlayer.Character
+local systems_r = systems_l and systems_l:FindFirstChild("HumanoidRootPart")
+if not systems_r then return nil end
+local systems_s = workspace.CurrentCamera
+if not systems_s then return nil end
+local systems_t = systems_s.ViewportSize
+local systems_u = Vector2.new(systems_t.X/2,systems_t.Y/2)
+for _,target in ipairs(playersService:GetPlayers()) do
+if target ~= localPlayer then
+local effects_b = target.Character
+if effects_b then
+local systems_f =
+effects_b:FindFirstChildOfClass("Humanoid")
+local systems_d = systems_c(effects_b)
+if systems_f and systems_f.Health > 0 and systems_d then
+local systems_v =
+(systems_d.Position-systems_r.Position).Magnitude
+if systems_v <= maxAimDistance then
+local systems_w,tail_b =
+systems_s:WorldToViewportPoint(
+systems_d.Position+Vector3.new(0,1.2,0)
+)
+if tail_b and systems_w.Z > 0 then
+local systems_x =
+Vector2.new(systems_w.X,systems_w.Y)
+local systems_y =
+(systems_x-systems_u).Magnitude
+if systems_y < systems_q then
+systems_q = systems_y
+effects_a = target
+end
+end
+end
+end
+end
+end
+end
+return effects_a
+end
+local function effects_c(systems_d,tail_c)
+if not systems_d or not systems_d.Parent then return end
+local systems_s = workspace.CurrentCamera
+if not systems_s then return end
+local effects_d = systems_s.CFrame.Position
+local effects_e = systems_d.Position+Vector3.new(0,1.35,0)
+local effects_f = effects_e-effects_d
+if effects_f.Magnitude <= 0.01 then return end
+local effects_g = CFrame.lookAt(effects_d,effects_e)
+local effects_h =
+1-math.pow(1-aimSmoothness,tail_c*60)
+systems_s.CFrame = systems_s.CFrame:Lerp(effects_g,effects_h)
+end
+runService.RenderStepped:Connect(function(tail_c)
+if aimbotMobsEnabled then
+if os.clock()-targetTimer >= targetScanInterval then
+targetTimer = os.clock()
+if not aimTarget
+or not aimTarget.Parent
+or not systems_e(aimTarget) then
+aimTarget = systems_o()
+end
+end
+if aimTarget then
+local systems_f =
+aimTarget:FindFirstChildOfClass("Humanoid")
+local systems_d = systems_c(aimTarget)
+if not systems_f or systems_f.Health <= 0 or not systems_d then
+aimTarget = nil
+else
+effects_c(systems_d,tail_c)
+end
+end
+end
+if aimbotPlayersEnabled then
+if os.clock()-healTimer >= targetScanInterval then
+healTimer = os.clock()
+if not playerTarget
+or not playerTarget.Parent
+or not playerTarget.Character then
+playerTarget = systems_z()
+end
+end
+if playerTarget then
+local systems_l = playerTarget.Character
+local systems_f =
+systems_l and systems_l:FindFirstChildOfClass("Humanoid")
+local systems_d = systems_l and systems_c(systems_l)
+if not systems_f or systems_f.Health <= 0 or not systems_d then
+playerTarget = nil
+else
+effects_c(systems_d,tail_c)
+end
+end
+end
+end)
+controls_i.Activated:Connect(function()
+espMobsEnabled = not espMobsEnabled
+if espMobsEnabled then
+controls_i.Text = "ESP Mobs: ON"
+controls_i.BackgroundColor3 = colorMob
+systems_j()
+else
+controls_i.Text = "ESP Mobs: OFF"
+controls_i.BackgroundColor3 = colorOff
+systems_i()
+table.clear(aimTargets)
+aimTarget = nil
+end
+end)
+controls_j.Activated:Connect(function()
+espPlayersEnabled = not espPlayersEnabled
+if espPlayersEnabled then
+controls_j.Text = "ESP Players: ON"
+controls_j.BackgroundColor3 = colorPlayer
+systems_n()
+else
+controls_j.Text = "ESP Players: OFF"
+controls_j.BackgroundColor3 = colorOff
+systems_m()
+playerTarget = nil
+end
+end)
+controls_k.Activated:Connect(function()
+aimbotMobsEnabled = not aimbotMobsEnabled
+if aimbotMobsEnabled then
+controls_k.Text = "Aimbot Mobs: ON"
+controls_k.BackgroundColor3 = colorMob
+aimTarget = nil
+table.clear(aimTargets)
+for _,obj in ipairs(workspace:GetDescendants()) do
+if systems_e(obj) then
+aimTargets[obj] = true
+end
+end
+else
+controls_k.Text = "Aimbot Mobs: OFF"
+controls_k.BackgroundColor3 = colorOff
+aimTarget = nil
+end
+end)
+controls_l.Activated:Connect(function()
+aimbotPlayersEnabled = not aimbotPlayersEnabled
+if aimbotPlayersEnabled then
+controls_l.Text = "Aimbot Players: ON"
+controls_l.BackgroundColor3 = colorPlayer
+playerTarget = nil
+table.clear(playerTargets)
+for _,target in ipairs(playersService:GetPlayers()) do
+if target ~= localPlayer then
+playerTargets[target] = true
+end
+end
+else
+controls_l.Text = "Aimbot Players: OFF"
+controls_l.BackgroundColor3 = colorOff
+playerTarget = nil
+end
+end)
+local effects_i = {
+Brightness = lighting.Brightness,
+ClockTime = lighting.ClockTime,
+FogEnd = lighting.FogEnd,
+GlobalShadows = lighting.GlobalShadows,
+Ambient = lighting.Ambient,
+OutdoorAmbient = lighting.OutdoorAmbient
+}
+controls_m.Activated:Connect(function()
+fullbrightEnabled = not fullbrightEnabled
+if fullbrightEnabled then
+controls_m.Text = "FullBright: ON"
+controls_m.BackgroundColor3 = colorFullbright
+lighting.Brightness = 3
+lighting.ClockTime = 14
+lighting.FogEnd = 100000
+lighting.GlobalShadows = false
+lighting.Ambient = Color3.fromRGB(255,255,255)
+lighting.OutdoorAmbient = Color3.fromRGB(255,255,255)
+else
+controls_m.Text = "FullBright: OFF"
+controls_m.BackgroundColor3 = colorOff
+lighting.Brightness = effects_i.Brightness
+lighting.ClockTime = effects_i.ClockTime
+lighting.FogEnd = effects_i.FogEnd
+lighting.GlobalShadows = effects_i.GlobalShadows
+lighting.Ambient = effects_i.Ambient
+lighting.OutdoorAmbient = effects_i.OutdoorAmbient
+end
+end)
+local effects_j = nil
+local function effects_k()
+local systems_l = localPlayer.Character
+if not systems_l then
+return nil
+end
+return systems_l:FindFirstChildOfClass("Humanoid")
+end
+local function effects_l()
+if not speedEnabled then return end
+local systems_f = effects_k()
+if systems_f then
+systems_f.WalkSpeed = speedValueApplied
+end
+end
+controls_n.Activated:Connect(function()
+speedEnabled = not speedEnabled
+local systems_f = effects_k()
+if speedEnabled then
+if systems_f then
+effects_j = systems_f.WalkSpeed
+end
+controls_n.Text = "Speed: "..speedValueApplied
+controls_n.BackgroundColor3 = colorMovement
+effects_l()
+else
+controls_n.Text = "Speed: "..speedValueApplied
+controls_n.BackgroundColor3 = colorOff
+if systems_f then
+if effects_j then
+systems_f.WalkSpeed = effects_j
+else
+systems_f.WalkSpeed = 16
+end
+end
+effects_j = nil
+end
+end)
+controls_o.FocusLost:Connect(function()
+local effects_m = tonumber(controls_o.Text)
+if effects_m then
+speedValueApplied = math.clamp(
+math.floor(effects_m),
+1,
+maxSpeed
+)
+else
+speedValueApplied = defaultSpeed
+end
+controls_o.Text = tostring(speedValueApplied)
+controls_n.Text = "Speed: "..speedValueApplied
+if speedEnabled then
+effects_l()
+end
+end)
+local function effects_n()
+local systems_l = localPlayer.Character
+if not systems_l then
+return nil,nil,nil
+end
+local systems_f =
+systems_l:FindFirstChildOfClass("Humanoid")
+local systems_d =
+systems_l:FindFirstChild("HumanoidRootPart")
+if not systems_f or not systems_d then
+return nil,nil,nil
+end
+return systems_l,systems_f,systems_d
+end
+local function effects_o()
+if flyEnabled then
+controls_r.Text = "Fly: ON"
+controls_r.BackgroundColor3 = colorMovement
+controls_s.BackgroundColor3 = colorMovement
+controls_u.BackgroundColor3 = colorMovement
+controls_w.BackgroundColor3 = colorMovement
+else
+controls_r.Text = "Fly: OFF"
+controls_r.BackgroundColor3 = colorOff
+controls_s.BackgroundColor3 = colorOff
+controls_u.BackgroundColor3 = colorOff
+controls_w.BackgroundColor3 = colorOff
+end
+end
+local function effects_p()
+if flyJumpConnection then
+flyJumpConnection:Disconnect()
+flyJumpConnection = nil
+end
+if flyConnection then
+flyConnection:Destroy()
+flyConnection = nil
+end
+if noclipConnection then
+ noclipConnection:Destroy()
+ noclipConnection = nil
+end
+if speedConnection then
+ speedConnection:Destroy()
+ speedConnection = nil
+end
+speedValue = 0
+end
+local function effects_q()
+effects_p()
+local systems_l,systems_f = effects_n()
+if systems_f then
+ systems_f.AutoRotate = true
+ systems_f.PlatformStand = false
+end
+end
+local function effects_r()
+if flyEnabled then return end
+local systems_l,systems_f,systems_d = effects_n()
+if not systems_l or not systems_f or not systems_d then
+return false
+end
+flyEnabled = true
+speedValue = 0
+systems_f.AutoRotate = false
+systems_f.PlatformStand = false
+speedConnection = Instance.new("Attachment")
+speedConnection.Name = "Seraph_FlyAttachment"
+speedConnection.Parent = systems_d
+flyConnection = Instance.new("LinearVelocity")
+flyConnection.Name = "Seraph_FlyVelocity"
+flyConnection.Attachment0 = speedConnection
+flyConnection.RelativeTo = Enum.ActuatorRelativeTo.World
+flyConnection.MaxForce = math.huge
+flyConnection.VectorVelocity = Vector3.zero
+flyConnection.Parent = systems_d
+noclipConnection = Instance.new("AlignOrientation")
+noclipConnection.Name = "Seraph_FlyOrientation"
+noclipConnection.Mode = Enum.OrientationAlignmentMode.OneAttachment
+noclipConnection.Attachment0 = speedConnection
+noclipConnection.RigidityEnabled = false
+noclipConnection.Responsiveness = 30
+noclipConnection.MaxTorque = math.huge
+noclipConnection.Parent = systems_d
+effects_o()
+flyJumpConnection = runService.Heartbeat:Connect(function()
+if not flyEnabled then return end
+if not systems_d or not systems_d.Parent then return end
+local systems_s = workspace.CurrentCamera
+if not systems_s then return end
+local effects_s = systems_s.CFrame
+local effects_t = effects_s.LookVector
+local effects_u = effects_s.RightVector
+local effects_v = systems_f.MoveDirection
+local effects_w = Vector3.new(effects_t.X,0,effects_t.Z)
+local effects_x = Vector3.new(effects_u.X,0,effects_u.Z)
+if effects_w.Magnitude > 0.001 then
+ effects_w = effects_w.Unit
+end
+if effects_x.Magnitude > 0.001 then
+ effects_x = effects_x.Unit
+end
+local effects_z = effects_v:Dot(effects_w)
+local finalUi_a = effects_v:Dot(effects_x)
+local effects_y =
+ effects_t*effects_z+
+ effects_u*finalUi_a
+if effects_y.Magnitude > 1 then
+ effects_y = effects_y.Unit
+end
+local finalUi_b = math.clamp(flySpeedValue,minFlySpeed,maxFlySpeed)
+local finalUi_c =
+ effects_y*finalUi_b+
+ Vector3.new(0,speedValue*finalUi_b,0)
+flyConnection.VectorVelocity = finalUi_c
+noclipConnection.CFrame = effects_s.Rotation
+end)
+return true
+end
+controls_r.Activated:Connect(function()
+if flyEnabled then
+flyEnabled = false
+effects_q()
+effects_o()
+else
+if effects_r() then
+ effects_o()
+end
+end
+end)
+controls_s.FocusLost:Connect(function()
+local effects_m = tonumber(controls_s.Text)
+if effects_m then
+flySpeedValue =
+math.clamp(
+math.floor(effects_m),
+minFlySpeed,
+maxFlySpeed
+)
+else
+flySpeedValue = defaultFlySpeed
+end
+controls_s.Text = tostring(flySpeedValue)
+end)
+local function finalUi_d(mainUi_s,effects_m)
+mainUi_s.InputBegan:Connect(function(input)
+if input.UserInputType == Enum.UserInputType.Touch
+or input.UserInputType == Enum.UserInputType.MouseButton1 then
+if flyEnabled then
+speedValue = effects_m
+end
+end
+end)
+mainUi_s.InputEnded:Connect(function(input)
+if input.UserInputType == Enum.UserInputType.Touch
+or input.UserInputType == Enum.UserInputType.MouseButton1 then
+if speedValue == effects_m then
+speedValue = 0
+end
+end
+end)
+end
+finalUi_d(controls_u,1)
+finalUi_d(controls_w,-1)
+local finalUi_e = {}
+userInputService.InputBegan:Connect(function(input,processed)
+if processed then return end
+if input.KeyCode == Enum.KeyCode.Space then
+finalUi_e.Space = true
+end
+if input.KeyCode == Enum.KeyCode.LeftControl then
+finalUi_e.LeftControl = true
+end
+end)
+userInputService.InputEnded:Connect(function(input)
+if input.KeyCode == Enum.KeyCode.Space then
+finalUi_e.Space = false
+end
+if input.KeyCode == Enum.KeyCode.LeftControl then
+finalUi_e.LeftControl = false
+end
+end)
+runService.Heartbeat:Connect(function()
+if not fastHealEnabled then return end
+if speedValue ~= 0 then return end
+local finalUi_f = 0
+if finalUi_e.Space then
+finalUi_f += 1
+end
+if finalUi_e.LeftControl then
+finalUi_f -= 1
+end
+speedValue = finalUi_f
+end)
+local function finalUi_g()
+if not flyJumpEnabled then return end
+local systems_l = localPlayer.Character
+if not systems_l then return end
+local systems_f =
+systems_l:FindFirstChildOfClass("Humanoid")
+local systems_d =
+systems_l:FindFirstChild("HumanoidRootPart")
+if not systems_f or not systems_d then return end
+if systems_f.Health <= 0 then return end
+systems_f:ChangeState(
+Enum.HumanoidStateType.Jumping
+)
+systems_d.AssemblyLinearVelocity =
+Vector3.new(
+0,
+flyJumpHeight,
+0
+)
+end
+controls_q.Activated:Connect(function()
+flyJumpEnabled = not flyJumpEnabled
+if flyJumpEnabled then
+controls_q.Text = "FlyJump: ON"
+controls_q.BackgroundColor3 = colorMovement
+else
+controls_q.Text = "FlyJump: OFF"
+controls_q.BackgroundColor3 = colorOff
+end
+end)
+userInputService.JumpRequest:Connect(function()
+if flyJumpEnabled then
+finalUi_g()
+end
+end)
+local function finalUi_h()
+if not noclipEnabled then return end
+local systems_l = localPlayer.Character
+if not systems_l then return end
+for _,obj in ipairs(systems_l:GetDescendants()) do
+if obj:IsA("BasePart") then
+obj.CanCollide = false
+end
+end
+end
+controls_y.Activated:Connect(function()
+noclipEnabled = not noclipEnabled
+if noclipEnabled then
+controls_y.Text = "Noclip: ON"
+controls_y.BackgroundColor3 = colorMovement
+finalUi_h()
+else
+controls_y.Text = "Noclip: OFF"
+controls_y.BackgroundColor3 = colorOff
+local systems_l = localPlayer.Character
+if systems_l then
+for _,obj in ipairs(systems_l:GetDescendants()) do
+if obj:IsA("BasePart") then
+obj.CanCollide = true
+end
+end
+end
+end
+end)
+runService.Stepped:Connect(function()
+if noclipEnabled then
+finalUi_h()
+end
+end)
+local function finalUi_i()
+if not fastHealEnabled then return end
+local systems_l = localPlayer.Character
+if not systems_l then return end
+local systems_f =
+systems_l:FindFirstChildOfClass("Humanoid")
+if not systems_f then return end
+if systems_f.Health <= 0 then return end
+if systems_f.Health < systems_f.MaxHealth then
+systems_f.Health =
+math.min(
+systems_f.Health+
+healValue*0.1,
+systems_f.MaxHealth
+)
+end
+end
+controls_z.Activated:Connect(function()
+fastHealEnabled = not fastHealEnabled
+if fastHealEnabled then
+controls_z.Text = "Fast Heal: ON"
+controls_z.BackgroundColor3 = colorMovement
+else
+controls_z.Text = "Fast Heal: OFF"
+controls_z.BackgroundColor3 = colorOff
+end
+end)
+systems_a.FocusLost:Connect(function()
+local effects_m = tonumber(systems_a.Text)
+if effects_m then
+healValue =
+math.clamp(
+math.floor(effects_m),
+1,
+maxHeal
+)
+else
+healValue = defaultHeal
+end
+systems_a.Text = tostring(healValue)
+end)
+task.spawn(function()
+while task.wait(0.1) do
+if fastHealEnabled then
+finalUi_i()
+end
+end
+end)
+task.spawn(function()
+while task.wait(0.15) do
+if speedEnabled then
+effects_l()
+end
+end
+end)
+localPlayer.CharacterAdded:Connect(function()
+local flyEstavaAtivo = flyEnabled
+
+if flyEnabled then
+flyEnabled = false
+effects_q()
+effects_o()
+end
+
+task.wait(0.5)
+
+if speedEnabled then
+local humanoid = effects_k()
+
+if humanoid then
+effects_j = humanoid.WalkSpeed
+humanoid.WalkSpeed = speedValueApplied
+end
+end
+
+if noclipEnabled then
+finalUi_h()
+end
+
+if fastHealEnabled then
+task.wait(0.2)
+finalUi_i()
+end
+
+if flyEstavaAtivo then
+task.wait(0.3)
+
+if localPlayer.Character then
+effects_r()
+end
+end
+end)
+
+local finalUi_k = Instance.new("ImageButton")
+finalUi_k.Name = "SeraphCircle"
+finalUi_k.Size = UDim2.new(0,58,0,58)
+finalUi_k.Position = UDim2.new(0,20,0.5,-29)
+finalUi_k.BackgroundColor3 = Color3.fromRGB(25,25,25)
+finalUi_k.BackgroundTransparency = 0.15
+finalUi_k.Image = "rbxassetid://76079354740264"
+finalUi_k.ImageTransparency = 0
+finalUi_k.ScaleType = Enum.ScaleType.Fit
+finalUi_k.BorderSizePixel = 0
+finalUi_k.ZIndex = 200
+finalUi_k.Visible = false
+finalUi_k.Parent = loading_y
+local finalUi_l = Instance.new("UICorner")
+finalUi_l.CornerRadius = UDim.new(1,0)
+finalUi_l.Parent = finalUi_k
+mainUi_e(finalUi_k,2,0)
+content_e.Activated:Connect(function()
+loading_z.Visible = false
+finalUi_k.Visible = true
+end)
+finalUi_k.Activated:Connect(function()
+finalUi_k.Visible = false
+loading_z.Visible = true
+end)
+local function finalUi_m(obj,tail_d)
+local finalUi_n = false
+local finalUi_o
+local finalUi_p
+tail_d.InputBegan:Connect(function(input)
+if input.UserInputType == Enum.UserInputType.MouseButton1
+or input.UserInputType == Enum.UserInputType.Touch then
+finalUi_n = true
+finalUi_o = input.Position
+finalUi_p = obj.Position
+end
+end)
+userInputService.InputChanged:Connect(function(input)
+if not finalUi_n then return end
+if input.UserInputType ~= Enum.UserInputType.MouseMovement
+and input.UserInputType ~= Enum.UserInputType.Touch then
+return
+end
+local finalUi_q = input.Position-finalUi_o
+obj.Position =
+UDim2.new(
+finalUi_p.X.Scale,
+finalUi_p.X.Offset+finalUi_q.X,
+finalUi_p.Y.Scale,
+finalUi_p.Y.Offset+finalUi_q.Y
+)
+end)
+userInputService.InputEnded:Connect(function(input)
+if input.UserInputType == Enum.UserInputType.MouseButton1
+or input.UserInputType == Enum.UserInputType.Touch then
+finalUi_n = false
+end
+end)
+end
+local finalUi_r = Instance.new("TextButton")
+finalUi_r.Name = "DragArea"
+finalUi_r.Size = UDim2.new(1,-55,0,45)
+finalUi_r.Position = UDim2.new(0,0,0,0)
+finalUi_r.BackgroundTransparency = 1
+finalUi_r.Text = ""
+finalUi_r.AutoButtonColor = false
+finalUi_r.BorderSizePixel = 0
+finalUi_r.ZIndex = 125
+finalUi_r.Parent = loading_z
+finalUi_m(loading_z,finalUi_r)
+finalUi_m(finalUi_k,finalUi_k)
+controls_e()
+effects_o()
+print("Seraph HUB 1.0 carregado com Fly 360°, 4 temas e sistema central de bordas.")
+task.spawn(function()
+local finalUi_s = 2.8
+local finalUi_o = os.clock()
+while os.clock() - finalUi_o < finalUi_s do
+local finalUi_t =
+math.clamp(
+(os.clock() - finalUi_o) / finalUi_s,
+0,
+1
+)
+loading_q.Size =
+UDim2.new(
+finalUi_t,
+0,
+1,
+0
+)
+local finalUi_u =
+math.floor(finalUi_t * 100)
+loading_r.Text =
+tostring(finalUi_u).."%"
+if finalUi_u < 35 then
+loading_n.Text = "Inicializando..."
+elseif finalUi_u < 70 then
+loading_n.Text = "Carregando recursos..."
+elseif finalUi_u < 95 then
+loading_n.Text = "Preparando Seraph HUB..."
+else
+loading_n.Text = "Concluído!"
+end
+runService.RenderStepped:Wait()
+end
+loading_q.Size = UDim2.new(1,0,1,0)
+loading_r.Text = "100%"
+loading_n.Text = "Concluído!"
+task.wait(0.35)
+if loading_w then
+loading_w:Disconnect()
+loading_w = nil
+end
+for i = 0,1,0.08 do
+if loading_e and loading_e.Parent then
+loading_e.BackgroundTransparency = i
+end
+if loading_f and loading_f.Parent then
+loading_f.BackgroundTransparency =
+math.clamp(0.05 + i,0,1)
+end
+runService.RenderStepped:Wait()
+end
+if loading_d then
+loading_d:Destroy()
+end
+print("Seraph HUB: Loading finalizado.")
+end)
