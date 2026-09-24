@@ -850,7 +850,7 @@ end)
 -- SHADERS EXTERNOS
 --==================================================
 
-local SHADER_URL = "https://raw.githubusercontent.com/lkzhin/Seraph-hub/refs/heads/main/Seraph%20hub"
+local SHADER_URL = "https://raw.githubusercontent.com/lkzhin/Seraph-Shaders/refs/heads/main/SeraphShader.lua"
 
 _shaderExecute.Activated:Connect(function()
 	local ok, err = pcall(function()
